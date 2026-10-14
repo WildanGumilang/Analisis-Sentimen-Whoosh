@@ -188,3 +188,9 @@ dan mencatat `first_seen`/`seen_after` serta log per run di `data/raw/runs/`. Go
 - Tanggal review bersifat perkiraan: 74% review relevan hanya bertanggal "setahun lalu" atau "2 tahun lalu",
   sehingga tren dibuat per tiga periode relatif, bukan per bulan/kuartal.
 - Label dibuat LLM tanpa validasi manusia (lihat `output/evaluation.md`).
+
+## Lisensi
+
+Kode di repo ini dilisensikan dengan [MIT License](LICENSE). Lisensi tersebut **tidak** mencakup isi ulasan
+Google Maps (kutipan di `data/public/` dan laporan di `output/`): teks ulasan tetap milik penulisnya dan tunduk
+pada Ketentuan Layanan Google. Gunakan untuk riset non-komersial.
