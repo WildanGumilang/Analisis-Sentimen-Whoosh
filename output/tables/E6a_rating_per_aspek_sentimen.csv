@@ -1,0 +1,28 @@
+category,sentiment,n,rata2,median,1★,2★,3★,4★,5★
+Akses jalan & macet,negatif,46,3.391304347826087,4.0,8,5,7,13,13
+Akses jalan & macet,netral,6,4.5,4.5,0,0,0,3,3
+Akses jalan & macet,positif,8,4.75,5.0,0,0,0,2,6
+Angkot/opang,negatif,23,2.391304347826087,2.0,9,5,2,5,2
+Angkot/opang,netral,1,2.0,2.0,0,1,0,0,0
+Feeder/bus,negatif,5,3.4,4.0,1,1,0,1,2
+Feeder/bus,netral,24,4.583333333333333,5.0,0,1,1,5,17
+Feeder/bus,positif,11,4.909090909090909,5.0,0,0,0,1,10
+Integrasi jadwal,negatif,2,3.0,3.0,0,1,0,1,0
+Jarak & lokasi,negatif,36,4.333333333333333,5.0,2,0,2,12,20
+Jarak & lokasi,netral,15,4.8,5.0,0,0,0,3,12
+Jarak & lokasi,positif,20,4.85,5.0,0,0,0,3,17
+Konektivitas umum,negatif,38,3.5,4.0,6,3,6,12,11
+Konektivitas umum,netral,2,5.0,5.0,0,0,0,0,2
+Konektivitas umum,positif,9,4.888888888888889,5.0,0,0,0,1,8
+Ojol,negatif,29,2.8620689655172415,3.0,7,6,5,6,5
+Ojol,netral,8,4.375,5.0,0,1,0,2,5
+Ojol,positif,7,4.857142857142857,5.0,0,0,0,1,6
+Padalarang (KA feeder),negatif,4,4.0,4.5,0,1,0,1,2
+Padalarang (KA feeder),netral,2,5.0,5.0,0,0,0,0,2
+Padalarang (KA feeder),positif,12,4.333333333333333,5.0,1,0,1,2,8
+Parkir & antar-jemput,negatif,33,3.0606060606060606,3.0,11,2,4,6,10
+Parkir & antar-jemput,netral,4,4.5,4.5,0,0,0,2,2
+Parkir & antar-jemput,positif,20,4.7,5.0,0,0,0,6,14
+Taksi,negatif,2,5.0,5.0,0,0,0,0,2
+Taksi,netral,11,4.454545454545454,5.0,0,1,0,3,7
+Taksi,positif,3,5.0,5.0,0,0,0,0,3

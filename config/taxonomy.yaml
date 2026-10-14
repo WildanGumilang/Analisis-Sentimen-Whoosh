@@ -1,0 +1,53 @@
+# Taksonomi aspek KONEKTIVITAS TRANSPORTASI menuju/dari Stasiun Whoosh Tegalluar.
+# Kode aspek dipakai persis di semua tahap (filter, baseline, Label Studio, analisis).
+# Definisi lengkap + contoh ada di config/guideline.md.
+
+aspects:
+  FEEDER_BUS: Bus feeder/shuttle resmi, DAMRI, Trans Metro Pasundan (TMP), Teman Bus, travel, halte bus
+  PADALARANG: Opsi turun/naik di Padalarang, KA Feeder / kereta penghubung ke Stasiun Bandung
+  OJOL: Ojek/mobil online (Gojek, Grab, Maxim, inDrive), titik jemput & drop-off ojol
+  TAKSI: Taksi konvensional (Bluebird, dll.), argo, tarif taksi
+  ANGKOT_OJEK_PANGKALAN: Angkot, angkutan umum informal, ojek pangkalan (opang), calo
+  PARKIR: Parkir kendaraan pribadi (kapasitas, tarif, parkir inap, valet), antar-jemput pribadi
+  AKSES_JALAN_MACET: Kemacetan & kondisi jalan menuju/dari stasiun, akses tol, putar balik
+  JARAK_LOKASI: Lokasi stasiun jauh/dekat dari pusat kota atau tujuan
+  INTEGRASI_JADWAL: Jadwal & jam operasional moda lanjutan, waktu tunggu, sinkronisasi dengan kereta, tiket terusan
+  KONEKTIVITAS_UMUM: Penilaian umum akses/transportasi lanjutan tanpa moda spesifik ("susah pulangnya", "akses transportasinya kurang")
+
+sentiments: [positive, negative, neutral, mixed]
+
+issue_tags:
+  - tarif_mahal
+  - tarif_wajar
+  - waktu_tunggu_lama
+  - tidak_tersedia
+  - mudah_didapat
+  - titik_jemput_jauh
+  - titik_jemput_membingungkan
+  - jam_operasional_terbatas
+  - jadwal_tidak_sinkron
+  - macet
+  - akses_jalan_buruk
+  - lokasi_jauh
+  - informasi_kurang
+  - terintegrasi_baik
+  - nyaman
+  - luas
+  - penuh
+  - pungli
+  - konflik_opang        # v1.1: ojol dilarang/diintimidasi ojek pangkalan/preman
+  - kapasitas_kurang     # v1.1: parkir sempit/kurang luas (lawan 'luas')
+  - tidak_terintegrasi   # v1.1: lawan 'terintegrasi_baik'
+  - lainnya
+
+# Prototipe topik NON-konektivitas untuk skor margin filter (Tahap 3):
+#   margin = similarity maks ke aspek - similarity maks ke prototipe di bawah ini.
+# Tambah/ubah di sini jika ada topik non-konektivitas yang sering lolos filter.
+non_aspect_prototypes:
+  - "fasilitas di dalam stasiun: toilet, mushola, ruang tunggu, AC, charging station"
+  - "kebersihan dan kerapian stasiun, bangunan megah dan modern"
+  - "layanan kereta cepat: kecepatan kereta, kenyamanan kursi, perjalanan Jakarta Bandung cepat"
+  - "petugas stasiun ramah dan pelayanan baik"
+  - "harga tiket kereta, pembelian tiket, check-in, boarding"
+  - "makanan, tenant, restoran, coffee shop di stasiun"
+  - "pujian umum: bagus, keren, mantap, nyaman, luar biasa"

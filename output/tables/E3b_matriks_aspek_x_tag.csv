@@ -1,0 +1,11 @@
+aspek,akses_jalan_buruk,tidak_tersedia,lokasi_jauh,konflik_opang,lainnya,macet,luas,mudah_didapat,tarif_mahal,informasi_kurang,kapasitas_kurang,tarif_wajar,terintegrasi_baik,waktu_tunggu_lama,pungli,tidak_terintegrasi,titik_jemput_membingungkan,penuh,jadwal_tidak_sinkron,nyaman,titik_jemput_jauh
+Akses jalan & macet,50,0,1,0,0,21,0,0,0,8,0,0,0,0,0,0,0,0,0,1,0
+Angkot/opang,0,1,0,23,2,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0
+Feeder/bus,0,2,0,0,2,0,0,3,0,0,0,5,2,0,0,1,0,0,0,0,0
+Integrasi jadwal,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0
+Jarak & lokasi,0,0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Konektivitas umum,0,22,0,0,1,0,0,5,0,1,0,0,1,0,0,2,1,0,0,0,0
+Ojol,0,16,0,14,1,0,1,7,5,0,0,0,0,2,0,0,0,0,0,0,0
+Padalarang (KA feeder),0,2,0,0,0,1,0,0,0,1,0,2,7,0,0,0,0,0,0,0,0
+Parkir & antar-jemput,0,0,0,0,27,0,18,0,9,3,11,4,0,0,0,0,1,2,0,0,1
+Taksi,0,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0

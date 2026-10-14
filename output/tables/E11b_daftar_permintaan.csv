@@ -1,0 +1,31 @@
+category,sentiment,issue_tags,evidence,likes
+Akses jalan & macet,negative,akses_jalan_buruk,sekali aja ke sini kl jalan belum diperbaiki,4
+Akses jalan & macet,negative,akses_jalan_buruk,Kcic tolong bikin akses yg bener.,4
+Akses jalan & macet,negative,macet,"Lalu lintas dan jarak dari stasiun kereta lokal terdekat, yaitu Stasiun Cimekar, adalah hal-hal yang perlu dipertimbangkan.",3
+Akses jalan & macet,negative,akses_jalan_buruk,tolong dong jalan yang di tengah buka,0
+Akses jalan & macet,negative,akses_jalan_buruk,Mbok ya dibikin akses langsung tol,0
+Akses jalan & macet,negative,akses_jalan_buruk,Akses jalan perlu perbaikan,0
+Akses jalan & macet,negative,informasi_kurang,tolong dong ada petunjuk arahan kalau mau ke stasiun,0
+Akses jalan & macet,negative,akses_jalan_buruk,Masih perlu lewar jalan jalan kecil dan cukup masuk ke dalam untun sampai dari kota.,0
+Feeder/bus,negative,tidak_tersedia,perlu ditambah alternatif moda transportasi lain seperti bus,2
+Feeder/bus,negative,tidak_tersedia,Mohon diperbanyak lagi untuk angkutan fedeernya.,0
+Jarak & lokasi,negative,lokasi_jauh,"Lokasi trrlalu jauh,harusnya di kota",0
+Konektivitas umum,negative,,perlu di tingkatkan lagi sarana ke pusat kota bandung,6
+Konektivitas umum,negative,,hanya konektivitas saja yang perlu diperhatikan,4
+Konektivitas umum,negative,tidak_tersedia,Semoga kedepanya sistem transit ke transportasi lain diperbanyak lagi karena untuk saat ini masih minim sekali.,4
+Konektivitas umum,negative,,Akses menuju stasiun masih perlu ditingkatkan.,1
+Konektivitas umum,negative,tidak_tersedia,Perlu ditambah angkutan umum atau feeder.,1
+Konektivitas umum,negative,tidak_tersedia,Harusnya juga ada yang ke Jatinangor urgent banget,0
+Konektivitas umum,negative,tidak_tersedia;tidak_terintegrasi,perlu diintegrasikan dg moda transum lebih banyak lg,0
+Konektivitas umum,negative,tidak_tersedia,Tolong dong sediain feeder juga akses dari tegal luar masa padalarang doang sih,0
+Ojol,negative,tarif_mahal,sebaiknya hati-hati dengan tarif nembak dari supirnya,1
+Ojol,negative,,Grab? Should be removed.,0
+Ojol,negative,waktu_tunggu_lama,"you need to wait 15-20min on app to get regular price, just to get cancelled",0
+Padalarang (KA feeder),positive,tarif_wajar,kalo bisa naik feeder gratis kenapa naik bis ya,0
+Parkir & antar-jemput,mixed,kapasitas_kurang,parkir untuk saat ini cukup tapi sepertinya perlu ditambah,1
+Parkir & antar-jemput,negative,lainnya,sebaiknya untuk parkiran motor atau roda dua sebaiknya ada atap tertutup,1
+Parkir & antar-jemput,negative,lainnya,mengenai parkiran mohon di kasih pembatas polisi tidur kotak buat ban,1
+Parkir & antar-jemput,negative,kapasitas_kurang,Parkiran perlu lebih banyak,0
+Parkir & antar-jemput,negative,lainnya,"parking gate-nya sering bermasalah sejak lama, tidak kunjung diperbaiki",0
+Parkir & antar-jemput,negative,kapasitas_kurang,Tolong parkirannya diperluas,0
+Parkir & antar-jemput,negative,lainnya,kalo bisa ganti vendor parkir nya,0

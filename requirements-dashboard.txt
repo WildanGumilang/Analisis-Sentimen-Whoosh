@@ -1,0 +1,7 @@
+# Kebutuhan minimal untuk menjalankan dashboard saja (tanpa pipeline scraping/model).
+streamlit>=1.40
+plotly>=5.20
+pandas>=2.0
+numpy>=1.24
+statsmodels>=0.14
+pyyaml>=6

@@ -1,0 +1,277 @@
+kode_ulasan,category,sentiment,evidence,topik
+U49cb7faafe,AKSES_JALAN_MACET,negative,Akses menuju sta tegalluar klo malam kurang sekali penerangan,-1
+U6616c66c5b,KONEKTIVITAS_UMUM,negative,akses transportasu keluar masuk kesitu nya susah,3
+U6616c66c5b,OJOL,negative,masa ojol dilarang masuk,0
+U6616c66c5b,ANGKOT_OJEK_PANGKALAN,negative,bukan untuk opang saja,0
+U7f40b3a2da,OJOL,negative,ojol saat ini belum bisa masuk,0
+U7f40b3a2da,ANGKOT_OJEK_PANGKALAN,negative,harus pesan opang disana,0
+U9ad3561268,OJOL,negative,Sayang sekali ojek online tidak bisa (tidak boleh )ambil penumpang dari stasiun !!,2
+U7973beb561,KONEKTIVITAS_UMUM,negative,sayang sekali belum terintegrasi dengan fasilitas transportasi umum yang lain,2
+U2b75ea1dba,PARKIR,negative,penjaga parkir nya rada ngegas,1
+U7521b17a26,KONEKTIVITAS_UMUM,negative,angkutan umum sulit,2
+U7521b17a26,OJOL,negative,"kalau pakai online jarak jauh banyak yang tidak mau, mau pun minta tambahan ongkos",3
+U2d9dab0ccf,KONEKTIVITAS_UMUM,negative,keduanya tidak menawarkan akses yang mudah ke stasiun,2
+U2d9dab0ccf,AKSES_JALAN_MACET,negative,"Lalu lintas dan jarak dari stasiun kereta lokal terdekat, yaitu Stasiun Cimekar, adalah hal-hal yang perlu dipertimbangkan.",8
+U2d9dab0ccf,JARAK_LOKASI,negative,"jarak dari stasiun kereta lokal terdekat, yaitu Stasiun Cimekar",8
+U095cf6d768,AKSES_JALAN_MACET,negative,Akses ke stasiun susah,2
+U095cf6d768,AKSES_JALAN_MACET,negative,kalau musim hujan banyak jalur yg macet dan banjir,5
+U095cf6d768,AKSES_JALAN_MACET,negative,Tol belum di buka,-1
+Ua19a549aa3,ANGKOT_OJEK_PANGKALAN,negative,Ojek pangkalannya rasa premanisme,0
+Ua19a549aa3,OJOL,negative,Ojek online gak bisa masuk malah di cegat,-1
+Ue8f6eb81eb,KONEKTIVITAS_UMUM,negative,Bad for accessibility,6
+U368cad5538,KONEKTIVITAS_UMUM,negative,Akses menuju stasiun masih perlu ditingkatkan.,2
+U39347eff97,PADALARANG,negative,"Kereta feeder sdh tdk operasional smp stasiun ini, hanya smp St. Padalarang saja.",2
+U39347eff97,JARAK_LOKASI,negative,Stasiun yg agak terisolir dr peradaban,11
+Ua097d524f2,JARAK_LOKASI,negative,Stasiun yg jauh.,11
+Ua097d524f2,AKSES_JALAN_MACET,negative,Weekend jalanan munglin macet karna banyak yg mau k mesjid,5
+U82fde303d6,ANGKOT_OJEK_PANGKALAN,negative,Tertibin dong opangnya,0
+U82fde303d6,OJOL,negative,ini ojol rata2 gak mau pada ambil takut sama opang,0
+U82fde303d6,KONEKTIVITAS_UMUM,negative,"Stasiun elit, angkutan sulit",8
+U2448ec76d1,TAKSI,negative,jangan mau di paksa naik blue bird dan DAMRI di puter puter,0
+Ua84c10c791,PARKIR,negative,Needs more parking spaces,1
+U96b5f8e4e1,KONEKTIVITAS_UMUM,negative,not well connected,6
+U96b5f8e4e1,JARAK_LOKASI,negative,the station located in the middle of rice fields,11
+U96b5f8e4e1,AKSES_JALAN_MACET,negative,only narrow road connections to anywhere important,7
+U96b5f8e4e1,KONEKTIVITAS_UMUM,negative,little real public transport connections,2
+U367c2fc674,KONEKTIVITAS_UMUM,negative,akses nya belum baik,6
+U5bc43c0220,PARKIR,negative,"Biaya Parkirnya mahal untuk parkir inap, tidak ada lagi Tarif maximal, sudah dihapus.",1
+U5bc43c0220,PARKIR,negative,mana gak ada atap,1
+U4a07ac32a9,KONEKTIVITAS_UMUM,negative,Perlu ditambah angkutan umum atau feeder.,2
+U4a208fee4a,JARAK_LOKASI,negative,Mungkin karena stasiun ini jauh dari Kota Bandung.,4
+U4a208fee4a,AKSES_JALAN_MACET,negative,"yang jarak tempuhnya sekitar 1 jam lebih, karena jauh dan macet",3
+U9477bbf9df,JARAK_LOKASI,negative,Stasiun KCIC nya jauh dari mana²,11
+U9477bbf9df,INTEGRASI_JADWAL,negative,Ada bus DAMRI juga jadual nya gak sesuai dg jadual whoosh jd kudu nunggu lama.,-1
+U2a2cf55bd1,JARAK_LOKASI,negative,"Lokasinya agak terasing, dan jauh dari pusat kota",4
+U427959e56a,JARAK_LOKASI,negative,lokasinya agak jauh dari pusat kota,4
+U427959e56a,KONEKTIVITAS_UMUM,negative,kalau nggak naik shuttle atau taksi agak ribet,3
+U429e230bcd,KONEKTIVITAS_UMUM,negative,Hanya untuk pencapaian kesini masih terbatas transportasi nya,2
+Ufd6996bcde,JARAK_LOKASI,negative,Stasiun yg jauh dr mana2.,11
+U02170d128f,PARKIR,negative,"Signage utk pickup tidak jelas, cuma ada drop off.",1
+U02170d128f,PARKIR,negative,Padahal dari gate arrival ke tempat parkir (saya jadinya parkir dulu karena tdk jelas) itu cukup jauh,-1
+U02170d128f,PARKIR,negative,Pintu di samping gate arrival pun juga ditutup padahal sangat ideal buat area penjemputan.,-1
+U02170d128f,AKSES_JALAN_MACET,negative,Aksesnya ribeuut banget.,6
+U02170d128f,AKSES_JALAN_MACET,negative,harus lewat tengah kampung jalanan sempit,7
+U02170d128f,AKSES_JALAN_MACET,negative,kalo ada kereta api lewat jadi macet panjang,3
+U02170d128f,AKSES_JALAN_MACET,negative,Dikirain ada pintu tol di dekatnya ternyata tidak,-1
+U07d8892199,OJOL,negative,gojek nya gamau lewat situ disuruh lewat depan jalur cileunyi dan nambah biaya,0
+U5ec98c2808,KONEKTIVITAS_UMUM,negative,pilihan transportasi lanjutan tidak sebanyak stasiun padalarang,2
+U25429ffa9b,ANGKOT_OJEK_PANGKALAN,negative,sy sampai di cegat ama opang padahal sy cuma ngejemput saudara sy,0
+U465b582382,AKSES_JALAN_MACET,negative,tidak ada akses langsung ke jalan tol,2
+U465b582382,AKSES_JALAN_MACET,negative,Anda harus melewati jalan sempit dan kemacetan lalu lintas,5
+Uc9bdf40787,PARKIR,negative,parkiran mobil aga sempit,1
+U9d5fecd5bd,KONEKTIVITAS_UMUM,neutral,Di pintu keluar shuttle dan beberapa driver menunggu penumpang,3
+U0ae1f183fe,PARKIR,negative,tempat parkir nya kurang luas,1
+U0d12f163fb,PARKIR,negative,Spesial mobil berPlat khusus  bisa parkir sembarangan,1
+U0d12f163fb,OJOL,negative,Kalau ojek mau naikin penumpang dikejar kejar,10
+U812e79a60c,AKSES_JALAN_MACET,negative,Akses ke sini emang macet..,5
+Uc7938671b5,KONEKTIVITAS_UMUM,negative,Akses transportasi umum masih sangat minim (kalau boleh dibilang tidak ada).,2
+Uc7938671b5,FEEDER_BUS,negative,DAMRI hanya melayani rute hingga ke Mall Sumarecon Ciluetih.,8
+U7ed1b50c69,KONEKTIVITAS_UMUM,negative,akses transportasi umumnya ga ada,2
+U7ed1b50c69,PARKIR,negative,biaya parkir mahalllll banget,1
+U630836396c,PARKIR,negative,"Parkirnya mahal, Tidak ada atap dan kecil",1
+Ua5f26651f3,AKSES_JALAN_MACET,negative,Perjalanan ke kota bandung lumayan macet dari sini.,5
+Ua5f26651f3,JARAK_LOKASI,negative,"dari sini ke area sekitar Trans Studio Mall pakai mobil makan waktu 1,5 jam",3
+Uc87e7bd8ef,KONEKTIVITAS_UMUM,neutral,Mau ke kota Bandung juga bisa.,4
+Uc35a6a3a2e,PADALARANG,negative,"Anda tidak mendapatkan akses ke kereta penghubung, itu sangat disayangkan!",2
+Uc35a6a3a2e,INTEGRASI_JADWAL,negative,waktu yang Anda bayarkan untuk dihemat terbuang percuma menunggu kereta reguler,3
+Uf7114f9cbc,JARAK_LOKASI,negative,バンドン市内中心部からかなり離れており駅としての利便性は良く無い,4
+U006cc22a11,AKSES_JALAN_MACET,negative,Tidak ada akses jalan kalau dari Ranca ekek..sementara ini jalan nya muter lewat sawah,12
+U006cc22a11,AKSES_JALAN_MACET,negative,tolong dong jalan yang di tengah buka,7
+Uad72a48cf8,AKSES_JALAN_MACET,negative,mau pulang ke stasiun tegalluar tapi kena banjir,5
+Uad72a48cf8,TAKSI,negative,banyak taksi yang nolak,3
+U9824517812,KONEKTIVITAS_UMUM,negative,the access is not quite good,6
+Uf286fcb0ea,AKSES_JALAN_MACET,negative,Agak macet jalan kesana,5
+U371d66e562,ANGKOT_OJEK_PANGKALAN,negative,"the local Ojek pangkalan, who's not allowing other bike taxi coming in",0
+U371d66e562,OJOL,negative,I was strongly intimidated by them when I ordered online taxi motorbike,-1
+Ub9effae392,AKSES_JALAN_MACET,negative,Sebenernya dua duanya akses nya buruk,6
+Ub9effae392,AKSES_JALAN_MACET,negative,kalo lewat soekarno hatta tau sendiri macetnya cibiru pake mobil lama banget,10
+Ub9effae392,AKSES_JALAN_MACET,negative,cuma emang parah akses kesininya aja,9
+U34b635f8f4,PARKIR,negative,送りと迎えの停車位置をわけ別の場所で乗り降りできると入口が混まないとおもう,3
+U34b635f8f4,AKSES_JALAN_MACET,negative,駅に向かう途中の踏切やモスクにより大渋滞に巻き込まれることがあるので注意！,5
+U9292f77624,JARAK_LOKASI,negative,The Station are out of nowhere,11
+U9292f77624,KONEKTIVITAS_UMUM,negative,isn't easy to reach except with your own car/bike,3
+Uf14bb14a58,KONEKTIVITAS_UMUM,negative,Transportasi ke luar sulit,-1
+U9ef94e0241,JARAK_LOKASI,negative,Letaknya di bandung selatan lumayan pinggiran kota,4
+U9ef94e0241,AKSES_JALAN_MACET,negative,Aksesnya juga agak susah ya kalau ga lewat tol ya lewat jalan biasa,-1
+U9ef94e0241,KONEKTIVITAS_UMUM,negative,Hanya aksesnya saja yang agak susah,6
+U9ef94e0241,PARKIR,negative,parkir juga ga terlalu luas,1
+U9ef94e0241,KONEKTIVITAS_UMUM,negative,hanya konektivitas saja yang perlu diperhatikan,9
+U30b16f747d,AKSES_JALAN_MACET,negative,Akses nya buruk banget,6
+U30b16f747d,JARAK_LOKASI,negative,jauh dari mana2,13
+U30b16f747d,AKSES_JALAN_MACET,negative,Jalan kecil & rusak,12
+U30b16f747d,AKSES_JALAN_MACET,negative,Untuk bus pariwisata rawan kesasar,-1
+U30b16f747d,AKSES_JALAN_MACET,negative,Mbok ya dibikin akses langsung tol,3
+Uc31ab3510a,OJOL,negative,Harga grabnya tidak sesuai dengan dengan harga yg di aplikasi,3
+Ua4e73e64b7,PARKIR,negative,sebaiknya untuk parkiran motor atau roda dua sebaiknya ada atap tertutup,1
+U125cea3f49,FEEDER_BUS,negative,Mohon diperbanyak lagi untuk angkutan fedeernya.,-1
+Uab4239e426,AKSES_JALAN_MACET,negative,Akses jalan menuju lokasi diperlebar dong.,-1
+Ud37b59686b,AKSES_JALAN_MACET,negative,Macettt pas pertigaan mau ke stasiun,8
+Ufaef45985b,AKSES_JALAN_MACET,negative,sekali aja ke sini kl jalan belum diperbaiki,-1
+Ufaef45985b,AKSES_JALAN_MACET,negative,Rute nyasar2..,0
+Ufaef45985b,AKSES_JALAN_MACET,negative,Jangaaaaan yg lewat Majalaya/ Dang deur.. iniii menyesatkan.,0
+Ufaef45985b,AKSES_JALAN_MACET,negative,Kcic tolong bikin akses yg bener.,9
+U800ddf2839,JARAK_LOKASI,negative,"Lokasi trrlalu jauh,harusnya di kota",4
+Ud8039f8c34,JARAK_LOKASI,negative,meskipun agak jauh,13
+Uad14e8902d,JARAK_LOKASI,negative,Lokasi agak jauh dari kota,4
+U5359eecae0,ANGKOT_OJEK_PANGKALAN,negative,Sangat minim akses kendaraan umum trayek (tdk ada angkot/bus umum),2
+U5359eecae0,OJOL,negative,non trayek (online taxi banyak menghindari),3
+U5359eecae0,AKSES_JALAN_MACET,negative,"Area sekitar macet, banjir, sempit, dan tdk banyak jalur alternatif",5
+U5359eecae0,KONEKTIVITAS_UMUM,negative,"Saran untuk yg berkendaraan umum, spare waktu 2 jam+ meskipun ini di dalam kota",3
+Ufd88a81a07,AKSES_JALAN_MACET,negative,aksesnya jalan menuju stasiun kecil dengan kondisi yang jelek..,2
+Uadcaf1ea5b,ANGKOT_OJEK_PANGKALAN,negative,sekarang malah nambah taxi asongan:(,10
+Uadcaf1ea5b,PARKIR,negative,drop zone dipake parkir:(,1
+U168d7df2a0,KONEKTIVITAS_UMUM,negative,Akses yang sangat buruk,6
+U1f680e70d9,KONEKTIVITAS_UMUM,negative,perlu di tingkatkan lagi sarana ke pusat kota bandung,0
+U1f680e70d9,OJOL,negative,"Grab dan ojek online usah,",-1
+Uf5c0e20653,PARKIR,negative,"drop off gak ada jalur keluar/puter balik khusus, alhasil lewat parkir bayar 3rb padahal GK parkir sama sekali lewat doang",1
+U3d9abdc892,AKSES_JALAN_MACET,negative,Mau masuk susah akses  jalan kecil diluar atu didalam area whooosh,7
+U767fbf7aa6,ANGKOT_OJEK_PANGKALAN,negative,"Tukang ojek pangkalan harus di tertibkan, setiap ada ojek online diteriakin",-1
+U767fbf7aa6,ANGKOT_OJEK_PANGKALAN,negative,"orang juga jadi males make ojek pangkalan, adab nya gaada",0
+Ud235d5956b,JARAK_LOKASI,negative,jauh dari pusat kota Bandung,4
+U8c6a1a8ed9,AKSES_JALAN_MACET,negative,"Ga ada toll, bodoh",1
+U9db2caff58,JARAK_LOKASI,negative,Lokasinya cukup jauh dari pusat kota,4
+U9db2caff58,AKSES_JALAN_MACET,negative,melewati jalur yg agak sempit,7
+U472f565b12,PARKIR,negative,Area parkir mobil/motor  cukup panas krn di ruang terbuka tanpa atap,1
+U472f565b12,AKSES_JALAN_MACET,negative,jalan menuju ke stasiun ( jalan gedebage dan GBLA ) sangat gelap dan jarang ada penerangan,-1
+U8a42e6c92d,AKSES_JALAN_MACET,negative,akses via google maps susah jadi nyasar ke jalan sawah,-1
+U8a42e6c92d,AKSES_JALAN_MACET,negative,kesel aja akses jalan susah bgt jd buang waktu,-1
+U36089492a1,AKSES_JALAN_MACET,negative,Treknya mobilnya bingungin,10
+U40c59b64cb,AKSES_JALAN_MACET,negative,"akses untuk bisa kesini masih susah, macet, jalan rusak",5
+U4ebbf88427,AKSES_JALAN_MACET,negative,"Akses jalan lewat cimekar jelek banget, jalan yang di cor cuma sebagian",12
+Ueff5f250ba,PARKIR,negative,Parkir kurang luas.,1
+Ueff5f250ba,PARKIR,negative,siang hari biasanya Selalu hampir penuh,5
+U21cd7940df,KONEKTIVITAS_UMUM,positive,terintegrasi dengan baik,0
+U6d64748862,ANGKOT_OJEK_PANGKALAN,negative,Harus di aman kan opank,0
+Ueb55bc900e,OJOL,negative,Akses kendaraan online susah,3
+Ueb55bc900e,ANGKOT_OJEK_PANGKALAN,negative,karena ada ojek pangkalan,0
+Ueb55bc900e,AKSES_JALAN_MACET,negative,akses jalan masih kurang bagus yang kearah cibiru.,12
+U44983c36a8,PARKIR,negative,mengenai parkiran mohon di kasih pembatas polisi tidur kotak buat ban,1
+U84b18c6fa9,KONEKTIVITAS_UMUM,negative,Akses keadaan umum masih sulit,6
+U3a5f98e043,KONEKTIVITAS_UMUM,positive,akses cepat ke tempat lain,9
+Uec8c59c271,PARKIR,negative,kenapa ga ada tarif parkir inap mobil.. reuwas mayar parkir mobil 3 hari,1
+Ueb6a2a1b53,KONEKTIVITAS_UMUM,negative,Masih minim kendaraan umum.,2
+Ueb6a2a1b53,KONEKTIVITAS_UMUM,negative,Harusnya juga ada yang ke Jatinangor urgent banget,0
+U8cbcd99f47,PARKIR,negative,Parkiran mahal,1
+U75161a454b,PARKIR,negative,theres no seating area on drop off zone,1
+U0070023d19,JARAK_LOKASI,negative,lokasinya jauh dari bandung kota,4
+U25a192f520,KONEKTIVITAS_UMUM,positive,Akses ke Stasiun Tegalluar juga relatif mudah,8
+U7f3e9b7105,OJOL,negative,dilarang pake ojek online oleh ojek pangkalan disitu,-1
+U7f3e9b7105,ANGKOT_OJEK_PANGKALAN,negative,"si bapak ojol nya dimarahin diancam sampe mau dipukul sama ojek yang mangkal disitu,kaya preman maksa",0
+U8e1c991a0b,AKSES_JALAN_MACET,negative,Akses jalan perlu perbaikan,12
+U1ea71cbb50,JARAK_LOKASI,negative,lokasinya terpencil dari pusat kota,4
+U1ea71cbb50,PARKIR,negative,jangan lupa bawa kartu tap parkir karna minim menerima uang cash,1
+U2b31b62dd3,PARKIR,negative,Parkiran perlu lebih banyak,1
+Uea1a72ccef,OJOL,negative,tranportasi online aj gak bs masuk,-1
+Uea1a72ccef,ANGKOT_OJEK_PANGKALAN,negative,kita d paksa pakai opang..lagi2 aksi premanisme,0
+U90331cad09,OJOL,negative,"Jangan pernah kesini lewat jalan cimencrang, soekarno hatta pake ojek online",0
+U90331cad09,ANGKOT_OJEK_PANGKALAN,negative,preman berkedok ojek pangkalan  berperilaku kasar dan maksa buat ganti ojek mereka,0
+U1884fc7f91,KONEKTIVITAS_UMUM,negative,kecewa dengan stasiun ini yang tidak memastikan kemudahan transportasi umum,2
+U1884fc7f91,OJOL,negative,banyak driver aplikasi ride-hailing yang tidak mau pickup dan mengantar penumpang ke stasiun ini,3
+U1884fc7f91,ANGKOT_OJEK_PANGKALAN,negative,ADA OJEK PANGKALAN SEPERTI PREMAN,0
+U1884fc7f91,KONEKTIVITAS_UMUM,negative,diberi kebijakan agar transportasi publik dipermudah dari dan ke stasiun ini,8
+U9fe60e0d1d,KONEKTIVITAS_UMUM,negative,Transportasi menuju dan keluar dr stasiun tegalluar yg masih sangat terbatas,2
+U9fe60e0d1d,OJOL,negative,Masih banyak oknum preman yg melarang ojol masuk ke sini,0
+Ud40b140f5d,AKSES_JALAN_MACET,negative,tolong dong ada petunjuk arahan kalau mau ke stasiun,8
+Ud40b140f5d,AKSES_JALAN_MACET,negative,org bdg sj pusing lihat jalan nya sampai nyasar ke jalan kecil,7
+Ud40b140f5d,AKSES_JALAN_MACET,negative,utk jln ny diperbesar dan perbagus banyak lampu juga karena kalau malam gelap sekali,-1
+U34bbb1c10d,KONEKTIVITAS_UMUM,negative,Kalo mau ke kota mending turun di Padalarang,-1
+U366a1eabf2,JARAK_LOKASI,negative,agak jauj dari pusat kota bandung,-1
+U6392fad4ca,KONEKTIVITAS_UMUM,positive,access to go in and out is easy,9
+Ua4281f193d,ANGKOT_OJEK_PANGKALAN,negative,ojek pangkalan melarang kami secara sepihak tidak boleh mengambil penumpang disitu,0
+Ua4281f193d,ANGKOT_OJEK_PANGKALAN,negative,ojek pangkalan daerah situ sudah sangat keterlaluan,0
+Ua4281f193d,OJOL,negative,berani membuat aturan sepihak untuk para ojol,0
+Uf6522bda42,AKSES_JALAN_MACET,negative,Jalurnya kurang informatif bikin muter2 diseputar area stasiun,2
+Uefa97e117d,JARAK_LOKASI,negative,albeit located a distance from the city center,4
+U33169a3279,JARAK_LOKASI,negative,lokasinya jauh dr kota bandung,4
+U49b54d8996,PARKIR,negative,"parking gate-nya sering bermasalah sejak lama, tidak kunjung diperbaiki",1
+Uf4baf65e00,PARKIR,negative,parkiran kecil,1
+U5e989d8794,OJOL,negative,sayang gojek dan grab ga bisa masuk,0
+U5e989d8794,ANGKOT_OJEK_PANGKALAN,negative,dilarang preman berkedok ojek pangkalan,0
+U803f8b739b,ANGKOT_OJEK_PANGKALAN,negative,Waduh repot banget udah tiba2 ada opang yg nandain,0
+U803f8b739b,OJOL,negative,kasian buat yang online udah dicegatin diwanti2 aja,-1
+Udaa54b2d3a,KONEKTIVITAS_UMUM,neutral,Stasiun KA lokal terdekat dari lokasi adalah stasiun Cimekar.,8
+Udaa54b2d3a,KONEKTIVITAS_UMUM,negative,Semoga kedepanya sistem transit ke transportasi lain diperbanyak lagi karena untuk saat ini masih minim sekali.,2
+Ue07c45c724,PARKIR,negative,kasihan mobilnya... tempatnya puanass,10
+Ube5d5cb839,AKSES_JALAN_MACET,negative,akses kesini harus melewati jalan padat dan kadang macet,5
+Ube5d5cb839,OJOL,negative,Pesan Go-Ride atau Grab-Bike agak lama dapatnya.,-1
+U827cced409,KONEKTIVITAS_UMUM,negative,perlu diintegrasikan dg moda transum lebih banyak lg,0
+U7e509cfb20,KONEKTIVITAS_UMUM,negative,the public transport access is kinda limited,2
+U7e509cfb20,PARKIR,negative,the car parking lot also confusing,1
+Uaac69b861c,AKSES_JALAN_MACET,negative,Kurangnya pintu tol yang menuju timur,7
+U04bd69e02d,KONEKTIVITAS_UMUM,negative,Minim transportasi umum.,2
+Ubf65139224,AKSES_JALAN_MACET,negative,Akses jalan nya coba di pikirkan lagi,-1
+Ubf65139224,AKSES_JALAN_MACET,negative,"Selalu macet, ada gerbang tol ga bisa di pake",5
+Ub0af6430d3,PADALARANG,negative,tidak seperti stasiun kereta cepat Padalarang yg rawan kemacetan,2
+U930ee0473b,KONEKTIVITAS_UMUM,negative,akses hanya dijangkau oleh feeder,9
+U5d18fec0ee,PARKIR,negative,yaelah bayar parkir cash only kayak jaman batu aja,1
+U7289fff3a8,PARKIR,negative,Tolong parkirannya diperluas,1
+U7289fff3a8,PARKIR,negative,"kalau ada tamu vvip pasti parkiran membludak, cari parkir 40 menit sendiri",1
+U77345bb22c,AKSES_JALAN_MACET,negative,Krn google map nya ngaco akhirnya sampe nyasar ke desa Tegalluar,0
+U77345bb22c,AKSES_JALAN_MACET,negative,memberi petunjuk yg jelas di jalan raya dr segala penjuru,7
+U77345bb22c,KONEKTIVITAS_UMUM,negative,di KCIC NYA bs dikasih petunjuk sprt arah keluar tempat cari taksi atau angkutan dll.,3
+U31e3b92bde,OJOL,negative,sebaiknya hati-hati dengan tarif nembak dari supirnya,-1
+U1467fd58e5,KONEKTIVITAS_UMUM,positive,supported by an extensive network of multi-modal surface transport and road access points,2
+U0daad28355,AKSES_JALAN_MACET,negative,keluar dari sini macetnya minta ampun dan kapok,10
+Ud1464a517b,PARKIR,negative,trnyata dihitung nya perjam alhasil 3malam - 3hari setara dgn naik woosh lagi,3
+U2a55e52afc,KONEKTIVITAS_UMUM,negative,Tolong dong sediain feeder juga akses dari tegal luar masa padalarang doang sih,9
+U03e650be2e,JARAK_LOKASI,negative,Tempatnya terpojok banget rasanya wkwkwk jauhhh dari ramainya kota.,4
+U2a4da0baed,AKSES_JALAN_MACET,negative,penerangan akses jalannya masih terbilang masih kurang,-1
+Uafa207dbf9,JARAK_LOKASI,negative,Tegalluar station located quite far from Bandung city center,4
+U1b9549af10,ANGKOT_OJEK_PANGKALAN,negative,OPANG NYA SUKA BERHENTIIN MINTAIN DUIT,0
+U9586bfbea2,JARAK_LOKASI,negative,lokasi agak jauh dari pusat kota.,4
+U9586bfbea2,KONEKTIVITAS_UMUM,positive,Banyak pilihan transportasi dari dan menuju ke stasiun Tegalluar.,8
+Ub819af6b49,AKSES_JALAN_MACET,negative,Cuma akses jalan nya kacau,12
+Ub819af6b49,AKSES_JALAN_MACET,negative,masuk pintu TOL yg deket malah di tutup,-1
+U76fd673dfc,PARKIR,negative,udah mah parkirnya sempit,1
+U76fd673dfc,PARKIR,negative,parkirnya pada ngaco2 gada yg ngatur,1
+U3e99679a83,PARKIR,negative,"Sy parkir motor dr jam 7 pagi sampe jam 7 malem kena 39rb, pdhal di pintu masuk jelas terpampang motor 1500 per jam.",1
+U3e99679a83,PARKIR,negative,pintu keluar motor gak ada,-1
+U252dbe967a,AKSES_JALAN_MACET,negative,Minusnya kesini akses yang masih belum ok.,6
+U252dbe967a,AKSES_JALAN_MACET,negative,Masih perlu lewar jalan jalan kecil dan cukup masuk ke dalam untun sampai dari kota.,7
+U252dbe967a,KONEKTIVITAS_UMUM,negative,Sepertinya juga ga ada angkutan umum selain ojek dan taxi.,2
+U30eccfe500,JARAK_LOKASI,negative,"karena terletak agak di pinggir kota, jadi agak sepi",4
+U87992a2b93,OJOL,negative,Grab? Should be removed.,0
+U87992a2b93,OJOL,negative,Incompetent driver here on Whoosh Tegalluar,10
+U87992a2b93,OJOL,negative,you will pay EXPENSIVE price to get a quick one,-1
+U87992a2b93,OJOL,negative,"you need to wait 15-20min on app to get regular price, just to get cancelled",3
+U1744fd78e2,JARAK_LOKASI,negative,Jauh dari keramaian kota,4
+U538266d5bf,KONEKTIVITAS_UMUM,positive,Akses sudah ada,9
+U58b0e7a83b,JARAK_LOKASI,negative,Jauh dari peradaban hehe,13
+U58b0e7a83b,JARAK_LOKASI,negative,cukup jauh lokasinya,13
+Ued3a475a6e,KONEKTIVITAS_UMUM,positive,Aksesnya juga mudah kok,9
+Uce9027692f,PADALARANG,negative,Enakan di sini daripada di padalarang.,0
+U2cd2d64e21,PARKIR,negative,parkirannya super panassss,1
+Ud50b2c2aac,PARKIR,negative,parkirnya terlalu jauh,1
+Ud50b2c2aac,PARKIR,negative,Kucibg-kucingan parkir di drop off,1
+Ud8bc682c70,KONEKTIVITAS_UMUM,positive,Untuk akses dari dan ke stasiun ini sudah cukup lengkap,8
+U2983900833,OJOL,negative,terdapat opang sehingga ojol tidak diperbolehkan ngambil penumpang haduh agak sulit ya,0
+U2983900833,ANGKOT_OJEK_PANGKALAN,negative,terdapat opang sehingga ojol tidak diperbolehkan ngambil penumpang,0
+U6bb5fc367c,OJOL,negative,akses ke sini cukup sulit apabila menggunakan ojol,6
+U6bb5fc367c,ANGKOT_OJEK_PANGKALAN,negative,karena diberhentikan oleh ojek pangkalan setempat,0
+Ud00ed39e15,FEEDER_BUS,negative,perlu ditambah alternatif moda transportasi lain seperti bus,2
+Ud00ed39e15,KONEKTIVITAS_UMUM,negative,tidak harus selalu mengandalkan kendaraan pribadi atau taksi untuk menuju ke stasiun ini,2
+U1186da40f7,JARAK_LOKASI,negative,lumayan juga sih jaraknya,13
+U4c9a115de4,AKSES_JALAN_MACET,negative,Akses nya lewat jalan2 kecil,7
+U99369d42c1,KONEKTIVITAS_UMUM,negative,akses susah banget,6
+U99369d42c1,FEEDER_BUS,negative,kendaraan umum ada bis tp sangat tidak terintegrasi,2
+U99369d42c1,AKSES_JALAN_MACET,negative,"malah terjebak macet,karena akses jalan sangat sempit dan sangat padat",5
+U99369d42c1,OJOL,negative,Ojol gak berani masuk sepertinya takut dg preman setempat,0
+Ubf80c501f1,PARKIR,negative,Parkir inap tetep dihitung perjam walaupun menginap.,1
+Ubf80c501f1,PARKIR,negative,Info di website per malam 30 rb hoaks,-1
+U5f989a0163,JARAK_LOKASI,negative,Lokasi stasiun sangat jauh dari pusat kota.,4
+U5f989a0163,AKSES_JALAN_MACET,negative,"Waspadai kemacetan lalu lintas yang parah, terutama di akhir pekan.",5
+Uf1c7994be9,JARAK_LOKASI,negative,akses cukup jauh dari jalan utama kota bandung,4
+U480463f794,JARAK_LOKASI,negative,"Jauh ke mana""",13
+U480463f794,OJOL,negative,susah pesen Gojek karna driver online gak dibolehin ambil dan anter ke daerah sini,3
+U480463f794,ANGKOT_OJEK_PANGKALAN,negative,Klo preman sudah menguasai,0
+U7dc3feb53d,AKSES_JALAN_MACET,negative,road to station is really bad!,-1
+U7dc3feb53d,AKSES_JALAN_MACET,negative,They are with small roads with traffic,7
+U780e91a20b,PARKIR,negative,kalo bisa ganti vendor parkir nya,1
+Uc5dcdeb136,JARAK_LOKASI,negative,cukup jauh dari pusat kota bandung,4
+Uc5dcdeb136,AKSES_JALAN_MACET,negative,akses jalan cukup sempit,7
+U1a2109a51c,KONEKTIVITAS_UMUM,negative,gue tiketnya turun di st. Tegalluar jadi gabisa naik feeder,-1
+Uddc5c15eac,JARAK_LOKASI,negative,駅周辺には何もありません,2
+U67c568d89c,JARAK_LOKASI,negative,letaknya agak jauh dari pusat kota Bandung,4
+U5efcb6a73a,ANGKOT_OJEK_PANGKALAN,negative,masih ada aja sih oknum2 ojek pangkalan yang ngelarang larang ojek online ambil penumpang,3
+U5efcb6a73a,OJOL,negative,ngelarang larang ojek online ambil penumpang,3
+U5efcb6a73a,ANGKOT_OJEK_PANGKALAN,negative,Masa sampe ada kerusuhan segala. Primitif banget,0

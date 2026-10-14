@@ -1,0 +1,89 @@
+# Keyword filter kandidat (Tahap 3). Recall diutamakan: salah tangkap boleh, terlewat jangan.
+#
+# Aturan pencocokan (lihat src/filter.py):
+# - Dicocokkan pada text_original DAN text_translated setelah normalisasi ringan
+#   (lowercase, huruf berulang dikompres: "macettt" -> "macet").
+# - Keyword yang ada di _whole_word, dan keyword huruf Latin <= 4 karakter,
+#   dicocokkan sebagai KATA UTUH (\b...\b). Contoh: "bus" tidak cocok dengan "business".
+# - Keyword huruf non-Latin (Mandarin/Jepang/Korea/Arab) dicocokkan sebagai substring.
+# - Kata "jam" sendirian SENGAJA tidak dipakai (bahasa Indonesia: waktu).
+#
+# v1 = daftar awal dari peneliti. v2 (2026-09-25) = tambahan dari review relevan yang terlewat
+# saat eksplorasi filter, variasi ejaan, sinonim, dan istilah asing yang muncul di data.
+
+FEEDER_BUS: [damri, feeder, bus, bis, shuttle, travel, trans metro pasundan, tmp,
+  teman bus, halte, beus, 巴士, 接驳车, 班车, バス, シャトル, 버스, 셔틀, حافلة, باص,
+  # v2
+  shutle, sutel, bus feeder, shuttle bus, bus damri, bis damri, trans metro bandung, tmb,
+  metro jabar trans, bus kota, bis kota, busway, 接駁, 接驳, 巴士站, 送迎バス]
+
+PADALARANG: [padalarang, ka feeder, kereta feeder, kereta penghubung, kereta sambungan,
+  stasiun bandung,
+  # v2
+  st bandung, st. bandung, kereta lokal, kereta api biasa, argo parahyangan, parahyangan, 帕达拉朗]
+
+OJOL: [ojol, ojek online, gojek, gocar, goride, grab, grabcar, grabbike, maxim, indrive,
+  titik jemput, penjemputan, pick up, pickup, drop off, 打车, 网约车, 그랩, 配車,
+  # v2
+  go-jek, go jek, go car, go ride, grab car, grab bike, gojeg, gocar, maxim bike, indriver,
+  driver online, ojek daring, taksi online, taxi online, mobil online, titik penjemputan, pick-up,
+  drop-off, dropoff, jemputan, zona jemput, shelter ojol, ride hailing]
+
+TAKSI: [taksi, taxi, bluebird, argo, 出租车, 的士, タクシー, 택시, تاكسي,
+  # v2
+  blue bird, taksi resmi, argometer, 計程車]
+
+ANGKOT_OJEK_PANGKALAN: [angkot, angkutan umum, ojek pangkalan, opang, ojek, calo,
+  # v2
+  opank, angkutan kota, elf, ojek konvensional, tukang ojek, preman, pungli]
+
+PARKIR: [parkir, parkiran, parkir inap, valet, parking, car park, 停车, 駐車場, 주차, موقف,
+  # v2
+  parkir motor, parkir mobil, parkiran motor, parkiran mobil, lahan parkir, tarif parkir,
+  parking lot, drop zone, antar jemput, nganter, nganterin, dianter, diantar, anter,
+  jemput, dijemput, bawa mobil, bawa motor, mobil pribadi, kendaraan pribadi, 駐車, 送り, 迎え, 停車位置]
+
+AKSES_JALAN_MACET: [macet, kemacetan, akses jalan, jalan masuk, gedebage, cimencrang,
+  soekarno hatta, cileunyi, gerbang tol, exit tol, putar balik, muter jauh, jalan sempit,
+  traffic jam, congestion, heurin, 堵车, 渋滞, 막히, 교통체증, زحام,
+  # v2 (usulan disetujui)
+  tol, pintu tol, gede bage, sumarecon, summarecon, dijangkau,
+  # v2 (tambahan)
+  cimincrang, gedebage, soetta, cibiru, rancaekek, buahbatu, buah batu, ciwastra, jalan kecil,
+  jalan tikus, jalan rusak, jalan raya, jalan akses, akses tol, exit, cfd, rel, perlintasan,
+  palang pintu, banjir, lampu merah, bundaran, narrow road, road access, 踏切, 道路, 塞车]
+
+JARAK_LOKASI: [jauh dari kota, jauh banget, jauh sekali, pusat kota, tengah sawah, pelosok,
+  pinggiran, tebih, jauh pisan, far from, remote, city center, middle of nowhere, 很远,
+  离市区, 市中心, 遠い, 市内, 멀다, 시내, بعيد,
+  # v2 (usulan disetujui)
+  jauh dari, lokasinya, lokasi, dekat, deket, gbla, peradaban,
+  # v2 (tambahan)
+  jauh, kejauhan, terpencil, ujung, sawah, rice field, rice fields, located, location, far,
+  near, strategis, bandung timur, bandung coret, kota bandung, ke kota, 離れ, 周辺, 郊外, 距離,
+  稲田, 田んぼ]
+
+INTEGRASI_JADWAL: [jadwal, jam terakhir, jam operasional, nunggu lama, menunggu lama,
+  terintegrasi, integrasi, tiket terusan, schedule, timetable, connection, last bus,
+  换乘, 衔接, 乗り継ぎ, 환승,
+  # v2
+  diintegrasikan, integrated, sinkron, transit, terhubung, terkoneksi, connected, koneksi,
+  keberangkatan terakhir, jam keberangkatan bus, nunggu bus, menunggu bus, 乗り換え, 连接]
+
+# v2 — daftar baru untuk KONEKTIVITAS_UMUM (akses umum tanpa moda spesifik)
+KONEKTIVITAS_UMUM: [akses, aksesnya, transum, moda, transportasi umum, transportasi publik,
+  transportasi lanjutan, angkutan lanjutan, kendaraan umum, public transport,
+  public transportation, well connected, not well connected, konektivitas, susah pulang,
+  susah pergi, akses transportasi, 交通, 公共交通, 公共交通機関, 대중교통, وسائل النقل]
+
+# (c) Kata akses tidak langsung. Meloloskan kandidat tanpa menunjuk aspek tertentu.
+_indirect: [pulang, pergi, ke kota, dari kota, nyambung, lanjut, transportasi, kendaraan,
+  naik apa, dijemput, ngejemput]
+
+# Keyword pendek/ambigu yang wajib dicocokkan sebagai kata utuh
+# (tambahan di luar aturan otomatis "Latin <= 4 karakter").
+_whole_word: [travel, halte, grab, maxim, argo, ojek, calo, valet, remote, pergi, lanjut,
+  pulang, jadwal, taxi, taksi, opang, angkot, parkir,
+  # v2
+  jauh, dekat, deket, akses, lokasi, exit, anter, jemput, preman, ujung, sawah, located,
+  location, near, transit, koneksi, opank, banjir]

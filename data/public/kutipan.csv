@@ -1,0 +1,448 @@
+review_id,span_id,category,evidence,start,end,sentiment,issue_tags,ragu,catatan
+Uc83568eb02,r0004_0,JARAK_LOKASI,bisa turun disini buat yang rumahnya diarea bandung timur dan sekitarnya,66,138,positive,,False,
+Uc83568eb02,r0004_1,PARKIR,tempat parkir luas,280,298,positive,luas,False,
+U49cb7faafe,r0006_0,AKSES_JALAN_MACET,Akses menuju sta tegalluar klo malam kurang sekali penerangan,0,61,negative,akses_jalan_buruk,False,
+U49cb7faafe,r0006_1,PARKIR,area parkir cukup luas,62,84,positive,luas,False,
+U6616c66c5b,r0007_0,KONEKTIVITAS_UMUM,akses transportasu keluar masuk kesitu nya susah,48,96,negative,,False,
+U6616c66c5b,r0007_1,OJOL,masa ojol dilarang masuk,98,122,negative,tidak_tersedia;konflik_opang,False,
+U6616c66c5b,r0007_2,ANGKOT_OJEK_PANGKALAN,bukan untuk opang saja,161,183,negative,konflik_opang,False,monopoli opang
+Uf4c032ca24,r0008_0,TAKSI,"Outside was bluebird taxis, shuttle bus and grab cars.",128,182,neutral,,False,
+Uf4c032ca24,r0008_1,FEEDER_BUS,"Outside was bluebird taxis, shuttle bus and grab cars.",128,182,neutral,,False,
+Uf4c032ca24,r0008_2,OJOL,"Outside was bluebird taxis, shuttle bus and grab cars.",128,182,neutral,,False,
+Uee8e484cda,r0012_0,PARKIR,parkir untuk saat ini cukup tapi sepertinya perlu ditambah,199,257,mixed,kapasitas_kurang,False,kapasitas cukup tapi perlu ditambah
+U7f40b3a2da,r0014_0,FEEDER_BUS,sudah enak karena terintegrasi dengan layanan damri,0,51,positive,terintegrasi_baik,False,
+U7f40b3a2da,r0014_1,OJOL,ojol saat ini belum bisa masuk,111,141,negative,tidak_tersedia,False,
+U7f40b3a2da,r0014_2,ANGKOT_OJEK_PANGKALAN,harus pesan opang disana,150,174,negative,konflik_opang,False,terpaksa pakai opang
+U015b150e38,r0015_0,PADALARANG,Tinggal turun disambut sama kereta feeder ke stasiun Bandung,104,164,positive,terintegrasi_baik,False,
+Uf85def9c5a,r0019_0,JARAK_LOKASI,aksesnya deket ke masjid Al jabar dan stagion GBLA,13,63,positive,,False,
+Uef9e15319e,r0020_0,PARKIR,sebenernya parkir luas hanya Lom ada rambu parkir,62,111,mixed,luas;informasi_kurang,False,
+U9ad3561268,r0027_0,OJOL,Sayang sekali ojek online tidak bisa (tidak boleh )ambil penumpang dari stasiun !!,0,82,negative,konflik_opang,False,lainnya: ojol dilarang menjemput
+U7973beb561,r0029_0,JARAK_LOKASI,"Tempatnya cukup strategis, dekat GBLA dan masjid Al Jabbar",109,167,positive,,False,
+U7973beb561,r0029_1,PARKIR,Belum ada gate security untuk parkir walopun parkirnya masih gratis,243,310,mixed,tarif_wajar;lainnya,False,lainnya: belum ada gate/keamanan parkir
+U7973beb561,r0029_2,KONEKTIVITAS_UMUM,sayang sekali belum terintegrasi dengan fasilitas transportasi umum yang lain,316,393,negative,tidak_terintegrasi,False,
+U2b75ea1dba,r0031_0,PARKIR,penjaga parkir nya rada ngegas,308,338,negative,lainnya,True,sikap petugas parkir kasar; batas antara petugas (bukan konektivitas) dan layanan parkir
+Udc7b08db41,r0033_0,AKSES_JALAN_MACET,mudah dijangkau dekat ke Tol,21,49,positive,,False,
+U7521b17a26,r0034_0,KONEKTIVITAS_UMUM,angkutan umum sulit,0,19,negative,tidak_tersedia,False,
+U7521b17a26,r0034_1,FEEDER_BUS,ada damri aja,21,34,neutral,,False,
+U7521b17a26,r0034_2,OJOL,"kalau pakai online jarak jauh banyak yang tidak mau, mau pun minta tambahan ongkos",36,118,negative,tidak_tersedia;tarif_mahal,False,
+U7521b17a26,r0034_3,PADALARANG,mending turun / naik dari padalarang,119,155,positive,,False,
+Ub98919d31a,r0037_0,FEEDER_BUS,di sini nemu Shutle gratis ke Mall SMB atau Masjid Aljabbar,108,167,positive,tarif_wajar,False,
+U2d9dab0ccf,r0040_0,PADALARANG,sebagian besar penumpang memilih untuk turun di Stasiun Padalarang,129,195,positive,,True,"pernyataan preferensi penumpang, bukan penilaian langsung; dikaitkan dengan masalah akses Tegalluar"
+U2d9dab0ccf,r0040_1,KONEKTIVITAS_UMUM,keduanya tidak menawarkan akses yang mudah ke stasiun,283,336,negative,,False,
+U2d9dab0ccf,r0040_2,AKSES_JALAN_MACET,"Lalu lintas dan jarak dari stasiun kereta lokal terdekat, yaitu Stasiun Cimekar, adalah hal-hal yang perlu dipertimbangkan.",338,461,negative,macet,False,
+U2d9dab0ccf,r0040_3,JARAK_LOKASI,"jarak dari stasiun kereta lokal terdekat, yaitu Stasiun Cimekar",354,417,negative,lokasi_jauh,True,jarak ke stasiun KA lokal Cimekar; tidak ada aspek khusus KA lokal
+U2d9dab0ccf,r0040_4,TAKSI,Selain taksi dan taksi online,1194,1223,neutral,,False,
+U2d9dab0ccf,r0040_5,OJOL,Selain taksi dan taksi online,1194,1223,neutral,,False,
+U2d9dab0ccf,r0040_6,FEEDER_BUS,bus pengumpan ke dan dari Stasiun Bandung juga tersedia dengan harga Rp15.000 per orang untuk perjalanan sekitar 60 hingga 75 menit ke pusat kota Bandung,1225,1378,neutral,,False,
+U095cf6d768,r0041_0,AKSES_JALAN_MACET,Akses ke stasiun susah,0,22,negative,akses_jalan_buruk,False,
+U095cf6d768,r0041_1,AKSES_JALAN_MACET,kalau musim hujan banyak jalur yg macet dan banjir,24,74,negative,macet;akses_jalan_buruk,False,
+U095cf6d768,r0041_2,AKSES_JALAN_MACET,Tol belum di buka,76,93,negative,akses_jalan_buruk,False,
+Ua19a549aa3,r0042_0,ANGKOT_OJEK_PANGKALAN,Ojek pangkalannya rasa premanisme,0,33,negative,konflik_opang,False,lainnya: premanisme/intimidasi opang
+Ua19a549aa3,r0042_1,OJOL,Ojek online gak bisa masuk malah di cegat,34,75,negative,konflik_opang,False,lainnya: ojol dihadang/dilarang masuk
+Ue8f6eb81eb,r0047_0,KONEKTIVITAS_UMUM,Bad for accessibility,17,38,negative,,False,
+Ud9ff098fa5,r0062_0,PARKIR,Tempat parkir lumayan lah luas,0,30,positive,luas,False,
+U368cad5538,r0063_0,KONEKTIVITAS_UMUM,Akses menuju stasiun masih perlu ditingkatkan.,57,103,negative,,False,
+U368cad5538,r0063_1,FEEDER_BUS,sudah ada shuttle dari Damri menuju Gedebage dan Big Bird dari Summarecon,123,196,neutral,,False,
+U368cad5538,r0063_2,AKSES_JALAN_MACET,"Kendaraan pribadi dapat melalui exit tol Gedebage, Jalan Cimencrang, atau Gedebage Selatan",198,288,neutral,,False,
+U39347eff97,r0064_0,PADALARANG,"Kereta feeder sdh tdk operasional smp stasiun ini, hanya smp St. Padalarang saja.",0,81,negative,tidak_tersedia,False,
+U39347eff97,r0064_1,FEEDER_BUS,Bisa naik bis Damri dgn harga 15 rb saja.,82,123,positive,tarif_wajar,False,
+U39347eff97,r0064_2,JARAK_LOKASI,Stasiun yg agak terisolir dr peradaban,124,162,negative,lokasi_jauh,False,
+Ua097d524f2,r0065_0,JARAK_LOKASI,Stasiun yg jauh.,0,16,negative,lokasi_jauh,False,
+Ua097d524f2,r0065_1,AKSES_JALAN_MACET,Weekend jalanan munglin macet karna banyak yg mau k mesjid,17,75,negative,macet,False,
+U82fde303d6,r0070_0,ANGKOT_OJEK_PANGKALAN,Tertibin dong opangnya,0,22,negative,konflik_opang,False,opang tidak tertib/intimidasi ojol
+U82fde303d6,r0070_1,OJOL,ini ojol rata2 gak mau pada ambil takut sama opang,24,74,negative,tidak_tersedia;konflik_opang,False,
+U82fde303d6,r0070_2,KONEKTIVITAS_UMUM,"Stasiun elit, angkutan sulit",88,116,negative,tidak_tersedia,False,
+U2448ec76d1,r0071_0,OJOL,sudah banyak taksi online gocar grabcar indriver Maxim car,44,102,positive,mudah_didapat,False,
+U2448ec76d1,r0071_1,TAKSI,jangan mau di paksa naik blue bird dan DAMRI di puter puter,127,186,negative,lainnya,False,lainnya: dipaksa naik & diputar-putar
+U2448ec76d1,r0071_2,FEEDER_BUS,jangan mau di paksa naik blue bird dan DAMRI di puter puter,127,186,negative,lainnya,True,lainnya: dipaksa naik; tidak jelas apakah 'di puter puter' juga merujuk DAMRI
+Ufea265544f,r0072_0,PARKIR,parkiran mobil dan tempat menunggu mobil/kendaraan online cukup besar dan rapih,55,134,positive,luas,False,
+Ufea265544f,r0072_1,OJOL,tempat menunggu mobil/kendaraan online cukup besar dan rapih,74,134,positive,luas,False,
+Ua84c10c791,r0081_0,PARKIR,Needs more parking spaces,0,25,negative,kapasitas_kurang,False,lainnya: kapasitas parkir kurang
+U96b5f8e4e1,r0083_0,KONEKTIVITAS_UMUM,not well connected,23,41,negative,,False,
+U96b5f8e4e1,r0083_1,JARAK_LOKASI,the station located in the middle of rice fields,48,96,negative,lokasi_jauh,False,
+U96b5f8e4e1,r0083_2,AKSES_JALAN_MACET,only narrow road connections to anywhere important,101,151,negative,akses_jalan_buruk,False,
+U96b5f8e4e1,r0083_3,KONEKTIVITAS_UMUM,little real public transport connections,157,197,negative,tidak_tersedia,False,
+U367c2fc674,r0085_0,KONEKTIVITAS_UMUM,akses nya belum baik,0,20,negative,,False,
+Ub30af246f4,r0086_0,PARKIR,"Parkiran nya percuma luas tapi panas, dan kehujanan",0,51,mixed,luas;lainnya,False,lainnya: parkir tidak beratap (panas/kehujanan)
+U5bc43c0220,r0087_0,PARKIR,"Biaya Parkirnya mahal untuk parkir inap, tidak ada lagi Tarif maximal, sudah dihapus.",0,85,negative,tarif_mahal,False,
+U5bc43c0220,r0087_1,PARKIR,mana gak ada atap,86,103,negative,lainnya,False,parkir tidak beratap
+U4a07ac32a9,r0091_0,JARAK_LOKASI,Stasiun KCIC baru di pinggir tol dan sawah.,0,43,neutral,,False,
+U4a07ac32a9,r0091_1,KONEKTIVITAS_UMUM,Perlu ditambah angkutan umum atau feeder.,77,118,negative,tidak_tersedia,False,
+U4a208fee4a,r0100_0,JARAK_LOKASI,Mungkin karena stasiun ini jauh dari Kota Bandung.,72,122,negative,lokasi_jauh,False,
+U4a208fee4a,r0100_1,FEEDER_BUS,Disediakan bus berbayar jika ingin ke Kota Bandung,124,174,neutral,,False,
+U4a208fee4a,r0100_2,AKSES_JALAN_MACET,"yang jarak tempuhnya sekitar 1 jam lebih, karena jauh dan macet",175,238,negative,macet;lokasi_jauh,False,
+U4a208fee4a,r0100_3,PADALARANG,lebih baik turun di St. Padalarang lalu naik KA Feeder yang gratis hanya untuk penumpang Whoosh saja,288,388,positive,terintegrasi_baik;tarif_wajar,False,
+U9477bbf9df,r0103_0,JARAK_LOKASI,Stasiun KCIC nya jauh dari mana²,0,32,negative,lokasi_jauh,False,
+U9477bbf9df,r0103_1,INTEGRASI_JADWAL,Ada bus DAMRI juga jadual nya gak sesuai dg jadual whoosh jd kudu nunggu lama.,39,117,negative,jadwal_tidak_sinkron;waktu_tunggu_lama,False,
+U9477bbf9df,r0103_2,TAKSI,naik taksi Bluebird,130,149,neutral,,False,
+U9477bbf9df,r0103_3,OJOL,pesan Go-Jek,155,167,neutral,,False,
+U2a2cf55bd1,r0107_0,JARAK_LOKASI,"Lokasinya agak terasing, dan jauh dari pusat kota",0,49,negative,lokasi_jauh,False,
+U427959e56a,r0108_0,JARAK_LOKASI,lokasinya agak jauh dari pusat kota,47,82,negative,lokasi_jauh,False,
+U427959e56a,r0108_1,KONEKTIVITAS_UMUM,kalau nggak naik shuttle atau taksi agak ribet,89,135,negative,,True,menyiratkan opsi selain shuttle/taksi sulit; shuttle/taksi sendiri tidak dinilai
+U429e230bcd,r0109_0,KONEKTIVITAS_UMUM,Hanya untuk pencapaian kesini masih terbatas transportasi nya,78,139,negative,tidak_tersedia,False,
+U429e230bcd,r0109_1,FEEDER_BUS,meskipun sudah ada moda feeder yg bisa di akses,141,188,neutral,,False,
+Ufd6996bcde,r0110_0,JARAK_LOKASI,Stasiun yg jauh dr mana2.,0,25,negative,lokasi_jauh,False,
+Ufd6996bcde,r0110_1,FEEDER_BUS,Ada shuttle ke Summarecon Mal Bekasi dan Damri ke Alun-Alun Bandung,26,93,neutral,,False,
+U02170d128f,r0116_0,PARKIR,"Signage utk pickup tidak jelas, cuma ada drop off.",48,98,negative,titik_jemput_membingungkan;informasi_kurang,False,
+U02170d128f,r0116_1,PARKIR,Padahal dari gate arrival ke tempat parkir (saya jadinya parkir dulu karena tdk jelas) itu cukup jauh,99,200,negative,titik_jemput_jauh,False,
+U02170d128f,r0116_2,PARKIR,Pintu di samping gate arrival pun juga ditutup padahal sangat ideal buat area penjemputan.,258,348,negative,lainnya,False,lainnya: pintu dekat arrival ditutup untuk penjemputan
+U02170d128f,r0116_3,AKSES_JALAN_MACET,Aksesnya ribeuut banget.,352,376,negative,akses_jalan_buruk,False,
+U02170d128f,r0116_4,AKSES_JALAN_MACET,harus lewat tengah kampung jalanan sempit,389,430,negative,akses_jalan_buruk,False,
+U02170d128f,r0116_5,AKSES_JALAN_MACET,kalo ada kereta api lewat jadi macet panjang,443,487,negative,macet,False,
+U02170d128f,r0116_6,AKSES_JALAN_MACET,Dikirain ada pintu tol di dekatnya ternyata tidak,489,538,negative,akses_jalan_buruk,False,
+U07d8892199,r0117_0,OJOL,"Tips pesan ojol motor arah timur (cicalengka, paramon, nagreg) pakai grab biar lewat depan jalur cileunyi",0,105,neutral,,False,
+U07d8892199,r0117_1,OJOL,gojek nya gamau lewat situ disuruh lewat depan jalur cileunyi dan nambah biaya,176,254,negative,tarif_mahal,False,
+U5ec98c2808,r0119_0,JARAK_LOKASI,"dekat dengan masjid al jabbar dan stadion gbla, lokasinya di tengah sawah",39,112,neutral,,False,
+U5ec98c2808,r0119_1,FEEDER_BUS,tersedia shuttle bus menuju pusat kota bandung,117,163,neutral,,False,
+U5ec98c2808,r0119_2,KONEKTIVITAS_UMUM,pilihan transportasi lanjutan tidak sebanyak stasiun padalarang,165,228,negative,tidak_tersedia,False,
+U5ec98c2808,r0119_3,PADALARANG,pilihan transportasi lanjutan tidak sebanyak stasiun padalarang,165,228,positive,,False,
+U25429ffa9b,r0120_0,ANGKOT_OJEK_PANGKALAN,sy sampai di cegat ama opang padahal sy cuma ngejemput saudara sy,63,128,negative,konflik_opang,False,lainnya: dihadang opang saat menjemput
+U465b582382,r0121_0,AKSES_JALAN_MACET,tidak ada akses langsung ke jalan tol,30,67,negative,akses_jalan_buruk,False,
+U465b582382,r0121_1,AKSES_JALAN_MACET,Anda harus melewati jalan sempit dan kemacetan lalu lintas,69,127,negative,akses_jalan_buruk;macet,False,
+Uc9bdf40787,r0122_0,PARKIR,parkiran mobil aga sempit,28,53,negative,kapasitas_kurang,False,parkir sempit
+U9d5fecd5bd,r0123_0,FEEDER_BUS,Di pintu keluar shuttle dan beberapa driver menunggu penumpang,105,167,neutral,,False,
+U9d5fecd5bd,r0123_1,KONEKTIVITAS_UMUM,Di pintu keluar shuttle dan beberapa driver menunggu penumpang,105,167,neutral,,True,'driver' tidak jelas moda (ojol/taksi)
+U0ae1f183fe,r0126_0,PARKIR,tempat parkir nya kurang luas,65,94,negative,kapasitas_kurang,False,lainnya: kapasitas parkir kurang
+U0897253469,r0130_0,PARKIR,Parkir bisa di depan pintu masuk drop off.,127,169,neutral,,False,
+U0d12f163fb,r0131_0,PARKIR,Spesial mobil berPlat khusus  bisa parkir sembarangan,63,116,negative,lainnya,False,parkir tidak tertib untuk mobil plat khusus
+U0d12f163fb,r0131_1,OJOL,Kalau ojek mau naikin penumpang dikejar kejar,117,162,negative,konflik_opang,True,diasumsikan ojol dikejar (oleh opang) saat menjemput; moda tidak eksplisit
+Ua143ba6ca3,r0132_0,PARKIR,parkir ok lah lumayan,18,39,positive,,False,
+U812e79a60c,r0136_0,JARAK_LOKASI,Ternyata dekat dari rumah.,35,61,positive,,False,
+U812e79a60c,r0136_1,AKSES_JALAN_MACET,Bagi sy akses mudah sih tp blm tentu bagi yg lain.,62,112,positive,,True,akses mudah bagi penulis tapi di-hedge; aspek bisa juga KONEKTIVITAS_UMUM
+U812e79a60c,r0136_2,AKSES_JALAN_MACET,Akses ke sini emang macet..,174,201,negative,macet,False,
+U812e79a60c,r0136_3,AKSES_JALAN_MACET,Ada2 opsi: bisa lewat Al Jabbar dan Cibiru.,202,245,neutral,,False,
+Uc7938671b5,r0137_0,KONEKTIVITAS_UMUM,Akses transportasi umum masih sangat minim (kalau boleh dibilang tidak ada).,0,76,negative,tidak_tersedia,False,
+Uc7938671b5,r0137_1,FEEDER_BUS,DAMRI hanya melayani rute hingga ke Mall Sumarecon Ciluetih.,77,137,negative,lainnya,False,rute DAMRI terbatas
+Uc7938671b5,r0137_2,TAKSI,"Ada juga taxi meteran, taxi online dan ojek tradisional.",138,194,neutral,,False,
+Uc7938671b5,r0137_3,OJOL,"Ada juga taxi meteran, taxi online dan ojek tradisional.",138,194,neutral,,False,
+Uc7938671b5,r0137_4,ANGKOT_OJEK_PANGKALAN,"Ada juga taxi meteran, taxi online dan ojek tradisional.",138,194,neutral,,False,
+U7ed1b50c69,r0139_0,KONEKTIVITAS_UMUM,akses transportasi umumnya ga ada,60,93,negative,tidak_tersedia,False,
+U7ed1b50c69,r0139_1,PARKIR,biaya parkir mahalllll banget,98,127,negative,tarif_mahal,False,
+U71eaa9a27f,r0140_0,AKSES_JALAN_MACET,Akses mudah sudah ada jembatanya,27,59,positive,,False,
+U71eaa9a27f,r0140_1,JARAK_LOKASI,Demat dr GBLA dan Al Jabbar,80,107,positive,,False,
+U71eaa9a27f,r0140_2,JARAK_LOKASI,Yg kampungya di jatinangor cileunyi pangalengan rancaeke garut tasik mantablah,125,203,positive,,False,
+U630836396c,r0141_0,PARKIR,"Parkirnya mahal, Tidak ada atap dan kecil",0,41,negative,tarif_mahal;lainnya;kapasitas_kurang,False,parkir tidak beratap dan kecil
+U5987a5a874,r0143_0,JARAK_LOKASI,agak jauh tapi dekat dengan stadion gelora bandung lautan api,0,61,mixed,lokasi_jauh,False,
+U270e7ffe7c,r0149_0,PARKIR,Safety parking,142,156,positive,,False,
+U270e7ffe7c,r0149_1,TAKSI,Taxi & Shuttle Bus,159,177,positive,,True,daftar di bawah 'fasilitas pendukung yang bagus'; bisa juga neutral
+U270e7ffe7c,r0149_2,FEEDER_BUS,Taxi & Shuttle Bus,159,177,positive,,True,daftar di bawah 'fasilitas pendukung yang bagus'; bisa juga neutral
+Ua5f26651f3,r0150_0,FEEDER_BUS,Ada tersedia transport ke kota menggunakan Damri dan Blue Bird.,135,198,neutral,,False,
+Ua5f26651f3,r0150_1,TAKSI,Ada tersedia transport ke kota menggunakan Damri dan Blue Bird.,135,198,neutral,,False,
+Ua5f26651f3,r0150_2,AKSES_JALAN_MACET,Perjalanan ke kota bandung lumayan macet dari sini.,199,250,negative,macet,False,
+Ua5f26651f3,r0150_3,JARAK_LOKASI,"dari sini ke area sekitar Trans Studio Mall pakai mobil makan waktu 1,5 jam",263,338,negative,lokasi_jauh,False,
+Uc87e7bd8ef,r0152_0,FEEDER_BUS,Konektivitas bisa dengan damri dan taksi online.,31,79,neutral,,False,
+Uc87e7bd8ef,r0152_1,OJOL,Konektivitas bisa dengan damri dan taksi online.,31,79,neutral,,False,
+Uc87e7bd8ef,r0152_2,JARAK_LOKASI,Mau main ke masjid Al Jabbar bandung dekat..,80,124,positive,,False,
+Uc87e7bd8ef,r0152_3,KONEKTIVITAS_UMUM,Mau ke kota Bandung juga bisa.,125,155,neutral,,False,
+Uc87e7bd8ef,r0152_4,PADALARANG,Kalau mau dapat feeder gratis turun di stasiun Padalarang.,156,214,neutral,,False,
+U7365026c8b,r0154_0,FEEDER_BUS,有接駁巴士至萬隆市區，還算是方便,63,79,positive,mudah_didapat,False,
+Uc35a6a3a2e,r0159_0,PADALARANG,"Anda tidak mendapatkan akses ke kereta penghubung, itu sangat disayangkan!",119,193,negative,tidak_tersedia,False,
+Uc35a6a3a2e,r0159_1,INTEGRASI_JADWAL,waktu yang Anda bayarkan untuk dihemat terbuang percuma menunggu kereta reguler,199,278,negative,waktu_tunggu_lama,False,
+U637a28c159,r0160_0,JARAK_LOKASI,Deket dari garut,0,16,positive,,False,
+Uf7114f9cbc,r0161_0,JARAK_LOKASI,バンドン市内中心部からかなり離れており駅としての利便性は良く無い,53,85,negative,lokasi_jauh,False,
+U006cc22a11,r0162_0,AKSES_JALAN_MACET,Tidak ada akses jalan kalau dari Ranca ekek..sementara ini jalan nya muter lewat sawah,0,86,negative,akses_jalan_buruk,False,
+U006cc22a11,r0162_1,AKSES_JALAN_MACET,tolong dong jalan yang di tengah buka,88,125,negative,akses_jalan_buruk,False,
+Uad72a48cf8,r0165_0,AKSES_JALAN_MACET,mau pulang ke stasiun tegalluar tapi kena banjir,130,178,negative,akses_jalan_buruk,False,
+Uad72a48cf8,r0165_1,TAKSI,banyak taksi yang nolak,209,232,negative,tidak_tersedia,False,
+Uad72a48cf8,r0165_2,PADALARANG,ga kepikiran kalau boleh pindah ke padalarang,234,279,positive,,True,penyesalan tidak pindah ke Padalarang (implisit)
+U9824517812,r0175_0,KONEKTIVITAS_UMUM,the access is not quite good,52,80,negative,,False,
+U69552706bf,r0178_0,AKSES_JALAN_MACET,akses jalan harus lewat gbla/al jabar,40,77,neutral,,False,
+Uf286fcb0ea,r0179_0,AKSES_JALAN_MACET,Agak macet jalan kesana,0,23,negative,macet,False,
+U44aaac38ee,r0182_0,JARAK_LOKASI,akses nya deket bgt Summarecon Bandung,298,336,positive,,False,
+U371d66e562,r0186_0,ANGKOT_OJEK_PANGKALAN,"the local Ojek pangkalan, who's not allowing other bike taxi coming in",26,96,negative,konflik_opang,False,lainnya: opang melarang ojol masuk
+U371d66e562,r0186_1,OJOL,I was strongly intimidated by them when I ordered online taxi motorbike,98,169,negative,konflik_opang,False,lainnya: intimidasi saat pesan ojol
+Ub9effae392,r0189_0,AKSES_JALAN_MACET,Sebenernya dua duanya akses nya buruk,213,250,negative,akses_jalan_buruk,False,
+Ub9effae392,r0189_1,AKSES_JALAN_MACET,kalo lewat soekarno hatta tau sendiri macetnya cibiru pake mobil lama banget,315,391,negative,macet,False,
+Ub9effae392,r0189_2,AKSES_JALAN_MACET,cuma emang parah akses kesininya aja,572,608,negative,akses_jalan_buruk,False,
+U6251ab2ada,r0191_0,PARKIR,parkiran motor luas hanya saja kurang rapih,32,75,mixed,luas;lainnya,False,lainnya: parkiran kurang rapi
+U34b635f8f4,r0192_0,PARKIR,送りと迎えの停車位置をわけ別の場所で乗り降りできると入口が混まないとおもう,0,37,negative,lainnya,True,saran memisahkan titik drop-off dan jemput (antar-jemput pribadi) karena pintu masuk padat
+U34b635f8f4,r0192_1,AKSES_JALAN_MACET,駅に向かう途中の踏切やモスクにより大渋滞に巻き込まれることがあるので注意！,38,75,negative,macet,False,
+U9292f77624,r0193_0,JARAK_LOKASI,The Station are out of nowhere,0,30,negative,lokasi_jauh,False,
+U9292f77624,r0193_1,KONEKTIVITAS_UMUM,isn't easy to reach except with your own car/bike,35,84,negative,tidak_tersedia,False,
+U242f51a7ec,r0197_0,JARAK_LOKASI,Dekat GBLA,0,10,neutral,,True,keterangan lokasi tanpa penilaian eksplisit; bisa positive
+Ua1bdb9e452,r0199_0,PARKIR,ada tempat parkir nya yang bisa di tinggal karena mau pulang pergi?,21,88,neutral,,False,
+Uf14bb14a58,r0203_0,KONEKTIVITAS_UMUM,Transportasi ke luar sulit,0,26,negative,,False,
+Ua197eee0e6,r0204_0,PADALARANG,kereta feeder di Padalarang juga sudah sangat matang dan sinkron,2021,2085,positive,terintegrasi_baik,True,"ulasan umum Whoosh, tidak spesifik akses Tegalluar"
+U9ef94e0241,r0205_0,JARAK_LOKASI,Letaknya di bandung selatan lumayan pinggiran kota,46,96,negative,lokasi_jauh,False,
+U9ef94e0241,r0205_1,AKSES_JALAN_MACET,Aksesnya juga agak susah ya kalau ga lewat tol ya lewat jalan biasa,98,165,negative,akses_jalan_buruk,False,
+U9ef94e0241,r0205_2,KONEKTIVITAS_UMUM,Hanya aksesnya saja yang agak susah,284,319,negative,,True,'akses' bisa merujuk jalan atau transportasi umum
+U9ef94e0241,r0205_3,PARKIR,parkir juga ga terlalu luas,321,348,negative,kapasitas_kurang,False,kapasitas parkir kurang
+U9ef94e0241,r0205_4,KONEKTIVITAS_UMUM,hanya konektivitas saja yang perlu diperhatikan,509,556,negative,,False,
+U30b16f747d,r0212_0,AKSES_JALAN_MACET,Akses nya buruk banget,0,22,negative,akses_jalan_buruk,False,
+U30b16f747d,r0212_1,JARAK_LOKASI,jauh dari mana2,23,38,negative,lokasi_jauh,False,
+U30b16f747d,r0212_2,AKSES_JALAN_MACET,Jalan kecil & rusak,40,59,negative,akses_jalan_buruk,False,
+U30b16f747d,r0212_3,AKSES_JALAN_MACET,Untuk bus pariwisata rawan kesasar,61,95,negative,informasi_kurang,False,
+U30b16f747d,r0212_4,AKSES_JALAN_MACET,Mbok ya dibikin akses langsung tol,98,132,negative,akses_jalan_buruk,False,
+Uc31ab3510a,r0216_0,OJOL,Harga grabnya tidak sesuai dengan dengan harga yg di aplikasi,0,61,negative,tarif_mahal,False,
+Uf796ae0a0f,r0218_0,JARAK_LOKASI,"Lokasinya dekat dengan Stadion Gelora Bandung Lautan Api, di kawasan Summarecon Bandung.",383,471,neutral,,False,
+Ua4e73e64b7,r0223_0,PARKIR,Parkiran kendaraan nya gratis.,115,145,positive,tarif_wajar,False,
+Ua4e73e64b7,r0223_1,PARKIR,sebaiknya untuk parkiran motor atau roda dua sebaiknya ada atap tertutup,152,224,negative,lainnya,False,parkir motor tidak beratap
+U125cea3f49,r0225_0,FEEDER_BUS,Mohon diperbanyak lagi untuk angkutan fedeernya.,55,103,negative,tidak_tersedia,False,
+Uab4239e426,r0227_0,AKSES_JALAN_MACET,Akses jalan menuju lokasi diperlebar dong.,0,42,negative,akses_jalan_buruk,False,
+Ub455d9caa7,r0237_0,JARAK_LOKASI,Lokasinya tepat di Wilayah Summareccon Bandung,60,106,neutral,,False,
+U8a1fba7377,r0242_0,FEEDER_BUS,Ada free shutle dr stasiun ke Sumarecon mall,87,131,neutral,,False,
+U1e5b5a6087,r0244_0,FEEDER_BUS,ada bus suttle ke summarecon bandung,113,149,neutral,,False,
+Ud37b59686b,r0246_0,AKSES_JALAN_MACET,Macettt pas pertigaan mau ke stasiun,0,36,negative,macet,False,
+Ufaef45985b,r0249_0,AKSES_JALAN_MACET,sekali aja ke sini kl jalan belum diperbaiki,11,55,negative,akses_jalan_buruk,False,
+Ufaef45985b,r0249_1,AKSES_JALAN_MACET,Rute nyasar2..,57,71,negative,informasi_kurang,False,
+Ufaef45985b,r0249_2,AKSES_JALAN_MACET,Jangaaaaan yg lewat Majalaya/ Dang deur.. iniii menyesatkan.,248,308,negative,akses_jalan_buruk,False,
+Ufaef45985b,r0249_3,AKSES_JALAN_MACET,Kcic tolong bikin akses yg bener.,309,342,negative,akses_jalan_buruk,False,
+Ufaef45985b,r0249_4,PADALARANG,Mending beli tiket Padalarang halim via stasiun Bandung kota. Trus naik KA feeder. The best choice ini.,343,446,positive,terintegrasi_baik,False,
+U800ddf2839,r0254_0,JARAK_LOKASI,"Lokasi trrlalu jauh,harusnya di kota",0,36,negative,lokasi_jauh,False,
+Ud8039f8c34,r0255_0,JARAK_LOKASI,meskipun agak jauh,15,33,negative,lokasi_jauh,False,
+U0a377b5fac,r0259_0,PARKIR,Parkir luas,295,306,positive,luas,False,
+U0a377b5fac,r0259_1,FEEDER_BUS,Untuk melanjutkan perjalanan ada shuttle Bus.,403,448,neutral,,False,
+U9f63b82266,r0260_0,PADALARANG,ada KA Feedernya yg langsung terkoneksi jadi sangat memudahkan sekali,49,118,positive,terintegrasi_baik,False,
+Uad14e8902d,r0262_0,JARAK_LOKASI,Lokasi agak jauh dari kota,103,129,negative,lokasi_jauh,False,
+U5359eecae0,r0266_0,ANGKOT_OJEK_PANGKALAN,Sangat minim akses kendaraan umum trayek (tdk ada angkot/bus umum),0,66,negative,tidak_tersedia,False,
+U5359eecae0,r0266_1,OJOL,non trayek (online taxi banyak menghindari),69,112,negative,tidak_tersedia,False,
+U5359eecae0,r0266_2,AKSES_JALAN_MACET,"Area sekitar macet, banjir, sempit, dan tdk banyak jalur alternatif",113,180,negative,macet;akses_jalan_buruk,False,
+U5359eecae0,r0266_3,KONEKTIVITAS_UMUM,"Saran untuk yg berkendaraan umum, spare waktu 2 jam+ meskipun ini di dalam kota",347,426,negative,lainnya,False,waktu tempuh dengan kendaraan umum sangat lama
+Ufd88a81a07,r0269_0,AKSES_JALAN_MACET,aksesnya jalan menuju stasiun kecil dengan kondisi yang jelek..,0,63,negative,akses_jalan_buruk,False,
+Uadcaf1ea5b,r0272_0,ANGKOT_OJEK_PANGKALAN,sekarang malah nambah taxi asongan:(,165,201,negative,lainnya,True,lainnya: taksi asongan/informal; bisa juga TAKSI
+Uadcaf1ea5b,r0272_1,PARKIR,drop zone dipake parkir:(,202,227,negative,lainnya,False,lainnya: drop zone dipakai parkir
+U168d7df2a0,r0273_0,KONEKTIVITAS_UMUM,Akses yang sangat buruk,0,23,negative,,False,
+Ub5638611c0,r0279_0,PARKIR,"Tempat parkirnya bagus, tapi tidak terlalu ramai",0,48,positive,,True,"'tapi tidak terlalu ramai' ambigu, dibaca sebagai tidak padat"
+U1f680e70d9,r0285_0,KONEKTIVITAS_UMUM,perlu di tingkatkan lagi sarana ke pusat kota bandung,49,102,negative,,False,
+U1f680e70d9,r0285_1,OJOL,"Grab dan ojek online usah,",104,130,negative,tidak_tersedia,True,'usah' diasumsikan typo 'susah'
+Uf5c0e20653,r0290_0,PARKIR,"drop off gak ada jalur keluar/puter balik khusus, alhasil lewat parkir bayar 3rb padahal GK parkir sama sekali lewat doang",0,122,negative,tarif_mahal;lainnya,False,area drop-off tanpa jalur keluar khusus sehingga pengantar harus bayar parkir
+U3d9abdc892,r0296_0,AKSES_JALAN_MACET,Mau masuk susah akses  jalan kecil diluar atu didalam area whooosh,0,66,negative,akses_jalan_buruk,False,
+U767fbf7aa6,r0302_0,ANGKOT_OJEK_PANGKALAN,"Tukang ojek pangkalan harus di tertibkan, setiap ada ojek online diteriakin",0,75,negative,konflik_opang,False,lainnya: opang meneriaki/mengusir ojol
+U767fbf7aa6,r0302_1,ANGKOT_OJEK_PANGKALAN,"orang juga jadi males make ojek pangkalan, adab nya gaada",77,134,negative,lainnya,False,lainnya: perilaku opang tidak sopan
+Ud235d5956b,r0308_0,JARAK_LOKASI,jauh dari pusat kota Bandung,40,68,negative,lokasi_jauh,False,
+U8c6a1a8ed9,r0309_0,AKSES_JALAN_MACET,"Ga ada toll, bodoh",0,18,negative,akses_jalan_buruk,False,
+U9db2caff58,r0310_0,JARAK_LOKASI,Lokasinya cukup jauh dari pusat kota,0,36,negative,lokasi_jauh,False,
+U9db2caff58,r0310_1,OJOL,saya ke sini via angkutan online,38,70,neutral,,False,
+U9db2caff58,r0310_2,AKSES_JALAN_MACET,melewati jalur yg agak sempit,75,104,negative,akses_jalan_buruk,False,
+U472f565b12,r0311_0,PARKIR,Area parkir mobil/motor  cukup panas krn di ruang terbuka tanpa atap,140,208,negative,lainnya,False,"parkir tanpa atap, panas"
+U472f565b12,r0311_1,AKSES_JALAN_MACET,jalan menuju ke stasiun ( jalan gedebage dan GBLA ) sangat gelap dan jarang ada penerangan,231,321,negative,akses_jalan_buruk,False,
+U8a42e6c92d,r0312_0,AKSES_JALAN_MACET,akses via google maps susah jadi nyasar ke jalan sawah,0,54,negative,informasi_kurang,False,
+U8a42e6c92d,r0312_1,AKSES_JALAN_MACET,kesel aja akses jalan susah bgt jd buang waktu,227,273,negative,akses_jalan_buruk,False,
+U36089492a1,r0315_0,AKSES_JALAN_MACET,Treknya mobilnya bingungin,0,26,negative,akses_jalan_buruk,True,jalur mobil membingungkan; bisa juga alur drop-off/parkir
+U40c59b64cb,r0316_0,AKSES_JALAN_MACET,"akses untuk bisa kesini masih susah, macet, jalan rusak",71,126,negative,macet;akses_jalan_buruk,False,
+U8def2aada6,r0318_0,PARKIR,Parkir luas,0,11,positive,luas,False,
+U4ebbf88427,r0320_0,AKSES_JALAN_MACET,"Akses jalan lewat cimekar jelek banget, jalan yang di cor cuma sebagian",0,71,negative,akses_jalan_buruk,False,
+U2f0851b878,r0321_0,FEEDER_BUS,ternyata diluar sudah banyak bus dan shuttle buat akses ke luar lagi,112,180,positive,mudah_didapat,False,
+Ueff5f250ba,r0322_0,PARKIR,Parkir kurang luas.,0,19,negative,kapasitas_kurang,False,
+Ueff5f250ba,r0322_1,PARKIR,siang hari biasanya Selalu hampir penuh,52,91,negative,penuh,False,
+Ueff5f250ba,r0322_2,PARKIR,Harga masih masuk akal kalau kendaraan mau ditinggal agak lama,94,156,positive,tarif_wajar,False,
+U21cd7940df,r0323_0,KONEKTIVITAS_UMUM,terintegrasi dengan baik,6,30,positive,terintegrasi_baik,True,tidak jelas terintegrasi dengan apa; diasumsikan integrasi antarmoda
+U6d64748862,r0324_0,ANGKOT_OJEK_PANGKALAN,Harus di aman kan opank,0,23,negative,konflik_opang,False,opang perlu ditertibkan
+U3f7dd07e57,r0326_0,JARAK_LOKASI,stasiun dekat masjid Al Jabar sekitar 2 km,106,148,neutral,,False,
+Ueb55bc900e,r0329_0,OJOL,Akses kendaraan online susah,0,28,negative,tidak_tersedia,False,
+Ueb55bc900e,r0329_1,ANGKOT_OJEK_PANGKALAN,karena ada ojek pangkalan,29,54,negative,konflik_opang,False,opang menghalangi ojol
+Ueb55bc900e,r0329_2,AKSES_JALAN_MACET,akses jalan masih kurang bagus yang kearah cibiru.,55,105,negative,akses_jalan_buruk,False,
+U44983c36a8,r0330_0,PARKIR,mengenai parkiran mohon di kasih pembatas polisi tidur kotak buat ban,139,208,negative,lainnya,False,saran penambahan pembatas ban (wheel stopper) di parkiran
+U84b18c6fa9,r0332_0,KONEKTIVITAS_UMUM,Akses keadaan umum masih sulit,59,89,negative,tidak_tersedia,False,
+U84b18c6fa9,r0332_1,FEEDER_BUS,Hanya ada DAMRI sama taksi,92,118,neutral,,False,
+U84b18c6fa9,r0332_2,TAKSI,Hanya ada DAMRI sama taksi,92,118,neutral,,False,
+U3a5f98e043,r0335_0,KONEKTIVITAS_UMUM,akses cepat ke tempat lain,33,59,positive,,True,"bisa merujuk ke kereta, bukan akses lanjutan"
+Uec8c59c271,r0340_0,PARKIR,kenapa ga ada tarif parkir inap mobil.. reuwas mayar parkir mobil 3 hari,28,100,negative,tarif_mahal,False,
+Uc9bee64d5c,r0341_0,FEEDER_BUS,スマレコンモールモール行きのバス有り,121,139,neutral,,False,
+Uc9bee64d5c,r0341_1,AKSES_JALAN_MACET,この駅を起点に高速道路の出入り口ができ,435,454,neutral,,True,konteks perkembangan kota; fakta pembangunan akses tol
+Ueb6a2a1b53,r0342_0,KONEKTIVITAS_UMUM,Masih minim kendaraan umum.,0,27,negative,tidak_tersedia,False,
+Ueb6a2a1b53,r0342_1,KONEKTIVITAS_UMUM,Harusnya juga ada yang ke Jatinangor urgent banget,131,181,negative,tidak_tersedia,False,
+U8cbcd99f47,r0343_0,PARKIR,Parkiran mahal,0,14,negative,tarif_mahal,False,
+U75161a454b,r0347_0,FEEDER_BUS,There's a feeder bus here to summarecon area,46,90,neutral,,False,
+U75161a454b,r0347_1,TAKSI,bluebird taxi queue,92,111,neutral,,False,
+U75161a454b,r0347_2,OJOL,online driver pickup (bike or car),117,151,neutral,,False,
+U75161a454b,r0347_3,PARKIR,theres no seating area on drop off zone,156,195,negative,lainnya,True,tidak ada tempat duduk di zona drop-off (antar-jemput); bisa dianggap fasilitas stasiun
+U0070023d19,r0349_0,JARAK_LOKASI,lokasinya jauh dari bandung kota,67,99,negative,lokasi_jauh,False,
+U25a192f520,r0353_0,KONEKTIVITAS_UMUM,Akses ke Stasiun Tegalluar juga relatif mudah,1526,1571,positive,mudah_didapat,False,
+U25a192f520,r0353_1,JARAK_LOKASI,Lokasinya strategis,1573,1592,positive,,False,
+U25a192f520,r0353_2,PARKIR,Tersedia juga area parkir yang cukup luas untuk kendaraan pribadi,1701,1766,positive,luas,False,
+U109179d001,r0354_0,JARAK_LOKASI,Daerah sekitar bandung timur gausah jauh” naik feeder ke st bandung kalau mau naik whoosh,65,154,positive,,False,
+U14b07864f3,r0369_0,JARAK_LOKASI,disini paling dekat sama rumah teman,68,104,positive,,False,
+U7f3e9b7105,r0370_0,OJOL,dilarang pake ojek online oleh ojek pangkalan disitu,44,96,negative,tidak_tersedia;konflik_opang,False,
+U7f3e9b7105,r0370_1,ANGKOT_OJEK_PANGKALAN,"si bapak ojol nya dimarahin diancam sampe mau dipukul sama ojek yang mangkal disitu,kaya preman maksa",109,210,negative,konflik_opang,False,opang mengancam ojol
+U471acf4d95,r0371_0,JARAK_LOKASI,"Close to GBLA, Sumarecon Residence.",63,98,neutral,,True,keterangan lokasi deskriptif; bisa positive
+U8e1c991a0b,r0372_0,AKSES_JALAN_MACET,Akses jalan perlu perbaikan,90,117,negative,akses_jalan_buruk,False,
+U1ea71cbb50,r0373_0,JARAK_LOKASI,lokasinya terpencil dari pusat kota,70,105,negative,lokasi_jauh,False,
+U1ea71cbb50,r0373_1,PARKIR,jangan lupa bawa kartu tap parkir karna minim menerima uang cash,220,284,negative,lainnya,False,lainnya: parkir minim menerima tunai
+U2b31b62dd3,r0377_0,PARKIR,Parkiran perlu lebih banyak,121,148,negative,kapasitas_kurang,False,kapasitas parkir kurang
+U19952062f1,r0382_0,JARAK_LOKASI,High speed train station in near bandung,0,40,neutral,,True,hanya deskripsi lokasi; ragu apakah relevan
+Uea1a72ccef,r0390_0,OJOL,tranportasi online aj gak bs masuk,28,62,negative,tidak_tersedia,False,
+Uea1a72ccef,r0390_1,ANGKOT_OJEK_PANGKALAN,kita d paksa pakai opang..lagi2 aksi premanisme,64,111,negative,pungli;konflik_opang,False,
+U90331cad09,r0396_0,OJOL,"Jangan pernah kesini lewat jalan cimencrang, soekarno hatta pake ojek online",0,76,negative,konflik_opang,False,lainnya: ojol dihadang opang
+U90331cad09,r0396_1,ANGKOT_OJEK_PANGKALAN,preman berkedok ojek pangkalan  berperilaku kasar dan maksa buat ganti ojek mereka,100,182,negative,pungli;konflik_opang,False,pemaksaan oleh opang
+U020bd426f9,r0397_0,JARAK_LOKASI,"Stasiun ini dekat dengan Stadion Gelora Bandung Lautan Api, dan Masjid Agung Al-Jabbar.",163,250,neutral,,False,
+U020bd426f9,r0397_1,TAKSI,ada beberapa moda transportasi yaitu Taxi atau Damri atau melalui shuttle KCIC yang disediakan disana,1046,1147,neutral,,False,
+U020bd426f9,r0397_2,FEEDER_BUS,ada beberapa moda transportasi yaitu Taxi atau Damri atau melalui shuttle KCIC yang disediakan disana,1046,1147,neutral,,False,
+U020bd426f9,r0397_3,PARKIR,parkir kendaraan tersedia banyak dan bagus serta bersih,1187,1242,positive,luas,False,
+U1884fc7f91,r0398_0,KONEKTIVITAS_UMUM,kecewa dengan stasiun ini yang tidak memastikan kemudahan transportasi umum,0,75,negative,,False,
+U1884fc7f91,r0398_1,OJOL,banyak driver aplikasi ride-hailing yang tidak mau pickup dan mengantar penumpang ke stasiun ini,77,173,negative,tidak_tersedia,False,
+U1884fc7f91,r0398_2,ANGKOT_OJEK_PANGKALAN,ADA OJEK PANGKALAN SEPERTI PREMAN,194,227,negative,konflik_opang,False,opang bersikap seperti preman
+U1884fc7f91,r0398_3,KONEKTIVITAS_UMUM,diberi kebijakan agar transportasi publik dipermudah dari dan ke stasiun ini,253,329,negative,,False,
+U9fe60e0d1d,r0401_0,KONEKTIVITAS_UMUM,Transportasi menuju dan keluar dr stasiun tegalluar yg masih sangat terbatas,0,76,negative,tidak_tersedia,False,
+U9fe60e0d1d,r0401_1,OJOL,Masih banyak oknum preman yg melarang ojol masuk ke sini,78,134,negative,tidak_tersedia;konflik_opang,False,preman melarang ojol masuk
+Ud40b140f5d,r0403_0,AKSES_JALAN_MACET,tolong dong ada petunjuk arahan kalau mau ke stasiun,0,52,negative,informasi_kurang,False,
+Ud40b140f5d,r0403_1,AKSES_JALAN_MACET,org bdg sj pusing lihat jalan nya sampai nyasar ke jalan kecil,54,116,negative,akses_jalan_buruk;informasi_kurang,False,
+Ud40b140f5d,r0403_2,AKSES_JALAN_MACET,utk jln ny diperbesar dan perbagus banyak lampu juga karena kalau malam gelap sekali,122,206,negative,akses_jalan_buruk,False,
+U34bbb1c10d,r0406_0,FEEDER_BUS,Kalo mau ke kota ada DAMRI harga 15.000,0,39,neutral,,False,
+U34bbb1c10d,r0406_1,TAKSI,Bisa juga taxi,40,54,neutral,,False,
+U34bbb1c10d,r0406_2,PADALARANG,mending turun di Padalarang nanti ada kereta feeder sampe stasiun bandung,72,145,positive,terintegrasi_baik,False,
+U34bbb1c10d,r0406_3,KONEKTIVITAS_UMUM,Kalo mau ke kota mending turun di Padalarang,55,99,negative,,True,aturan 'mending turun di Padalarang'; penilaian negatif tersirat
+U366a1eabf2,r0407_0,JARAK_LOKASI,agak jauj dari pusat kota bandung,50,83,negative,lokasi_jauh,False,
+U6392fad4ca,r0410_0,KONEKTIVITAS_UMUM,access to go in and out is easy,29,60,positive,,True,"bisa berarti akses keluar-masuk area stasiun, bukan di dalam gedung"
+Ua4281f193d,r0413_0,ANGKOT_OJEK_PANGKALAN,ojek pangkalan melarang kami secara sepihak tidak boleh mengambil penumpang disitu,82,164,negative,konflik_opang,False,lainnya: opang melarang ojol mengambil penumpang
+Ua4281f193d,r0413_1,ANGKOT_OJEK_PANGKALAN,ojek pangkalan daerah situ sudah sangat keterlaluan,313,364,negative,konflik_opang,False,
+Ua4281f193d,r0413_2,OJOL,berani membuat aturan sepihak untuk para ojol,480,525,negative,konflik_opang,True,lainnya: ojol dibatasi opang; ditulis dari sudut pandang pengemudi ojol
+Uf6522bda42,r0414_0,AKSES_JALAN_MACET,Jalurnya kurang informatif bikin muter2 diseputar area stasiun,0,62,negative,informasi_kurang,False,
+U5bf8c4f77a,r0415_0,JARAK_LOKASI,Tidak Terlalu Jauh Dari Tempat Tinggal Saya Dan Masih Bisa Dijangkau Dengan Waktu Yang Amat Cepat,16,113,positive,,False,
+Uefa97e117d,r0416_0,JARAK_LOKASI,albeit located a distance from the city center,76,122,negative,lokasi_jauh,False,
+U33169a3279,r0419_0,JARAK_LOKASI,"stasiun kc tegalluar ini deket banget ama rumah, tinggal naik motor 5 menit aja dah sampe",110,199,positive,,False,
+U33169a3279,r0419_1,JARAK_LOKASI,lokasinya jauh dr kota bandung,312,342,negative,lokasi_jauh,False,
+U33169a3279,r0419_2,PADALARANG,org lebih milih turun di padalarang lalu lanjut naik feeder ke stasiun kota bandung,348,431,positive,terintegrasi_baik,False,
+U33169a3279,r0419_3,OJOL,enak turun di sini tinggal naik ojek online kelar deh,482,535,positive,mudah_didapat,False,
+U33169a3279,r0419_4,AKSES_JALAN_MACET,Sepertinya bakal ada akses tol langsung ke sini jg ya biar semakin mudah aksesnya,537,618,neutral,,False,
+U49b54d8996,r0429_0,PARKIR,"parking gate-nya sering bermasalah sejak lama, tidak kunjung diperbaiki",22,93,negative,lainnya,False,lainnya: gate parkir sering rusak
+Uf4baf65e00,r0430_0,PARKIR,parkiran kecil,0,14,negative,kapasitas_kurang,False,kapasitas parkir kecil
+U5e989d8794,r0432_0,OJOL,sayang gojek dan grab ga bisa masuk,15,50,negative,tidak_tersedia,False,
+U5e989d8794,r0432_1,ANGKOT_OJEK_PANGKALAN,dilarang preman berkedok ojek pangkalan,58,97,negative,konflik_opang,False,opang seperti preman melarang ojol
+U026238b9f5,r0434_0,OJOL,Begitu Turun Dari GrabCar,43,68,neutral,,False,
+U803f8b739b,r0435_0,ANGKOT_OJEK_PANGKALAN,Waduh repot banget udah tiba2 ada opang yg nandain,0,50,negative,konflik_opang,False,opang mengintimidasi/menandai penumpang
+U803f8b739b,r0435_1,OJOL,kasian buat yang online udah dicegatin diwanti2 aja,120,171,negative,konflik_opang,False,ojol dicegat opang
+U803f8b739b,r0435_2,FEEDER_BUS,Buat yang gak pake online bisa pakai shuttle damri sampai stasiun gede bage.,205,281,neutral,,False,
+Udaa54b2d3a,r0437_0,PARKIR,parkiran cukup yang luas,159,183,positive,luas,False,
+Udaa54b2d3a,r0437_1,JARAK_LOKASI,berdekatan dengan stadion GBLA dan masjid Al-Jabbar,189,240,neutral,,False,
+Udaa54b2d3a,r0437_2,KONEKTIVITAS_UMUM,Stasiun KA lokal terdekat dari lokasi adalah stasiun Cimekar.,243,304,neutral,,False,
+Udaa54b2d3a,r0437_3,KONEKTIVITAS_UMUM,Semoga kedepanya sistem transit ke transportasi lain diperbanyak lagi karena untuk saat ini masih minim sekali.,305,416,negative,tidak_tersedia,False,
+Ue07c45c724,r0440_0,PARKIR,kasihan mobilnya... tempatnya puanass,0,37,negative,lainnya,True,lainnya: parkir panas; tersirat parkiran mobil
+Ube5d5cb839,r0445_0,AKSES_JALAN_MACET,akses kesini harus melewati jalan padat dan kadang macet,132,188,negative,macet,False,
+Ube5d5cb839,r0445_1,OJOL,Pesan Go-Ride atau Grab-Bike agak lama dapatnya.,272,320,negative,waktu_tunggu_lama,False,
+U827cced409,r0448_0,KONEKTIVITAS_UMUM,perlu diintegrasikan dg moda transum lebih banyak lg,25,77,negative,tidak_tersedia;tidak_terintegrasi,False,
+U7e509cfb20,r0449_0,KONEKTIVITAS_UMUM,the public transport access is kinda limited,43,87,negative,tidak_tersedia,False,
+U7e509cfb20,r0449_1,PARKIR,the car parking lot also confusing,89,123,negative,lainnya,False,lainnya: tata letak parkir membingungkan
+Uaac69b861c,r0450_0,AKSES_JALAN_MACET,Kurangnya pintu tol yang menuju timur,0,37,negative,akses_jalan_buruk,False,
+U04bd69e02d,r0451_0,KONEKTIVITAS_UMUM,Minim transportasi umum.,0,24,negative,tidak_tersedia,False,
+U85ed02a052,r0453_0,JARAK_LOKASI,Lokasinya cukup strategis,100,125,positive,,False,
+Ua1f6e01946,r0456_0,FEEDER_BUS,transportasi umum ada shuttle ke summarecon,27,70,neutral,,False,
+Ua1f6e01946,r0456_1,TAKSI,untuk taksi dan taksi online semua provider bisa dipesan,72,128,positive,mudah_didapat,False,
+Ua1f6e01946,r0456_2,OJOL,untuk taksi dan taksi online semua provider bisa dipesan,72,128,positive,mudah_didapat,False,
+Ubf65139224,r0457_0,AKSES_JALAN_MACET,Akses jalan nya coba di pikirkan lagi,0,37,negative,akses_jalan_buruk,False,
+Ubf65139224,r0457_1,AKSES_JALAN_MACET,"Selalu macet, ada gerbang tol ga bisa di pake",94,139,negative,macet;akses_jalan_buruk,False,
+Ub0af6430d3,r0459_0,PARKIR,Proses penjemputan mudah dan cepat,0,34,positive,,True,penjemputan diasumsikan antar-jemput pribadi; moda tidak disebut
+Ub0af6430d3,r0459_1,PADALARANG,tidak seperti stasiun kereta cepat Padalarang yg rawan kemacetan,36,100,negative,macet,False,
+U930ee0473b,r0465_0,KONEKTIVITAS_UMUM,akses hanya dijangkau oleh feeder,7,40,negative,tidak_tersedia,True,'hanya' menyiratkan keterbatasan moda; feeder tidak jelas bus atau kereta
+Ub090a85231,r0466_0,JARAK_LOKASI,Dekat cilenyi,0,13,neutral,,False,
+U3100abe862,r0470_0,JARAK_LOKASI,dekat dengan summarecon bandung,116,147,neutral,,False,
+Ud84a468d01,r0473_0,AKSES_JALAN_MACET,Jalan ini representatif dan bagus untuk roda 4.,289,336,positive,,False,
+U5d18fec0ee,r0474_0,PARKIR,yaelah bayar parkir cash only kayak jaman batu aja,0,50,negative,lainnya,False,pembayaran parkir hanya tunai
+Uaea7958472,r0475_0,PARKIR,Tempat cukup luas baik tempat parkir,0,36,positive,luas,False,
+U7289fff3a8,r0476_0,PARKIR,Tolong parkirannya diperluas,0,28,negative,kapasitas_kurang,False,lainnya: kapasitas parkir kurang
+U7289fff3a8,r0476_1,PARKIR,"kalau ada tamu vvip pasti parkiran membludak, cari parkir 40 menit sendiri",38,112,negative,penuh,False,
+U1e0eafcf79,r0477_0,PARKIR,Parkiran luas,7,20,positive,luas,False,
+U77345bb22c,r0478_0,AKSES_JALAN_MACET,Krn google map nya ngaco akhirnya sampe nyasar ke desa Tegalluar,57,121,negative,informasi_kurang,False,
+U77345bb22c,r0478_1,AKSES_JALAN_MACET,memberi petunjuk yg jelas di jalan raya dr segala penjuru,561,618,negative,informasi_kurang,False,
+U77345bb22c,r0478_2,KONEKTIVITAS_UMUM,di KCIC NYA bs dikasih petunjuk sprt arah keluar tempat cari taksi atau angkutan dll.,625,710,negative,informasi_kurang;titik_jemput_membingungkan,False,
+U31e3b92bde,r0482_0,OJOL,sebaiknya hati-hati dengan tarif nembak dari supirnya,89,142,negative,tarif_mahal,False,
+U1467fd58e5,r0487_0,JARAK_LOKASI,"The station serves as an essential hub for travelers heading toward eastern and southern Bandung, Gedebage, and neighboring regencies, bypassing central city traffic entirely.",1123,1298,positive,,False,
+U1467fd58e5,r0487_1,KONEKTIVITAS_UMUM,supported by an extensive network of multi-modal surface transport and road access points,1741,1830,positive,mudah_didapat,False,
+U1467fd58e5,r0487_2,FEEDER_BUS,"Dedicated shuttle services, including specialized Damri buses connecting to Metro Indah Mall and dedicated Summarecon shuttles running directly to Summarecon Mall Bandung, provide seamless first-mile and last-mile connectivity",1832,2058,positive,terintegrasi_baik,False,
+U1467fd58e5,r0487_3,AKSES_JALAN_MACET,Road access is heavily optimized,2107,2139,positive,,False,
+U0daad28355,r0491_0,AKSES_JALAN_MACET,keluar dari sini macetnya minta ampun dan kapok,40,87,negative,macet,False,
+Ud1464a517b,r0494_0,PARKIR,trnyata dihitung nya perjam alhasil 3malam - 3hari setara dgn naik woosh lagi,84,161,negative,tarif_mahal,False,
+U2a55e52afc,r0496_0,KONEKTIVITAS_UMUM,Tolong dong sediain feeder juga akses dari tegal luar masa padalarang doang sih,0,79,negative,tidak_tersedia,True,'feeder' kemungkinan KA feeder (spt Padalarang); bisa juga FEEDER_BUS/PADALARANG
+U03e650be2e,r0497_0,JARAK_LOKASI,Tempatnya terpojok banget rasanya wkwkwk jauhhh dari ramainya kota.,0,67,negative,lokasi_jauh,False,
+Ud7836e40de,r0498_0,OJOL,Sekarang pesen gocar grabbcar indriver maxim bebas di kcic tegaluar bisa di lobby atau di  bunderan dekat parkiran bebas pic up,0,127,positive,mudah_didapat,False,
+Ud7836e40de,r0498_1,OJOL,24jam online tersedia,128,149,positive,mudah_didapat,False,
+U2a4da0baed,r0502_0,AKSES_JALAN_MACET,penerangan akses jalannya masih terbilang masih kurang,102,156,negative,akses_jalan_buruk,False,
+Uafa207dbf9,r0507_0,JARAK_LOKASI,Tegalluar station located quite far from Bandung city center,90,150,negative,lokasi_jauh,False,
+U1b9549af10,r0508_0,ANGKOT_OJEK_PANGKALAN,OPANG NYA SUKA BERHENTIIN MINTAIN DUIT,251,289,negative,pungli;konflik_opang,False,
+U9586bfbea2,r0514_0,JARAK_LOKASI,lokasi agak jauh dari pusat kota.,42,75,negative,lokasi_jauh,False,
+U9586bfbea2,r0514_1,KONEKTIVITAS_UMUM,Banyak pilihan transportasi dari dan menuju ke stasiun Tegalluar.,76,141,positive,mudah_didapat,False,
+Ub819af6b49,r0515_0,AKSES_JALAN_MACET,Cuma akses jalan nya kacau,18,44,negative,akses_jalan_buruk,False,
+Ub819af6b49,r0515_1,AKSES_JALAN_MACET,masuk pintu TOL yg deket malah di tutup,70,109,negative,akses_jalan_buruk,False,
+U76fd673dfc,r0516_0,PARKIR,udah mah parkirnya sempit,0,25,negative,kapasitas_kurang,False,parkir sempit
+U76fd673dfc,r0516_1,PARKIR,parkirnya pada ngaco2 gada yg ngatur,27,63,negative,lainnya,False,"parkir tidak tertib, tidak ada pengatur"
+U3e99679a83,r0524_0,PARKIR,"Sy parkir motor dr jam 7 pagi sampe jam 7 malem kena 39rb, pdhal di pintu masuk jelas terpampang motor 1500 per jam.",0,116,negative,tarif_mahal,False,
+U3e99679a83,r0524_1,PARKIR,pintu keluar motor gak ada,190,216,negative,lainnya,False,tidak ada pintu keluar parkir motor
+U252dbe967a,r0531_0,JARAK_LOKASI,"Posisinya ga jauh dari Stadion Gelora Bandung Lautan Api, dan kawasan Sumarecon Bandung.",46,134,neutral,,False,
+U252dbe967a,r0531_1,AKSES_JALAN_MACET,Minusnya kesini akses yang masih belum ok.,193,235,negative,akses_jalan_buruk,False,
+U252dbe967a,r0531_2,AKSES_JALAN_MACET,Masih perlu lewar jalan jalan kecil dan cukup masuk ke dalam untun sampai dari kota.,236,320,negative,akses_jalan_buruk,False,
+U252dbe967a,r0531_3,KONEKTIVITAS_UMUM,Sepertinya juga ga ada angkutan umum selain ojek dan taxi.,321,379,negative,tidak_tersedia,False,
+U30eccfe500,r0536_0,JARAK_LOKASI,"karena terletak agak di pinggir kota, jadi agak sepi",127,179,negative,lokasi_jauh,False,
+U30eccfe500,r0536_1,PADALARANG,Penumpang lebih banyak yang naik turun di Stasiun Bandung yang diangkut feeder ke stasiun Padalarang.,181,282,neutral,,False,
+U87992a2b93,r0538_0,OJOL,Grab? Should be removed.,116,140,negative,,False,
+U87992a2b93,r0538_1,OJOL,Incompetent driver here on Whoosh Tegalluar,141,184,negative,lainnya,False,lainnya: pengemudi tidak kompeten
+U87992a2b93,r0538_2,OJOL,you will pay EXPENSIVE price to get a quick one,186,233,negative,tarif_mahal,False,
+U87992a2b93,r0538_3,OJOL,"you need to wait 15-20min on app to get regular price, just to get cancelled",237,313,negative,waktu_tunggu_lama,False,
+U1738716181,r0539_0,PARKIR,"Tempatnya praktis, ada parkiran",0,31,positive,,True,keberadaan parkir disebut dalam konteks pujian; bisa juga neutral
+Ua08ffb1f72,r0540_0,PARKIR,Parkir luas,59,70,positive,luas,False,
+Ua08ffb1f72,r0540_1,FEEDER_BUS,Fasilitas angkutan umum sudah tersedia bis news damri melewati summarecon,139,212,positive,,False,
+U1744fd78e2,r0541_0,JARAK_LOKASI,Jauh dari keramaian kota,0,24,negative,lokasi_jauh,False,
+U1744fd78e2,r0541_1,JARAK_LOKASI,dekat dengan stadion gbla,28,53,neutral,,False,
+U1744fd78e2,r0541_2,AKSES_JALAN_MACET,jalan bisa melalui sumarecon gede bage,58,96,neutral,,False,
+U538266d5bf,r0546_0,KONEKTIVITAS_UMUM,Akses sudah ada,107,122,positive,,False,
+U58b0e7a83b,r0547_0,JARAK_LOKASI,Jauh dari peradaban hehe,0,24,negative,lokasi_jauh,False,
+U58b0e7a83b,r0547_1,JARAK_LOKASI,cukup jauh lokasinya,288,308,negative,lokasi_jauh,False,
+Uab35db6f39,r0548_0,JARAK_LOKASI,Nearest from Buah Batu,0,22,positive,,False,
+Ued3a475a6e,r0550_0,KONEKTIVITAS_UMUM,Aksesnya juga mudah kok,27,50,positive,mudah_didapat,False,
+Ued3a475a6e,r0550_1,PARKIR,Parkir nya juga gratis,52,74,positive,tarif_wajar,False,
+Ued3a475a6e,r0550_2,FEEDER_BUS,"Tersedia bus ke Summarecon, taxi bluebird, dan juga bus damri",76,137,neutral,,False,
+Ued3a475a6e,r0550_3,TAKSI,"Tersedia bus ke Summarecon, taxi bluebird, dan juga bus damri",76,137,neutral,,False,
+Uce9027692f,r0557_0,PADALARANG,Enakan di sini daripada di padalarang.,0,38,negative,,True,perbandingan: Tegalluar dinilai lebih baik daripada turun di Padalarang
+Uce9027692f,r0557_1,AKSES_JALAN_MACET,Ga macet,39,47,positive,,False,
+Uce9027692f,r0557_2,JARAK_LOKASI,lebih deket ke kota bandung,52,79,positive,,False,
+U9c1103abfa,r0558_0,AKSES_JALAN_MACET,Akses mudah dan cepat via bandung timur,0,39,positive,,False,
+U2cd2d64e21,r0560_0,PARKIR,parkirannya super panassss,121,147,negative,lainnya,False,lainnya: parkir panas/tidak teduh
+U96e4fce174,r0563_0,JARAK_LOKASI,deket dari rumah,9,25,positive,,False,
+Ud50b2c2aac,r0565_0,PARKIR,parkirnya terlalu jauh,18,40,negative,lainnya,False,parkir jauh dari stasiun
+Ud50b2c2aac,r0565_1,PARKIR,Kucibg-kucingan parkir di drop off,41,75,negative,lainnya,True,parkir curi-curi di drop off karena parkiran jauh; sentimen tersirat
+Ud8bc682c70,r0568_0,KONEKTIVITAS_UMUM,Untuk akses dari dan ke stasiun ini sudah cukup lengkap,456,511,positive,mudah_didapat,False,
+Ud8bc682c70,r0568_1,FEEDER_BUS,"ada bus gratis ke Summarecon Mall Bandung, shuttle bus Damri ke pusat kota Bandung",513,595,positive,mudah_didapat;tarif_wajar,False,
+Ud8bc682c70,r0568_2,TAKSI,taksi Bluebird,597,611,positive,mudah_didapat,False,
+Ud8bc682c70,r0568_3,OJOL,Taksi & ojek online yg udah standby di area drop off,613,665,positive,mudah_didapat,False,
+U1c2fa7ff1c,r0569_0,JARAK_LOKASI,lokasi strategis dekat dengan stadion BGBLA Bandung,101,152,positive,,False,
+U2983900833,r0572_0,OJOL,terdapat opang sehingga ojol tidak diperbolehkan ngambil penumpang haduh agak sulit ya,67,153,negative,tidak_tersedia;konflik_opang,False,
+U2983900833,r0572_1,ANGKOT_OJEK_PANGKALAN,terdapat opang sehingga ojol tidak diperbolehkan ngambil penumpang,67,133,negative,konflik_opang,False,opang melarang ojol mengambil penumpang
+U2983900833,r0572_2,OJOL,taksi online masih bisa,155,178,neutral,,False,
+Uee980c4eea,r0573_0,FEEDER_BUS,Halte bus berbayar tujuan ke pusat kota Bandung dan ke Summarecon Mall.,0,71,neutral,,False,
+U78bca3dd3c,r0575_0,OJOL,turun pesen gocar langsung dapet,30,62,positive,mudah_didapat,False,
+U9576ef8b1f,r0576_0,AKSES_JALAN_MACET,"stasiun ini aksesnya sudah khusus ya, nyaman.",224,269,positive,nyaman,True,'akses khusus' ditafsirkan sebagai jalan akses khusus menuju stasiun
+U9576ef8b1f,r0576_1,PARKIR,parkiran panas sih tp lumayan luas,270,304,mixed,luas;lainnya,False,parkiran panas
+U6bb5fc367c,r0584_0,OJOL,akses ke sini cukup sulit apabila menggunakan ojol,101,151,negative,tidak_tersedia,False,
+U6bb5fc367c,r0584_1,ANGKOT_OJEK_PANGKALAN,karena diberhentikan oleh ojek pangkalan setempat,153,202,negative,konflik_opang,False,opang menghentikan ojol
+U1d2377cbf6,r0586_0,PARKIR,"Tempat parkir, dari arah jalan masuk, ke arah kanan, nanti keliatan parkiran nya.",23,104,neutral,,False,
+U98f2ae17fb,r0589_0,PARKIR,parkiran luas,55,68,positive,luas,False,
+Ud00ed39e15,r0591_0,FEEDER_BUS,perlu ditambah alternatif moda transportasi lain seperti bus,80,140,negative,tidak_tersedia,False,
+Ud00ed39e15,r0591_1,KONEKTIVITAS_UMUM,tidak harus selalu mengandalkan kendaraan pribadi atau taksi untuk menuju ke stasiun ini,151,239,negative,tidak_tersedia,False,
+U1186da40f7,r0593_0,JARAK_LOKASI,lumayan juga sih jaraknya,239,264,negative,lokasi_jauh,False,
+U1186da40f7,r0593_1,AKSES_JALAN_MACET,paling enak keberangkatan siang tdk terlalu macet,268,317,neutral,macet,True,tips waktu; tersirat macet di jam lain
+U4c9a115de4,r0596_0,AKSES_JALAN_MACET,Akses nya lewat jalan2 kecil,0,28,negative,akses_jalan_buruk,False,
+U99369d42c1,r0597_0,KONEKTIVITAS_UMUM,akses susah banget,0,18,negative,,False,
+U99369d42c1,r0597_1,FEEDER_BUS,kendaraan umum ada bis tp sangat tidak terintegrasi,20,71,negative,tidak_terintegrasi,False,bus tidak terintegrasi
+U99369d42c1,r0597_2,AKSES_JALAN_MACET,"malah terjebak macet,karena akses jalan sangat sempit dan sangat padat",76,146,negative,macet;akses_jalan_buruk,False,
+U99369d42c1,r0597_3,OJOL,Ojol gak berani masuk sepertinya takut dg preman setempat,149,206,negative,tidak_tersedia;konflik_opang,False,
+Ubf80c501f1,r0599_0,PARKIR,Parkir inap tetep dihitung perjam walaupun menginap.,0,52,negative,tarif_mahal,False,
+Ubf80c501f1,r0599_1,PARKIR,Info di website per malam 30 rb hoaks,53,90,negative,informasi_kurang,False,
+U5f989a0163,r0600_0,JARAK_LOKASI,Lokasi stasiun sangat jauh dari pusat kota.,0,43,negative,lokasi_jauh,False,
+U5f989a0163,r0600_1,AKSES_JALAN_MACET,"Waspadai kemacetan lalu lintas yang parah, terutama di akhir pekan.",44,111,negative,macet,False,
+U9dd3d5c34f,r0601_0,JARAK_LOKASI,Mana stasiunnya deket,99,120,positive,,False,
+U34c491bb51,r0605_0,AKSES_JALAN_MACET,Jalanan enak,63,75,positive,,True,tidak jelas apakah jalan menuju stasiun atau pemandangan perjalanan
+U2ed1b8511a,r0610_0,JARAK_LOKASI,"Lokasi di bandung timur, dekat GBLA dan Al Jabbar.",22,72,neutral,,False,
+U2ed1b8511a,r0610_1,PARKIR,Parkiran motor dan mobil ada.,237,266,neutral,,False,
+Uc072ff620c,r0611_0,JARAK_LOKASI,keluar pintu stasiun langsung stadion GBLA,103,145,neutral,,False,
+Ue177f6fb6d,r0617_0,FEEDER_BUS,terdapat suttle damri ke mesjid al jabar seharga 15 rb,18,72,neutral,,False,
+Ue177f6fb6d,r0617_1,PARKIR,Parkiran motor dan mobil cukup luas,74,109,positive,luas,False,
+Uf1c7994be9,r0623_0,JARAK_LOKASI,akses cukup jauh dari jalan utama kota bandung,0,46,negative,lokasi_jauh,False,
+U480463f794,r0628_0,JARAK_LOKASI,"Jauh ke mana""",0,13,negative,lokasi_jauh,False,
+U480463f794,r0628_1,OJOL,susah pesen Gojek karna driver online gak dibolehin ambil dan anter ke daerah sini,14,96,negative,tidak_tersedia,False,
+U480463f794,r0628_2,ANGKOT_OJEK_PANGKALAN,Klo preman sudah menguasai,116,142,negative,konflik_opang,True,"preman melarang ojol; diasumsikan ojek pangkalan/calo, tidak disebut eksplisit"
+U7dc3feb53d,r0629_0,AKSES_JALAN_MACET,road to station is really bad!,26,56,negative,akses_jalan_buruk,False,
+U7dc3feb53d,r0629_1,AKSES_JALAN_MACET,They are with small roads with traffic,110,148,negative,akses_jalan_buruk;macet,False,
+U780e91a20b,r0631_0,PARKIR,kalo bisa ganti vendor parkir nya,34,67,negative,lainnya,False,pelayanan pengelola parkir buruk
+Uc5dcdeb136,r0638_0,JARAK_LOKASI,cukup jauh dari pusat kota bandung,33,67,negative,lokasi_jauh,False,
+Uc5dcdeb136,r0638_1,AKSES_JALAN_MACET,akses jalan cukup sempit,72,96,negative,akses_jalan_buruk,False,
+U1a2109a51c,r0641_0,PADALARANG,untuk yang mau nyambung naik kereta feeder itu beli tiket yang tujuannya ke st. Padalarang ya,484,577,neutral,informasi_kurang,False,
+U1a2109a51c,r0641_1,KONEKTIVITAS_UMUM,gue tiketnya turun di st. Tegalluar jadi gabisa naik feeder,654,713,negative,tidak_tersedia,False,
+U1a2109a51c,r0641_2,FEEDER_BUS,"di st. Tegalluar ada bis Damri yang bisa turun di Braga, ongkosnya cuma bayar 15ribu aja",732,820,positive,tarif_wajar,False,
+U1a2109a51c,r0641_3,PADALARANG,kalo bisa naik feeder gratis kenapa naik bis ya,831,878,positive,tarif_wajar,False,
+Uddc5c15eac,r0644_0,JARAK_LOKASI,駅周辺には何もありません,55,67,negative,lokasi_jauh,True,'tidak ada apa-apa di sekitar stasiun' ditafsirkan sebagai lokasi terpencil
+U67c568d89c,r0649_0,JARAK_LOKASI,letaknya agak jauh dari pusat kota Bandung,50,92,negative,lokasi_jauh,False,
+U67c568d89c,r0649_1,TAKSI,transportasi lanjutan seperti bus Damri dan taksi,137,186,neutral,,False,
+U67c568d89c,r0649_2,FEEDER_BUS,Hanya dengan 15 ribu rupiah Anda bisa naik bus Damri ke Alun-Alun Bandung,188,261,positive,tarif_wajar,False,
+U71ea7962ba,r0664_0,JARAK_LOKASI,It gets you closer to eastern bandung.,30,68,positive,,False,
+U5efcb6a73a,r0671_0,ANGKOT_OJEK_PANGKALAN,masih ada aja sih oknum2 ojek pangkalan yang ngelarang larang ojek online ambil penumpang,47,136,negative,konflik_opang,False,lainnya: opang melarang ojol
+U5efcb6a73a,r0671_1,OJOL,ngelarang larang ojek online ambil penumpang,92,136,negative,konflik_opang,False,lainnya: ojol dilarang menjemput
+U5efcb6a73a,r0671_2,ANGKOT_OJEK_PANGKALAN,Masa sampe ada kerusuhan segala. Primitif banget,138,186,negative,konflik_opang,False,lainnya: konflik/kerusuhan opang

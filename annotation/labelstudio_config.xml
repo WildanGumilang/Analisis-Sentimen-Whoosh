@@ -1,0 +1,97 @@
+<!--
+  Konfigurasi Label Studio — ABSA konektivitas transportasi Stasiun Whoosh Tegalluar.
+  Pegangan: config/guideline_ringkas.md
+
+  Alur per task:
+    1. Jawab "Relevan konektivitas?" (wajib).
+    2. Jika ya: pilih kode aspek, lalu blok (span) evidence di teks asli.
+    3. Klik span -> isi sentimen (wajib), issue_tags, ragu, catatan.
+  Rating ditampilkan sebagai info saja; JANGAN dipakai untuk menentukan sentimen.
+-->
+<View>
+  <Style>
+    .info    { background: #f4f6f8; padding: 8px 12px; border-radius: 6px; margin-bottom: 8px; }
+    .terj    { color: #555; font-style: italic; }
+    .panel   { border-left: 4px solid #2a6f97; padding-left: 12px; margin-top: 8px; }
+  </Style>
+
+  <!-- Info bantu (read-only) -->
+  <View className="info">
+    <Text name="meta" value="$meta"/>
+  </View>
+
+  <!-- Teks asli: tempat memblok evidence -->
+  <Header value="Teks asli"/>
+  <Text name="text" value="$text_original"/>
+
+  <View className="terj">
+    <Header value="Terjemahan Google (bantuan, jangan diblok)" size="6"/>
+    <Text name="translation" value="$text_translated"/>
+  </View>
+
+  <!-- Level review -->
+  <Choices name="relevan" toName="text" choice="single" required="true" showInline="true">
+    <Header value="Relevan konektivitas?"/>
+    <Choice value="ya"/>
+    <Choice value="tidak"/>
+  </Choices>
+
+  <!-- Span aspek (span yang diblok = evidence) -->
+  <Header value="Aspek (pilih label, lalu blok teks)"/>
+  <Labels name="aspek" toName="text" choice="single">
+    <Label value="FEEDER_BUS" background="#1f77b4" hotkey="1"/>
+    <Label value="PADALARANG" background="#ff7f0e" hotkey="2"/>
+    <Label value="OJOL" background="#2ca02c" hotkey="3"/>
+    <Label value="TAKSI" background="#d62728" hotkey="4"/>
+    <Label value="ANGKOT_OJEK_PANGKALAN" background="#9467bd" hotkey="5"/>
+    <Label value="PARKIR" background="#8c564b" hotkey="6"/>
+    <Label value="AKSES_JALAN_MACET" background="#e377c2" hotkey="7"/>
+    <Label value="JARAK_LOKASI" background="#7f7f7f" hotkey="8"/>
+    <Label value="INTEGRASI_JADWAL" background="#bcbd22" hotkey="9"/>
+    <Label value="KONEKTIVITAS_UMUM" background="#17becf" hotkey="0"/>
+  </Labels>
+
+  <!-- Atribut per span (muncul saat span dipilih) -->
+  <View visibleWhen="region-selected" className="panel">
+    <Choices name="sentimen" toName="text" perRegion="true" required="true" choice="single" showInline="true">
+      <Header value="Sentimen span"/>
+      <Choice value="positive"/>
+      <Choice value="negative"/>
+      <Choice value="neutral"/>
+      <Choice value="mixed"/>
+    </Choices>
+
+    <Choices name="issue_tags" toName="text" perRegion="true" choice="multiple" showInline="true">
+      <Header value="Issue tags"/>
+      <Choice value="tarif_mahal"/>
+      <Choice value="tarif_wajar"/>
+      <Choice value="waktu_tunggu_lama"/>
+      <Choice value="tidak_tersedia"/>
+      <Choice value="mudah_didapat"/>
+      <Choice value="titik_jemput_jauh"/>
+      <Choice value="titik_jemput_membingungkan"/>
+      <Choice value="jam_operasional_terbatas"/>
+      <Choice value="jadwal_tidak_sinkron"/>
+      <Choice value="macet"/>
+      <Choice value="akses_jalan_buruk"/>
+      <Choice value="lokasi_jauh"/>
+      <Choice value="informasi_kurang"/>
+      <Choice value="terintegrasi_baik"/>
+      <Choice value="nyaman"/>
+      <Choice value="luas"/>
+      <Choice value="penuh"/>
+      <Choice value="pungli"/>
+      <Choice value="konflik_opang"/>
+      <Choice value="kapasitas_kurang"/>
+      <Choice value="tidak_terintegrasi"/>
+      <Choice value="lainnya"/>
+    </Choices>
+
+    <Choices name="ragu" toName="text" perRegion="true" choice="multiple" showInline="true">
+      <Choice value="ragu"/>
+    </Choices>
+
+    <TextArea name="catatan" toName="text" perRegion="true" editable="true" rows="2"
+              placeholder="Catatan (wajib jika issue_tags = lainnya atau ragu)"/>
+  </View>
+</View>

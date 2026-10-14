@@ -1,0 +1,21 @@
+# Lingkungan & model (dibuat ulang lewat requirements*.txt; model diunduh otomatis)
+.venv*/
+__pycache__/
+*.pyc
+models/
+node_modules/
+
+# Sesi login & database lokal — JANGAN dipublikasikan
+.browser_profile/
+.labelstudio/
+
+# Data mentah & hasil antara: berisi teks ulasan lengkap dan ID ulasan Google.
+# Yang dipublikasikan hanya data/public/ (hasil src/export_public.py, ID berupa kode samaran).
+data/raw/
+data/interim/
+data/labels/
+data/processed/
+data/gold/
+
+# Log
+**/_*_log.txt

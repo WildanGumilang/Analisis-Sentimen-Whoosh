@@ -1,0 +1,448 @@
+kode_ulasan,place_name,periode,rating,language,likes,category,sentiment,issue_tags,ragu,evidence,catatan
+U9ef94e0241,Tegalluar Summarecon,±setahun lalu,5.0,id,4,Akses jalan & macet,negatif,akses_jalan_buruk,False,Aksesnya juga agak susah ya kalau ga lewat tol ya lewat jalan biasa,
+Ufaef45985b,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,4,Akses jalan & macet,negatif,akses_jalan_buruk,False,sekali aja ke sini kl jalan belum diperbaiki,
+Ufaef45985b,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,4,Akses jalan & macet,negatif,informasi_kurang,False,Rute nyasar2..,
+Ufaef45985b,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,4,Akses jalan & macet,negatif,akses_jalan_buruk,False,Jangaaaaan yg lewat Majalaya/ Dang deur.. iniii menyesatkan.,
+Ufaef45985b,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,4,Akses jalan & macet,negatif,akses_jalan_buruk,False,Kcic tolong bikin akses yg bener.,
+U2d9dab0ccf,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,3,Akses jalan & macet,negatif,macet,False,"Lalu lintas dan jarak dari stasiun kereta lokal terdekat, yaitu Stasiun Cimekar, adalah hal-hal yang perlu dipertimbangkan.",
+U8a42e6c92d,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,3,Akses jalan & macet,negatif,informasi_kurang,False,akses via google maps susah jadi nyasar ke jalan sawah,
+U8a42e6c92d,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,3,Akses jalan & macet,negatif,akses_jalan_buruk,False,kesel aja akses jalan susah bgt jd buang waktu,
+Ua5f26651f3,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,2,Akses jalan & macet,negatif,macet,False,Perjalanan ke kota bandung lumayan macet dari sini.,
+U5359eecae0,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,2,Akses jalan & macet,negatif,macet;akses_jalan_buruk,False,"Area sekitar macet, banjir, sempit, dan tdk banyak jalur alternatif",
+U812e79a60c,Parkir Timur Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,1,Akses jalan & macet,negatif,macet,False,Akses ke sini emang macet..,
+Uad72a48cf8,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,1,Akses jalan & macet,negatif,akses_jalan_buruk,False,mau pulang ke stasiun tegalluar tapi kena banjir,
+Ueb55bc900e,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,1,Akses jalan & macet,negatif,akses_jalan_buruk,False,akses jalan masih kurang bagus yang kearah cibiru.,
+U2a4da0baed,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,1,Akses jalan & macet,negatif,akses_jalan_buruk,False,penerangan akses jalannya masih terbilang masih kurang,
+U49cb7faafe,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,4.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,Akses menuju sta tegalluar klo malam kurang sekali penerangan,
+U095cf6d768,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,Akses ke stasiun susah,
+U095cf6d768,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,0,Akses jalan & macet,negatif,macet;akses_jalan_buruk,False,kalau musim hujan banyak jalur yg macet dan banjir,
+U095cf6d768,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,Tol belum di buka,
+Ua097d524f2,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Akses jalan & macet,negatif,macet,False,Weekend jalanan munglin macet karna banyak yg mau k mesjid,
+U96b5f8e4e1,Stasiun Kereta Cepat Tegalluar,≤ 11 bulan terakhir,3.0,en,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,only narrow road connections to anywhere important,
+U4a208fee4a,Tegalluar Summarecon,≤ 11 bulan terakhir,5.0,id,0,Akses jalan & macet,negatif,macet;lokasi_jauh,False,"yang jarak tempuhnya sekitar 1 jam lebih, karena jauh dan macet",
+U02170d128f,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,3.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,Aksesnya ribeuut banget.,
+U02170d128f,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,3.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,harus lewat tengah kampung jalanan sempit,
+U02170d128f,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,3.0,id,0,Akses jalan & macet,negatif,macet,False,kalo ada kereta api lewat jadi macet panjang,
+U02170d128f,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,3.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,Dikirain ada pintu tol di dekatnya ternyata tidak,
+U465b582382,Kereta Cepat Whoosh Tegalluar,±2 tahun lalu,3.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,tidak ada akses langsung ke jalan tol,
+U465b582382,Kereta Cepat Whoosh Tegalluar,±2 tahun lalu,3.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk;macet,False,Anda harus melewati jalan sempit dan kemacetan lalu lintas,
+U006cc22a11,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,3.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,Tidak ada akses jalan kalau dari Ranca ekek..sementara ini jalan nya muter lewat sawah,
+U006cc22a11,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,3.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,tolong dong jalan yang di tengah buka,
+Uf286fcb0ea,Kereta Cepat Whoosh Tegalluar,±setahun lalu,5.0,id,0,Akses jalan & macet,negatif,macet,False,Agak macet jalan kesana,
+Ub9effae392,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,Sebenernya dua duanya akses nya buruk,
+Ub9effae392,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Akses jalan & macet,negatif,macet,False,kalo lewat soekarno hatta tau sendiri macetnya cibiru pake mobil lama banget,
+Ub9effae392,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,cuma emang parah akses kesininya aja,
+U34b635f8f4,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,ja,0,Akses jalan & macet,negatif,macet,False,駅に向かう途中の踏切やモスクにより大渋滞に巻き込まれることがあるので注意！,
+U30b16f747d,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,1.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,Akses nya buruk banget,
+U30b16f747d,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,1.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,Jalan kecil & rusak,
+U30b16f747d,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,1.0,id,0,Akses jalan & macet,negatif,informasi_kurang,False,Untuk bus pariwisata rawan kesasar,
+U30b16f747d,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,1.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,Mbok ya dibikin akses langsung tol,
+Uab4239e426,Kereta Cepat Whoosh Tegalluar,±setahun lalu,4.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,Akses jalan menuju lokasi diperlebar dong.,
+Ud37b59686b,Tegalluar Summarecon,≤ 11 bulan terakhir,4.0,id,0,Akses jalan & macet,negatif,macet,False,Macettt pas pertigaan mau ke stasiun,
+Ufd88a81a07,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,aksesnya jalan menuju stasiun kecil dengan kondisi yang jelek..,
+U3d9abdc892,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,3.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,Mau masuk susah akses  jalan kecil diluar atu didalam area whooosh,
+U8c6a1a8ed9,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,"Ga ada toll, bodoh",
+U9db2caff58,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,melewati jalur yg agak sempit,
+U472f565b12,Stasiun Kereta Cepat Tegalluar,±setahun lalu,5.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,jalan menuju ke stasiun ( jalan gedebage dan GBLA ) sangat gelap dan jarang ada penerangan,
+U36089492a1,Kereta Cepat Whoosh Tegalluar,±setahun lalu,4.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,True,Treknya mobilnya bingungin,jalur mobil membingungkan; bisa juga alur drop-off/parkir
+U40c59b64cb,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,3.0,id,0,Akses jalan & macet,negatif,macet;akses_jalan_buruk,False,"akses untuk bisa kesini masih susah, macet, jalan rusak",
+U4ebbf88427,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,"Akses jalan lewat cimekar jelek banget, jalan yang di cor cuma sebagian",
+U8e1c991a0b,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,Akses jalan perlu perbaikan,
+Ud40b140f5d,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Akses jalan & macet,negatif,informasi_kurang,False,tolong dong ada petunjuk arahan kalau mau ke stasiun,
+Ud40b140f5d,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk;informasi_kurang,False,org bdg sj pusing lihat jalan nya sampai nyasar ke jalan kecil,
+Ud40b140f5d,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,utk jln ny diperbesar dan perbagus banyak lampu juga karena kalau malam gelap sekali,
+Uf6522bda42,Kereta Cepat Whoosh Tegalluar,±setahun lalu,3.0,id,0,Akses jalan & macet,negatif,informasi_kurang,False,Jalurnya kurang informatif bikin muter2 diseputar area stasiun,
+Ube5d5cb839,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Akses jalan & macet,negatif,macet,False,akses kesini harus melewati jalan padat dan kadang macet,
+Uaac69b861c,Tegalluar Summarecon,≤ 11 bulan terakhir,2.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,Kurangnya pintu tol yang menuju timur,
+Ubf65139224,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,Akses jalan nya coba di pikirkan lagi,
+Ubf65139224,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,0,Akses jalan & macet,negatif,macet;akses_jalan_buruk,False,"Selalu macet, ada gerbang tol ga bisa di pake",
+U77345bb22c,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Akses jalan & macet,negatif,informasi_kurang,False,Krn google map nya ngaco akhirnya sampe nyasar ke desa Tegalluar,
+U77345bb22c,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Akses jalan & macet,negatif,informasi_kurang,False,memberi petunjuk yg jelas di jalan raya dr segala penjuru,
+U0daad28355,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Akses jalan & macet,negatif,macet,False,keluar dari sini macetnya minta ampun dan kapok,
+Ub819af6b49,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,4.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,Cuma akses jalan nya kacau,
+Ub819af6b49,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,4.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,masuk pintu TOL yg deket malah di tutup,
+U252dbe967a,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,Minusnya kesini akses yang masih belum ok.,
+U252dbe967a,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,Masih perlu lewar jalan jalan kecil dan cukup masuk ke dalam untun sampai dari kota.,
+U4c9a115de4,Stasiun Kereta Cepat Tegalluar,±setahun lalu,5.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,Akses nya lewat jalan2 kecil,
+U99369d42c1,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,0,Akses jalan & macet,negatif,macet;akses_jalan_buruk,False,"malah terjebak macet,karena akses jalan sangat sempit dan sangat padat",
+U5f989a0163,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,4.0,id,0,Akses jalan & macet,negatif,macet,False,"Waspadai kemacetan lalu lintas yang parah, terutama di akhir pekan.",
+U7dc3feb53d,Tegalluar Summarecon,≤ 11 bulan terakhir,2.0,en,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,road to station is really bad!,
+U7dc3feb53d,Tegalluar Summarecon,≤ 11 bulan terakhir,2.0,en,0,Akses jalan & macet,negatif,akses_jalan_buruk;macet,False,They are with small roads with traffic,
+Uc5dcdeb136,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,4.0,id,0,Akses jalan & macet,negatif,akses_jalan_buruk,False,akses jalan cukup sempit,
+U368cad5538,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,1,Akses jalan & macet,netral,,False,"Kendaraan pribadi dapat melalui exit tol Gedebage, Jalan Cimencrang, atau Gedebage Selatan",
+U812e79a60c,Parkir Timur Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,1,Akses jalan & macet,netral,,False,Ada2 opsi: bisa lewat Al Jabbar dan Cibiru.,
+U69552706bf,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Akses jalan & macet,netral,,False,akses jalan harus lewat gbla/al jabar,
+Uc9bee64d5c,Tegalluar Summarecon,≤ 11 bulan terakhir,5.0,ja,0,Akses jalan & macet,netral,,True,この駅を起点に高速道路の出入り口ができ,konteks perkembangan kota; fakta pembangunan akses tol
+U33169a3279,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Akses jalan & macet,netral,,False,Sepertinya bakal ada akses tol langsung ke sini jg ya biar semakin mudah aksesnya,
+U1744fd78e2,Stasiun KCJB Tegalluar,±2 tahun lalu,5.0,id,0,Akses jalan & macet,netral,,False,jalan bisa melalui sumarecon gede bage,
+U1186da40f7,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Akses jalan & macet,netral,macet,True,paling enak keberangkatan siang tdk terlalu macet,tips waktu; tersirat macet di jam lain
+U812e79a60c,Parkir Timur Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,1,Akses jalan & macet,positif,,True,Bagi sy akses mudah sih tp blm tentu bagi yg lain.,akses mudah bagi penulis tapi di-hedge; aspek bisa juga KONEKTIVITAS_UMUM
+Udc7b08db41,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Akses jalan & macet,positif,,False,mudah dijangkau dekat ke Tol,
+U71eaa9a27f,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Akses jalan & macet,positif,,False,Akses mudah sudah ada jembatanya,
+Ud84a468d01,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,4.0,id,0,Akses jalan & macet,positif,,False,Jalan ini representatif dan bagus untuk roda 4.,
+U1467fd58e5,Tegalluar Summarecon,≤ 11 bulan terakhir,5.0,en,0,Akses jalan & macet,positif,,False,Road access is heavily optimized,
+Uce9027692f,Tegalluar Summarecon,≤ 11 bulan terakhir,5.0,id,0,Akses jalan & macet,positif,,False,Ga macet,
+U9c1103abfa,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Akses jalan & macet,positif,,False,Akses mudah dan cepat via bandung timur,
+U9576ef8b1f,Stasiun Kereta Cepat Tegalluar,±setahun lalu,5.0,id,0,Akses jalan & macet,positif,nyaman,True,"stasiun ini aksesnya sudah khusus ya, nyaman.",'akses khusus' ditafsirkan sebagai jalan akses khusus menuju stasiun
+U34c491bb51,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Akses jalan & macet,positif,,True,Jalanan enak,tidak jelas apakah jalan menuju stasiun atau pemandangan perjalanan
+Ua4281f193d,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,17,Angkot/opang,negatif,konflik_opang,False,ojek pangkalan melarang kami secara sepihak tidak boleh mengambil penumpang disitu,lainnya: opang melarang ojol mengambil penumpang
+Ua4281f193d,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,17,Angkot/opang,negatif,konflik_opang,False,ojek pangkalan daerah situ sudah sangat keterlaluan,
+U5e989d8794,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,3.0,id,17,Angkot/opang,negatif,konflik_opang,False,dilarang preman berkedok ojek pangkalan,opang seperti preman melarang ojol
+U1884fc7f91,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,15,Angkot/opang,negatif,konflik_opang,False,ADA OJEK PANGKALAN SEPERTI PREMAN,opang bersikap seperti preman
+U5efcb6a73a,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,15,Angkot/opang,negatif,konflik_opang,False,masih ada aja sih oknum2 ojek pangkalan yang ngelarang larang ojek online ambil penumpang,lainnya: opang melarang ojol
+U5efcb6a73a,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,15,Angkot/opang,negatif,konflik_opang,False,Masa sampe ada kerusuhan segala. Primitif banget,lainnya: konflik/kerusuhan opang
+U803f8b739b,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,12,Angkot/opang,negatif,konflik_opang,False,Waduh repot banget udah tiba2 ada opang yg nandain,opang mengintimidasi/menandai penumpang
+U90331cad09,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,9,Angkot/opang,negatif,pungli;konflik_opang,False,preman berkedok ojek pangkalan  berperilaku kasar dan maksa buat ganti ojek mereka,pemaksaan oleh opang
+U480463f794,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,9,Angkot/opang,negatif,konflik_opang,True,Klo preman sudah menguasai,"preman melarang ojol; diasumsikan ojek pangkalan/calo, tidak disebut eksplisit"
+U25429ffa9b,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,6,Angkot/opang,negatif,konflik_opang,False,sy sampai di cegat ama opang padahal sy cuma ngejemput saudara sy,lainnya: dihadang opang saat menjemput
+U2983900833,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,6,Angkot/opang,negatif,konflik_opang,False,terdapat opang sehingga ojol tidak diperbolehkan ngambil penumpang,opang melarang ojol mengambil penumpang
+U767fbf7aa6,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,4,Angkot/opang,negatif,konflik_opang,False,"Tukang ojek pangkalan harus di tertibkan, setiap ada ojek online diteriakin",lainnya: opang meneriaki/mengusir ojol
+U767fbf7aa6,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,4,Angkot/opang,negatif,lainnya,False,"orang juga jadi males make ojek pangkalan, adab nya gaada",lainnya: perilaku opang tidak sopan
+U6bb5fc367c,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,4,Angkot/opang,negatif,konflik_opang,False,karena diberhentikan oleh ojek pangkalan setempat,opang menghentikan ojol
+U6616c66c5b,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,3.0,id,2,Angkot/opang,negatif,konflik_opang,False,bukan untuk opang saja,monopoli opang
+Ua19a549aa3,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,2,Angkot/opang,negatif,konflik_opang,False,Ojek pangkalannya rasa premanisme,lainnya: premanisme/intimidasi opang
+U371d66e562,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,en,2,Angkot/opang,negatif,konflik_opang,False,"the local Ojek pangkalan, who's not allowing other bike taxi coming in",lainnya: opang melarang ojol masuk
+U5359eecae0,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,2,Angkot/opang,negatif,tidak_tersedia,False,Sangat minim akses kendaraan umum trayek (tdk ada angkot/bus umum),
+Uadcaf1ea5b,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,2,Angkot/opang,negatif,lainnya,True,sekarang malah nambah taxi asongan:(,lainnya: taksi asongan/informal; bisa juga TAKSI
+U7f40b3a2da,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,1,Angkot/opang,negatif,konflik_opang,False,harus pesan opang disana,terpaksa pakai opang
+U82fde303d6,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,1,Angkot/opang,negatif,konflik_opang,False,Tertibin dong opangnya,opang tidak tertib/intimidasi ojol
+Ueb55bc900e,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,1,Angkot/opang,negatif,konflik_opang,False,karena ada ojek pangkalan,opang menghalangi ojol
+U6d64748862,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,0,Angkot/opang,negatif,konflik_opang,False,Harus di aman kan opank,opang perlu ditertibkan
+U7f3e9b7105,Kereta Cepat Whoosh Tegalluar,±2 tahun lalu,4.0,id,0,Angkot/opang,negatif,konflik_opang,False,"si bapak ojol nya dimarahin diancam sampe mau dipukul sama ojek yang mangkal disitu,kaya preman maksa",opang mengancam ojol
+Uea1a72ccef,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,0,Angkot/opang,negatif,pungli;konflik_opang,False,kita d paksa pakai opang..lagi2 aksi premanisme,
+U1b9549af10,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Angkot/opang,negatif,pungli;konflik_opang,False,OPANG NYA SUKA BERHENTIIN MINTAIN DUIT,
+Uc7938671b5,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,1,Angkot/opang,netral,,False,"Ada juga taxi meteran, taxi online dan ojek tradisional.",
+Ud00ed39e15,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,2,Feeder/bus,negatif,tidak_tersedia,False,perlu ditambah alternatif moda transportasi lain seperti bus,
+Uc7938671b5,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,1,Feeder/bus,negatif,lainnya,False,DAMRI hanya melayani rute hingga ke Mall Sumarecon Ciluetih.,rute DAMRI terbatas
+U2448ec76d1,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Feeder/bus,negatif,lainnya,True,jangan mau di paksa naik blue bird dan DAMRI di puter puter,lainnya: dipaksa naik; tidak jelas apakah 'di puter puter' juga merujuk DAMRI
+U125cea3f49,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Feeder/bus,negatif,tidak_tersedia,False,Mohon diperbanyak lagi untuk angkutan fedeernya.,
+U99369d42c1,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,0,Feeder/bus,negatif,tidak_terintegrasi,False,kendaraan umum ada bis tp sangat tidak terintegrasi,bus tidak terintegrasi
+U803f8b739b,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,12,Feeder/bus,netral,,False,Buat yang gak pake online bisa pakai shuttle damri sampai stasiun gede bage.,
+U2d9dab0ccf,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,3,Feeder/bus,netral,,False,bus pengumpan ke dan dari Stasiun Bandung juga tersedia dengan harga Rp15.000 per orang untuk perjalanan sekitar 60 hingga 75 menit ke pusat kota Bandung,
+Ua5f26651f3,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,2,Feeder/bus,netral,,False,Ada tersedia transport ke kota menggunakan Damri dan Blue Bird.,
+U020bd426f9,Stasiun KCJB Tegalluar,±2 tahun lalu,5.0,id,2,Feeder/bus,netral,,False,ada beberapa moda transportasi yaitu Taxi atau Damri atau melalui shuttle KCIC yang disediakan disana,
+U368cad5538,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,1,Feeder/bus,netral,,False,sudah ada shuttle dari Damri menuju Gedebage dan Big Bird dari Summarecon,
+U75161a454b,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,en,1,Feeder/bus,netral,,False,There's a feeder bus here to summarecon area,
+Ue177f6fb6d,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,1,Feeder/bus,netral,,False,terdapat suttle damri ke mesjid al jabar seharga 15 rb,
+Uf4c032ca24,Kereta Cepat Whoosh Tegalluar,±2 tahun lalu,5.0,en,0,Feeder/bus,netral,,False,"Outside was bluebird taxis, shuttle bus and grab cars.",
+U7521b17a26,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,3.0,id,0,Feeder/bus,netral,,False,ada damri aja,
+U4a208fee4a,Tegalluar Summarecon,≤ 11 bulan terakhir,5.0,id,0,Feeder/bus,netral,,False,Disediakan bus berbayar jika ingin ke Kota Bandung,
+U429e230bcd,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Feeder/bus,netral,,False,meskipun sudah ada moda feeder yg bisa di akses,
+Ufd6996bcde,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Feeder/bus,netral,,False,Ada shuttle ke Summarecon Mal Bekasi dan Damri ke Alun-Alun Bandung,
+U5ec98c2808,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Feeder/bus,netral,,False,tersedia shuttle bus menuju pusat kota bandung,
+U9d5fecd5bd,Stasiun Kereta Cepat Tegalluar,±setahun lalu,5.0,id,0,Feeder/bus,netral,,False,Di pintu keluar shuttle dan beberapa driver menunggu penumpang,
+Uc87e7bd8ef,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Feeder/bus,netral,,False,Konektivitas bisa dengan damri dan taksi online.,
+U8a1fba7377,Kereta Cepat Whoosh Tegalluar,±2 tahun lalu,5.0,id,0,Feeder/bus,netral,,False,Ada free shutle dr stasiun ke Sumarecon mall,
+U1e5b5a6087,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Feeder/bus,netral,,False,ada bus suttle ke summarecon bandung,
+U0a377b5fac,Stasiun Kereta Cepat Tegalluar,±setahun lalu,5.0,id,0,Feeder/bus,netral,,False,Untuk melanjutkan perjalanan ada shuttle Bus.,
+U84b18c6fa9,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Feeder/bus,netral,,False,Hanya ada DAMRI sama taksi,
+Uc9bee64d5c,Tegalluar Summarecon,≤ 11 bulan terakhir,5.0,ja,0,Feeder/bus,netral,,False,スマレコンモールモール行きのバス有り,
+U34bbb1c10d,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Feeder/bus,netral,,False,Kalo mau ke kota ada DAMRI harga 15.000,
+Ua1f6e01946,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Feeder/bus,netral,,False,transportasi umum ada shuttle ke summarecon,
+Ued3a475a6e,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Feeder/bus,netral,,False,"Tersedia bus ke Summarecon, taxi bluebird, dan juga bus damri",
+Uee980c4eea,Stasiun KCJB Tegalluar,≤ 11 bulan terakhir,4.0,id,0,Feeder/bus,netral,,False,Halte bus berbayar tujuan ke pusat kota Bandung dan ke Summarecon Mall.,
+Ua08ffb1f72,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,2,Feeder/bus,positif,,False,Fasilitas angkutan umum sudah tersedia bis news damri melewati summarecon,
+U7f40b3a2da,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,1,Feeder/bus,positif,terintegrasi_baik,False,sudah enak karena terintegrasi dengan layanan damri,
+Ud8bc682c70,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,1,Feeder/bus,positif,mudah_didapat;tarif_wajar,False,"ada bus gratis ke Summarecon Mall Bandung, shuttle bus Damri ke pusat kota Bandung",
+Ub98919d31a,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Feeder/bus,positif,tarif_wajar,False,di sini nemu Shutle gratis ke Mall SMB atau Masjid Aljabbar,
+U39347eff97,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Feeder/bus,positif,tarif_wajar,False,Bisa naik bis Damri dgn harga 15 rb saja.,
+U270e7ffe7c,Stasiun KCJB Tegalluar,±setahun lalu,5.0,id,0,Feeder/bus,positif,,True,Taxi & Shuttle Bus,daftar di bawah 'fasilitas pendukung yang bagus'; bisa juga neutral
+U7365026c8b,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,zh,0,Feeder/bus,positif,mudah_didapat,False,有接駁巴士至萬隆市區，還算是方便,
+U2f0851b878,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Feeder/bus,positif,mudah_didapat,False,ternyata diluar sudah banyak bus dan shuttle buat akses ke luar lagi,
+U1467fd58e5,Tegalluar Summarecon,≤ 11 bulan terakhir,5.0,en,0,Feeder/bus,positif,terintegrasi_baik,False,"Dedicated shuttle services, including specialized Damri buses connecting to Metro Indah Mall and dedicated Summarecon shuttles running directly to Summarecon Mall Bandung, provide seamless first-mile and last-mile connectivity",
+U1a2109a51c,Kereta Cepat Whoosh Tegalluar,±setahun lalu,5.0,id,0,Feeder/bus,positif,tarif_wajar,False,"di st. Tegalluar ada bis Damri yang bisa turun di Braga, ongkosnya cuma bayar 15ribu aja",
+U67c568d89c,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Feeder/bus,positif,tarif_wajar,False,Hanya dengan 15 ribu rupiah Anda bisa naik bus Damri ke Alun-Alun Bandung,
+U9477bbf9df,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Integrasi jadwal,negatif,jadwal_tidak_sinkron;waktu_tunggu_lama,False,Ada bus DAMRI juga jadual nya gak sesuai dg jadual whoosh jd kudu nunggu lama.,
+Uc35a6a3a2e,Kereta Cepat Whoosh Tegalluar,±setahun lalu,2.0,id,0,Integrasi jadwal,negatif,waktu_tunggu_lama,False,waktu yang Anda bayarkan untuk dihemat terbuang percuma menunggu kereta reguler,
+U5987a5a874,Tegalluar Summarecon,≤ 11 bulan terakhir,5.0,id,0,Jarak & lokasi,campuran,lokasi_jauh,False,agak jauh tapi dekat dengan stadion gelora bandung lautan api,
+U480463f794,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,9,Jarak & lokasi,negatif,lokasi_jauh,False,"Jauh ke mana""",
+U9ef94e0241,Tegalluar Summarecon,±setahun lalu,5.0,id,4,Jarak & lokasi,negatif,lokasi_jauh,False,Letaknya di bandung selatan lumayan pinggiran kota,
+U2d9dab0ccf,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,3,Jarak & lokasi,negatif,lokasi_jauh,True,"jarak dari stasiun kereta lokal terdekat, yaitu Stasiun Cimekar",jarak ke stasiun KA lokal Cimekar; tidak ada aspek khusus KA lokal
+Ua5f26651f3,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,2,Jarak & lokasi,negatif,lokasi_jauh,False,"dari sini ke area sekitar Trans Studio Mall pakai mobil makan waktu 1,5 jam",
+U0070023d19,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,2,Jarak & lokasi,negatif,lokasi_jauh,False,lokasinya jauh dari bandung kota,
+U03e650be2e,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,2,Jarak & lokasi,negatif,lokasi_jauh,False,Tempatnya terpojok banget rasanya wkwkwk jauhhh dari ramainya kota.,
+Uf7114f9cbc,Tegalluar Summarecon,±setahun lalu,5.0,ja,1,Jarak & lokasi,negatif,lokasi_jauh,False,バンドン市内中心部からかなり離れており駅としての利便性は良く無い,
+Uefa97e117d,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,en,1,Jarak & lokasi,negatif,lokasi_jauh,False,albeit located a distance from the city center,
+U30eccfe500,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,1,Jarak & lokasi,negatif,lokasi_jauh,False,"karena terletak agak di pinggir kota, jadi agak sepi",
+U39347eff97,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,Stasiun yg agak terisolir dr peradaban,
+Ua097d524f2,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,Stasiun yg jauh.,
+U96b5f8e4e1,Stasiun Kereta Cepat Tegalluar,≤ 11 bulan terakhir,3.0,en,0,Jarak & lokasi,negatif,lokasi_jauh,False,the station located in the middle of rice fields,
+U4a208fee4a,Tegalluar Summarecon,≤ 11 bulan terakhir,5.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,Mungkin karena stasiun ini jauh dari Kota Bandung.,
+U9477bbf9df,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,Stasiun KCIC nya jauh dari mana²,
+U2a2cf55bd1,Tegalluar Summarecon,≤ 11 bulan terakhir,5.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,"Lokasinya agak terasing, dan jauh dari pusat kota",
+U427959e56a,Kereta Cepat Whoosh Tegalluar,±setahun lalu,4.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,lokasinya agak jauh dari pusat kota,
+Ufd6996bcde,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,Stasiun yg jauh dr mana2.,
+U9292f77624,Stasiun Kereta Cepat Tegalluar,±setahun lalu,4.0,en,0,Jarak & lokasi,negatif,lokasi_jauh,False,The Station are out of nowhere,
+U30b16f747d,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,1.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,jauh dari mana2,
+U800ddf2839,Kereta Cepat Whoosh Tegalluar,±setahun lalu,5.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,"Lokasi trrlalu jauh,harusnya di kota",
+Ud8039f8c34,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,meskipun agak jauh,
+Uad14e8902d,Kereta Cepat Whoosh Tegalluar,±2 tahun lalu,5.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,Lokasi agak jauh dari kota,
+Ud235d5956b,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,4.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,jauh dari pusat kota Bandung,
+U9db2caff58,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,Lokasinya cukup jauh dari pusat kota,
+U1ea71cbb50,Tegalluar Summarecon,≤ 11 bulan terakhir,3.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,lokasinya terpencil dari pusat kota,
+U366a1eabf2,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,agak jauj dari pusat kota bandung,
+U33169a3279,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,lokasinya jauh dr kota bandung,
+Uafa207dbf9,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,en,0,Jarak & lokasi,negatif,lokasi_jauh,False,Tegalluar station located quite far from Bandung city center,
+U9586bfbea2,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,lokasi agak jauh dari pusat kota.,
+U1744fd78e2,Stasiun KCJB Tegalluar,±2 tahun lalu,5.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,Jauh dari keramaian kota,
+U58b0e7a83b,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,4.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,Jauh dari peradaban hehe,
+U58b0e7a83b,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,4.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,cukup jauh lokasinya,
+U1186da40f7,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,lumayan juga sih jaraknya,
+U5f989a0163,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,4.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,Lokasi stasiun sangat jauh dari pusat kota.,
+Uf1c7994be9,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,akses cukup jauh dari jalan utama kota bandung,
+Uc5dcdeb136,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,4.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,cukup jauh dari pusat kota bandung,
+Uddc5c15eac,Tegalluar Summarecon,≤ 11 bulan terakhir,5.0,ja,0,Jarak & lokasi,negatif,lokasi_jauh,True,駅周辺には何もありません,'tidak ada apa-apa di sekitar stasiun' ditafsirkan sebagai lokasi terpencil
+U67c568d89c,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Jarak & lokasi,negatif,lokasi_jauh,False,letaknya agak jauh dari pusat kota Bandung,
+Udaa54b2d3a,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,4,Jarak & lokasi,netral,,False,berdekatan dengan stadion GBLA dan masjid Al-Jabbar,
+U020bd426f9,Stasiun KCJB Tegalluar,±2 tahun lalu,5.0,id,2,Jarak & lokasi,netral,,False,"Stasiun ini dekat dengan Stadion Gelora Bandung Lautan Api, dan Masjid Agung Al-Jabbar.",
+U4a07ac32a9,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,1,Jarak & lokasi,netral,,False,Stasiun KCIC baru di pinggir tol dan sawah.,
+U3f7dd07e57,Kereta Cepat Whoosh Tegalluar,±2 tahun lalu,5.0,id,1,Jarak & lokasi,netral,,False,stasiun dekat masjid Al Jabar sekitar 2 km,
+U5ec98c2808,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Jarak & lokasi,netral,,False,"dekat dengan masjid al jabbar dan stadion gbla, lokasinya di tengah sawah",
+U242f51a7ec,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Jarak & lokasi,netral,,True,Dekat GBLA,keterangan lokasi tanpa penilaian eksplisit; bisa positive
+Uf796ae0a0f,Kereta Cepat Whoosh Tegalluar,±setahun lalu,5.0,id,0,Jarak & lokasi,netral,,False,"Lokasinya dekat dengan Stadion Gelora Bandung Lautan Api, di kawasan Summarecon Bandung.",
+Ub455d9caa7,Tegalluar Summarecon,≤ 11 bulan terakhir,5.0,id,0,Jarak & lokasi,netral,,False,Lokasinya tepat di Wilayah Summareccon Bandung,
+U471acf4d95,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,en,0,Jarak & lokasi,netral,,True,"Close to GBLA, Sumarecon Residence.",keterangan lokasi deskriptif; bisa positive
+U19952062f1,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,en,0,Jarak & lokasi,netral,,True,High speed train station in near bandung,hanya deskripsi lokasi; ragu apakah relevan
+Ub090a85231,Stasiun Kereta Cepat Tegalluar,±setahun lalu,5.0,id,0,Jarak & lokasi,netral,,False,Dekat cilenyi,
+U3100abe862,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Jarak & lokasi,netral,,False,dekat dengan summarecon bandung,
+U252dbe967a,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Jarak & lokasi,netral,,False,"Posisinya ga jauh dari Stadion Gelora Bandung Lautan Api, dan kawasan Sumarecon Bandung.",
+U1744fd78e2,Stasiun KCJB Tegalluar,±2 tahun lalu,5.0,id,0,Jarak & lokasi,netral,,False,dekat dengan stadion gbla,
+U2ed1b8511a,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Jarak & lokasi,netral,,False,"Lokasi di bandung timur, dekat GBLA dan Al Jabbar.",
+Uc072ff620c,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Jarak & lokasi,netral,,False,keluar pintu stasiun langsung stadion GBLA,
+U7973beb561,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,1,Jarak & lokasi,positif,,False,"Tempatnya cukup strategis, dekat GBLA dan masjid Al Jabbar",
+U812e79a60c,Parkir Timur Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,1,Jarak & lokasi,positif,,False,Ternyata dekat dari rumah.,
+U25a192f520,Kereta Cepat Whoosh Tegalluar,±2 tahun lalu,5.0,id,1,Jarak & lokasi,positif,,False,Lokasinya strategis,
+Uc83568eb02,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,4.0,id,0,Jarak & lokasi,positif,,False,bisa turun disini buat yang rumahnya diarea bandung timur dan sekitarnya,
+Uf85def9c5a,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Jarak & lokasi,positif,,False,aksesnya deket ke masjid Al jabar dan stagion GBLA,
+U71eaa9a27f,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Jarak & lokasi,positif,,False,Demat dr GBLA dan Al Jabbar,
+U71eaa9a27f,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Jarak & lokasi,positif,,False,Yg kampungya di jatinangor cileunyi pangalengan rancaeke garut tasik mantablah,
+Uc87e7bd8ef,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Jarak & lokasi,positif,,False,Mau main ke masjid Al Jabbar bandung dekat..,
+U637a28c159,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Jarak & lokasi,positif,,False,Deket dari garut,
+U44aaac38ee,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,4.0,id,0,Jarak & lokasi,positif,,False,akses nya deket bgt Summarecon Bandung,
+U109179d001,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Jarak & lokasi,positif,,False,Daerah sekitar bandung timur gausah jauh” naik feeder ke st bandung kalau mau naik whoosh,
+U14b07864f3,Stasiun Kereta Cepat Tegalluar,±setahun lalu,5.0,id,0,Jarak & lokasi,positif,,False,disini paling dekat sama rumah teman,
+U5bf8c4f77a,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Jarak & lokasi,positif,,False,Tidak Terlalu Jauh Dari Tempat Tinggal Saya Dan Masih Bisa Dijangkau Dengan Waktu Yang Amat Cepat,
+U33169a3279,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Jarak & lokasi,positif,,False,"stasiun kc tegalluar ini deket banget ama rumah, tinggal naik motor 5 menit aja dah sampe",
+U85ed02a052,Kereta Cepat Whoosh Tegalluar,±setahun lalu,5.0,id,0,Jarak & lokasi,positif,,False,Lokasinya cukup strategis,
+U1467fd58e5,Tegalluar Summarecon,≤ 11 bulan terakhir,5.0,en,0,Jarak & lokasi,positif,,False,"The station serves as an essential hub for travelers heading toward eastern and southern Bandung, Gedebage, and neighboring regencies, bypassing central city traffic entirely.",
+Uab35db6f39,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,en,0,Jarak & lokasi,positif,,False,Nearest from Buah Batu,
+Uce9027692f,Tegalluar Summarecon,≤ 11 bulan terakhir,5.0,id,0,Jarak & lokasi,positif,,False,lebih deket ke kota bandung,
+U96e4fce174,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Jarak & lokasi,positif,,False,deket dari rumah,
+U1c2fa7ff1c,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Jarak & lokasi,positif,,False,lokasi strategis dekat dengan stadion BGBLA Bandung,
+U9dd3d5c34f,Stasiun Kereta Cepat Tegalluar,±setahun lalu,5.0,id,0,Jarak & lokasi,positif,,False,Mana stasiunnya deket,
+U71ea7962ba,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,en,0,Jarak & lokasi,positif,,False,It gets you closer to eastern bandung.,
+U1884fc7f91,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,15,Konektivitas umum,negatif,,False,kecewa dengan stasiun ini yang tidak memastikan kemudahan transportasi umum,
+U1884fc7f91,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,15,Konektivitas umum,negatif,,False,diberi kebijakan agar transportasi publik dipermudah dari dan ke stasiun ini,
+U1f680e70d9,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,6,Konektivitas umum,negatif,,False,perlu di tingkatkan lagi sarana ke pusat kota bandung,
+U9ef94e0241,Tegalluar Summarecon,±setahun lalu,5.0,id,4,Konektivitas umum,negatif,,True,Hanya aksesnya saja yang agak susah,'akses' bisa merujuk jalan atau transportasi umum
+U9ef94e0241,Tegalluar Summarecon,±setahun lalu,5.0,id,4,Konektivitas umum,negatif,,False,hanya konektivitas saja yang perlu diperhatikan,
+Udaa54b2d3a,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,4,Konektivitas umum,negatif,tidak_tersedia,False,Semoga kedepanya sistem transit ke transportasi lain diperbanyak lagi karena untuk saat ini masih minim sekali.,
+U2d9dab0ccf,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,3,Konektivitas umum,negatif,,False,keduanya tidak menawarkan akses yang mudah ke stasiun,
+U9fe60e0d1d,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,3.0,id,3,Konektivitas umum,negatif,tidak_tersedia,False,Transportasi menuju dan keluar dr stasiun tegalluar yg masih sangat terbatas,
+U6616c66c5b,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,3.0,id,2,Konektivitas umum,negatif,,False,akses transportasu keluar masuk kesitu nya susah,
+U5359eecae0,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,2,Konektivitas umum,negatif,lainnya,False,"Saran untuk yg berkendaraan umum, spare waktu 2 jam+ meskipun ini di dalam kota",waktu tempuh dengan kendaraan umum sangat lama
+Ud00ed39e15,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,2,Konektivitas umum,negatif,tidak_tersedia,False,tidak harus selalu mengandalkan kendaraan pribadi atau taksi untuk menuju ke stasiun ini,
+U7973beb561,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,1,Konektivitas umum,negatif,tidak_terintegrasi,False,sayang sekali belum terintegrasi dengan fasilitas transportasi umum yang lain,
+U368cad5538,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,1,Konektivitas umum,negatif,,False,Akses menuju stasiun masih perlu ditingkatkan.,
+U82fde303d6,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,1,Konektivitas umum,negatif,tidak_tersedia,False,"Stasiun elit, angkutan sulit",
+U4a07ac32a9,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,1,Konektivitas umum,negatif,tidak_tersedia,False,Perlu ditambah angkutan umum atau feeder.,
+Uc7938671b5,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,1,Konektivitas umum,negatif,tidak_tersedia,False,Akses transportasi umum masih sangat minim (kalau boleh dibilang tidak ada).,
+U7521b17a26,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,3.0,id,0,Konektivitas umum,negatif,tidak_tersedia,False,angkutan umum sulit,
+Ue8f6eb81eb,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,3.0,en,0,Konektivitas umum,negatif,,False,Bad for accessibility,
+U96b5f8e4e1,Stasiun Kereta Cepat Tegalluar,≤ 11 bulan terakhir,3.0,en,0,Konektivitas umum,negatif,,False,not well connected,
+U96b5f8e4e1,Stasiun Kereta Cepat Tegalluar,≤ 11 bulan terakhir,3.0,en,0,Konektivitas umum,negatif,tidak_tersedia,False,little real public transport connections,
+U367c2fc674,Kereta Cepat Whoosh Tegalluar,±setahun lalu,3.0,id,0,Konektivitas umum,negatif,,False,akses nya belum baik,
+U427959e56a,Kereta Cepat Whoosh Tegalluar,±setahun lalu,4.0,id,0,Konektivitas umum,negatif,,True,kalau nggak naik shuttle atau taksi agak ribet,menyiratkan opsi selain shuttle/taksi sulit; shuttle/taksi sendiri tidak dinilai
+U429e230bcd,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Konektivitas umum,negatif,tidak_tersedia,False,Hanya untuk pencapaian kesini masih terbatas transportasi nya,
+U5ec98c2808,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Konektivitas umum,negatif,tidak_tersedia,False,pilihan transportasi lanjutan tidak sebanyak stasiun padalarang,
+U7ed1b50c69,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Konektivitas umum,negatif,tidak_tersedia,False,akses transportasi umumnya ga ada,
+U9824517812,Stasiun Kereta Cepat Tegalluar,±setahun lalu,4.0,en,0,Konektivitas umum,negatif,,False,the access is not quite good,
+U9292f77624,Stasiun Kereta Cepat Tegalluar,±setahun lalu,4.0,en,0,Konektivitas umum,negatif,tidak_tersedia,False,isn't easy to reach except with your own car/bike,
+Uf14bb14a58,Tegalluar Summarecon,≤ 11 bulan terakhir,4.0,id,0,Konektivitas umum,negatif,,False,Transportasi ke luar sulit,
+U168d7df2a0,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,1.0,id,0,Konektivitas umum,negatif,,False,Akses yang sangat buruk,
+U84b18c6fa9,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Konektivitas umum,negatif,tidak_tersedia,False,Akses keadaan umum masih sulit,
+Ueb6a2a1b53,Stasiun Kereta Cepat Tegalluar,±setahun lalu,1.0,id,0,Konektivitas umum,negatif,tidak_tersedia,False,Masih minim kendaraan umum.,
+Ueb6a2a1b53,Stasiun Kereta Cepat Tegalluar,±setahun lalu,1.0,id,0,Konektivitas umum,negatif,tidak_tersedia,False,Harusnya juga ada yang ke Jatinangor urgent banget,
+U34bbb1c10d,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Konektivitas umum,negatif,,True,Kalo mau ke kota mending turun di Padalarang,aturan 'mending turun di Padalarang'; penilaian negatif tersirat
+U827cced409,Stasiun Kereta Cepat Tegalluar,±setahun lalu,5.0,id,0,Konektivitas umum,negatif,tidak_tersedia;tidak_terintegrasi,False,perlu diintegrasikan dg moda transum lebih banyak lg,
+U7e509cfb20,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,en,0,Konektivitas umum,negatif,tidak_tersedia,False,the public transport access is kinda limited,
+U04bd69e02d,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,1.0,id,0,Konektivitas umum,negatif,tidak_tersedia,False,Minim transportasi umum.,
+U930ee0473b,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Konektivitas umum,negatif,tidak_tersedia,True,akses hanya dijangkau oleh feeder,'hanya' menyiratkan keterbatasan moda; feeder tidak jelas bus atau kereta
+U77345bb22c,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Konektivitas umum,negatif,informasi_kurang;titik_jemput_membingungkan,False,di KCIC NYA bs dikasih petunjuk sprt arah keluar tempat cari taksi atau angkutan dll.,
+U2a55e52afc,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,0,Konektivitas umum,negatif,tidak_tersedia,True,Tolong dong sediain feeder juga akses dari tegal luar masa padalarang doang sih,'feeder' kemungkinan KA feeder (spt Padalarang); bisa juga FEEDER_BUS/PADALARANG
+U252dbe967a,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Konektivitas umum,negatif,tidak_tersedia,False,Sepertinya juga ga ada angkutan umum selain ojek dan taxi.,
+U99369d42c1,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,0,Konektivitas umum,negatif,,False,akses susah banget,
+U1a2109a51c,Kereta Cepat Whoosh Tegalluar,±setahun lalu,5.0,id,0,Konektivitas umum,negatif,tidak_tersedia,False,gue tiketnya turun di st. Tegalluar jadi gabisa naik feeder,
+Udaa54b2d3a,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,4,Konektivitas umum,netral,,False,Stasiun KA lokal terdekat dari lokasi adalah stasiun Cimekar.,
+U9d5fecd5bd,Stasiun Kereta Cepat Tegalluar,±setahun lalu,5.0,id,0,Konektivitas umum,netral,,True,Di pintu keluar shuttle dan beberapa driver menunggu penumpang,'driver' tidak jelas moda (ojol/taksi)
+Uc87e7bd8ef,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Konektivitas umum,netral,,False,Mau ke kota Bandung juga bisa.,
+U25a192f520,Kereta Cepat Whoosh Tegalluar,±2 tahun lalu,5.0,id,1,Konektivitas umum,positif,mudah_didapat,False,Akses ke Stasiun Tegalluar juga relatif mudah,
+Ud8bc682c70,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,1,Konektivitas umum,positif,mudah_didapat,False,Untuk akses dari dan ke stasiun ini sudah cukup lengkap,
+U21cd7940df,Stasiun Kereta Cepat Tegalluar,±setahun lalu,5.0,id,0,Konektivitas umum,positif,terintegrasi_baik,True,terintegrasi dengan baik,tidak jelas terintegrasi dengan apa; diasumsikan integrasi antarmoda
+U3a5f98e043,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,4.0,id,0,Konektivitas umum,positif,,True,akses cepat ke tempat lain,"bisa merujuk ke kereta, bukan akses lanjutan"
+U6392fad4ca,Stasiun Kereta Cepat Tegalluar,±setahun lalu,5.0,en,0,Konektivitas umum,positif,,True,access to go in and out is easy,"bisa berarti akses keluar-masuk area stasiun, bukan di dalam gedung"
+U1467fd58e5,Tegalluar Summarecon,≤ 11 bulan terakhir,5.0,en,0,Konektivitas umum,positif,mudah_didapat,False,supported by an extensive network of multi-modal surface transport and road access points,
+U9586bfbea2,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Konektivitas umum,positif,mudah_didapat,False,Banyak pilihan transportasi dari dan menuju ke stasiun Tegalluar.,
+U538266d5bf,Kereta Cepat Whoosh Tegalluar,±setahun lalu,5.0,id,0,Konektivitas umum,positif,,False,Akses sudah ada,
+Ued3a475a6e,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Konektivitas umum,positif,mudah_didapat,False,Aksesnya juga mudah kok,
+Ua4281f193d,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,17,Ojol,negatif,konflik_opang,True,berani membuat aturan sepihak untuk para ojol,lainnya: ojol dibatasi opang; ditulis dari sudut pandang pengemudi ojol
+U5e989d8794,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,3.0,id,17,Ojol,negatif,tidak_tersedia,False,sayang gojek dan grab ga bisa masuk,
+U1884fc7f91,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,15,Ojol,negatif,tidak_tersedia,False,banyak driver aplikasi ride-hailing yang tidak mau pickup dan mengantar penumpang ke stasiun ini,
+U5efcb6a73a,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,15,Ojol,negatif,konflik_opang,False,ngelarang larang ojek online ambil penumpang,lainnya: ojol dilarang menjemput
+U803f8b739b,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,12,Ojol,negatif,konflik_opang,False,kasian buat yang online udah dicegatin diwanti2 aja,ojol dicegat opang
+U90331cad09,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,9,Ojol,negatif,konflik_opang,False,"Jangan pernah kesini lewat jalan cimencrang, soekarno hatta pake ojek online",lainnya: ojol dihadang opang
+U480463f794,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,9,Ojol,negatif,tidak_tersedia,False,susah pesen Gojek karna driver online gak dibolehin ambil dan anter ke daerah sini,
+U9ad3561268,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,8,Ojol,negatif,konflik_opang,False,Sayang sekali ojek online tidak bisa (tidak boleh )ambil penumpang dari stasiun !!,lainnya: ojol dilarang menjemput
+U1f680e70d9,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,6,Ojol,negatif,tidak_tersedia,True,"Grab dan ojek online usah,",'usah' diasumsikan typo 'susah'
+U2983900833,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,6,Ojol,negatif,tidak_tersedia;konflik_opang,False,terdapat opang sehingga ojol tidak diperbolehkan ngambil penumpang haduh agak sulit ya,
+U6bb5fc367c,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,4,Ojol,negatif,tidak_tersedia,False,akses ke sini cukup sulit apabila menggunakan ojol,
+U9fe60e0d1d,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,3.0,id,3,Ojol,negatif,tidak_tersedia;konflik_opang,False,Masih banyak oknum preman yg melarang ojol masuk ke sini,preman melarang ojol masuk
+U6616c66c5b,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,3.0,id,2,Ojol,negatif,tidak_tersedia;konflik_opang,False,masa ojol dilarang masuk,
+Ua19a549aa3,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,2,Ojol,negatif,konflik_opang,False,Ojek online gak bisa masuk malah di cegat,lainnya: ojol dihadang/dilarang masuk
+U371d66e562,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,en,2,Ojol,negatif,konflik_opang,False,I was strongly intimidated by them when I ordered online taxi motorbike,lainnya: intimidasi saat pesan ojol
+U5359eecae0,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,2,Ojol,negatif,tidak_tersedia,False,non trayek (online taxi banyak menghindari),
+U7f40b3a2da,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,1,Ojol,negatif,tidak_tersedia,False,ojol saat ini belum bisa masuk,
+U82fde303d6,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,1,Ojol,negatif,tidak_tersedia;konflik_opang,False,ini ojol rata2 gak mau pada ambil takut sama opang,
+Ueb55bc900e,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,1,Ojol,negatif,tidak_tersedia,False,Akses kendaraan online susah,
+U31e3b92bde,Stasiun Kereta Cepat Tegalluar,±setahun lalu,5.0,id,1,Ojol,negatif,tarif_mahal,False,sebaiknya hati-hati dengan tarif nembak dari supirnya,
+U7521b17a26,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,3.0,id,0,Ojol,negatif,tidak_tersedia;tarif_mahal,False,"kalau pakai online jarak jauh banyak yang tidak mau, mau pun minta tambahan ongkos",
+U07d8892199,Stasiun Kereta Cepat Tegalluar,±setahun lalu,4.0,id,0,Ojol,negatif,tarif_mahal,False,gojek nya gamau lewat situ disuruh lewat depan jalur cileunyi dan nambah biaya,
+U0d12f163fb,Kereta Cepat Whoosh Tegalluar,±2 tahun lalu,4.0,id,0,Ojol,negatif,konflik_opang,True,Kalau ojek mau naikin penumpang dikejar kejar,diasumsikan ojol dikejar (oleh opang) saat menjemput; moda tidak eksplisit
+Uc31ab3510a,Kereta Cepat Whoosh Tegalluar,±2 tahun lalu,3.0,id,0,Ojol,negatif,tarif_mahal,False,Harga grabnya tidak sesuai dengan dengan harga yg di aplikasi,
+U7f3e9b7105,Kereta Cepat Whoosh Tegalluar,±2 tahun lalu,4.0,id,0,Ojol,negatif,tidak_tersedia;konflik_opang,False,dilarang pake ojek online oleh ojek pangkalan disitu,
+Uea1a72ccef,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,0,Ojol,negatif,tidak_tersedia,False,tranportasi online aj gak bs masuk,
+Ube5d5cb839,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Ojol,negatif,waktu_tunggu_lama,False,Pesan Go-Ride atau Grab-Bike agak lama dapatnya.,
+U87992a2b93,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,1.0,en,0,Ojol,negatif,,False,Grab? Should be removed.,
+U87992a2b93,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,1.0,en,0,Ojol,negatif,lainnya,False,Incompetent driver here on Whoosh Tegalluar,lainnya: pengemudi tidak kompeten
+U87992a2b93,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,1.0,en,0,Ojol,negatif,tarif_mahal,False,you will pay EXPENSIVE price to get a quick one,
+U87992a2b93,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,1.0,en,0,Ojol,negatif,waktu_tunggu_lama,False,"you need to wait 15-20min on app to get regular price, just to get cancelled",
+U99369d42c1,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,0,Ojol,negatif,tidak_tersedia;konflik_opang,False,Ojol gak berani masuk sepertinya takut dg preman setempat,
+U2983900833,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,6,Ojol,netral,,False,taksi online masih bisa,
+U2d9dab0ccf,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,3,Ojol,netral,,False,Selain taksi dan taksi online,
+Uc7938671b5,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,1,Ojol,netral,,False,"Ada juga taxi meteran, taxi online dan ojek tradisional.",
+U75161a454b,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,en,1,Ojol,netral,,False,online driver pickup (bike or car),
+Uf4c032ca24,Kereta Cepat Whoosh Tegalluar,±2 tahun lalu,5.0,en,0,Ojol,netral,,False,"Outside was bluebird taxis, shuttle bus and grab cars.",
+U9477bbf9df,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Ojol,netral,,False,pesan Go-Jek,
+U07d8892199,Stasiun Kereta Cepat Tegalluar,±setahun lalu,4.0,id,0,Ojol,netral,,False,"Tips pesan ojol motor arah timur (cicalengka, paramon, nagreg) pakai grab biar lewat depan jalur cileunyi",
+Uc87e7bd8ef,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Ojol,netral,,False,Konektivitas bisa dengan damri dan taksi online.,
+U9db2caff58,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Ojol,netral,,False,saya ke sini via angkutan online,
+U026238b9f5,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Ojol,netral,,False,Begitu Turun Dari GrabCar,
+Ud7836e40de,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,1,Ojol,positif,mudah_didapat,False,Sekarang pesen gocar grabbcar indriver maxim bebas di kcic tegaluar bisa di lobby atau di  bunderan dekat parkiran bebas pic up,
+Ud7836e40de,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,1,Ojol,positif,mudah_didapat,False,24jam online tersedia,
+Ud8bc682c70,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,1,Ojol,positif,mudah_didapat,False,Taksi & ojek online yg udah standby di area drop off,
+U2448ec76d1,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Ojol,positif,mudah_didapat,False,sudah banyak taksi online gocar grabcar indriver Maxim car,
+Ufea265544f,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Ojol,positif,luas,False,tempat menunggu mobil/kendaraan online cukup besar dan rapih,
+U33169a3279,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Ojol,positif,mudah_didapat,False,enak turun di sini tinggal naik ojek online kelar deh,
+Ua1f6e01946,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Ojol,positif,mudah_didapat,False,untuk taksi dan taksi online semua provider bisa dipesan,
+U78bca3dd3c,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Ojol,positif,mudah_didapat,False,turun pesen gocar langsung dapet,
+U39347eff97,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Padalarang (KA feeder),negatif,tidak_tersedia,False,"Kereta feeder sdh tdk operasional smp stasiun ini, hanya smp St. Padalarang saja.",
+Uc35a6a3a2e,Kereta Cepat Whoosh Tegalluar,±setahun lalu,2.0,id,0,Padalarang (KA feeder),negatif,tidak_tersedia,False,"Anda tidak mendapatkan akses ke kereta penghubung, itu sangat disayangkan!",
+Ub0af6430d3,Stasiun Kereta Cepat Tegalluar,±setahun lalu,5.0,id,0,Padalarang (KA feeder),negatif,macet,False,tidak seperti stasiun kereta cepat Padalarang yg rawan kemacetan,
+Uce9027692f,Tegalluar Summarecon,≤ 11 bulan terakhir,5.0,id,0,Padalarang (KA feeder),negatif,,True,Enakan di sini daripada di padalarang.,perbandingan: Tegalluar dinilai lebih baik daripada turun di Padalarang
+U30eccfe500,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,1,Padalarang (KA feeder),netral,,False,Penumpang lebih banyak yang naik turun di Stasiun Bandung yang diangkut feeder ke stasiun Padalarang.,
+Uc87e7bd8ef,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Padalarang (KA feeder),netral,,False,Kalau mau dapat feeder gratis turun di stasiun Padalarang.,
+U1a2109a51c,Kereta Cepat Whoosh Tegalluar,±setahun lalu,5.0,id,0,Padalarang (KA feeder),netral,informasi_kurang,False,untuk yang mau nyambung naik kereta feeder itu beli tiket yang tujuannya ke st. Padalarang ya,
+Ufaef45985b,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,4,Padalarang (KA feeder),positif,terintegrasi_baik,False,Mending beli tiket Padalarang halim via stasiun Bandung kota. Trus naik KA feeder. The best choice ini.,
+U2d9dab0ccf,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,3,Padalarang (KA feeder),positif,,True,sebagian besar penumpang memilih untuk turun di Stasiun Padalarang,"pernyataan preferensi penumpang, bukan penilaian langsung; dikaitkan dengan masalah akses Tegalluar"
+Uad72a48cf8,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,1,Padalarang (KA feeder),positif,,True,ga kepikiran kalau boleh pindah ke padalarang,penyesalan tidak pindah ke Padalarang (implisit)
+U015b150e38,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Padalarang (KA feeder),positif,terintegrasi_baik,False,Tinggal turun disambut sama kereta feeder ke stasiun Bandung,
+U7521b17a26,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,3.0,id,0,Padalarang (KA feeder),positif,,False,mending turun / naik dari padalarang,
+U4a208fee4a,Tegalluar Summarecon,≤ 11 bulan terakhir,5.0,id,0,Padalarang (KA feeder),positif,terintegrasi_baik;tarif_wajar,False,lebih baik turun di St. Padalarang lalu naik KA Feeder yang gratis hanya untuk penumpang Whoosh saja,
+U5ec98c2808,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Padalarang (KA feeder),positif,,False,pilihan transportasi lanjutan tidak sebanyak stasiun padalarang,
+Ua197eee0e6,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Padalarang (KA feeder),positif,terintegrasi_baik,True,kereta feeder di Padalarang juga sudah sangat matang dan sinkron,"ulasan umum Whoosh, tidak spesifik akses Tegalluar"
+U9f63b82266,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Padalarang (KA feeder),positif,terintegrasi_baik,False,ada KA Feedernya yg langsung terkoneksi jadi sangat memudahkan sekali,
+U34bbb1c10d,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Padalarang (KA feeder),positif,terintegrasi_baik,False,mending turun di Padalarang nanti ada kereta feeder sampe stasiun bandung,
+U33169a3279,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Padalarang (KA feeder),positif,terintegrasi_baik,False,org lebih milih turun di padalarang lalu lanjut naik feeder ke stasiun kota bandung,
+U1a2109a51c,Kereta Cepat Whoosh Tegalluar,±setahun lalu,5.0,id,0,Padalarang (KA feeder),positif,tarif_wajar,False,kalo bisa naik feeder gratis kenapa naik bis ya,
+Uee8e484cda,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,1,Parkir & antar-jemput,campuran,kapasitas_kurang,False,parkir untuk saat ini cukup tapi sepertinya perlu ditambah,kapasitas cukup tapi perlu ditambah
+U7973beb561,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,1,Parkir & antar-jemput,campuran,tarif_wajar;lainnya,False,Belum ada gate security untuk parkir walopun parkirnya masih gratis,lainnya: belum ada gate/keamanan parkir
+Uef9e15319e,Stasiun Kereta Cepat Tegalluar,±setahun lalu,5.0,id,0,Parkir & antar-jemput,campuran,luas;informasi_kurang,False,sebenernya parkir luas hanya Lom ada rambu parkir,
+Ub30af246f4,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,1.0,id,0,Parkir & antar-jemput,campuran,luas;lainnya,False,"Parkiran nya percuma luas tapi panas, dan kehujanan",lainnya: parkir tidak beratap (panas/kehujanan)
+U6251ab2ada,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Parkir & antar-jemput,campuran,luas;lainnya,False,parkiran motor luas hanya saja kurang rapih,lainnya: parkiran kurang rapi
+U9576ef8b1f,Stasiun Kereta Cepat Tegalluar,±setahun lalu,5.0,id,0,Parkir & antar-jemput,campuran,luas;lainnya,False,parkiran panas sih tp lumayan luas,parkiran panas
+U9ef94e0241,Tegalluar Summarecon,±setahun lalu,5.0,id,4,Parkir & antar-jemput,negatif,kapasitas_kurang,False,parkir juga ga terlalu luas,kapasitas parkir kurang
+Uadcaf1ea5b,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,2,Parkir & antar-jemput,negatif,lainnya,False,drop zone dipake parkir:(,lainnya: drop zone dipakai parkir
+Ua4e73e64b7,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,1,Parkir & antar-jemput,negatif,lainnya,False,sebaiknya untuk parkiran motor atau roda dua sebaiknya ada atap tertutup,parkir motor tidak beratap
+U44983c36a8,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,1,Parkir & antar-jemput,negatif,lainnya,False,mengenai parkiran mohon di kasih pembatas polisi tidur kotak buat ban,saran penambahan pembatas ban (wheel stopper) di parkiran
+U75161a454b,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,en,1,Parkir & antar-jemput,negatif,lainnya,True,theres no seating area on drop off zone,tidak ada tempat duduk di zona drop-off (antar-jemput); bisa dianggap fasilitas stasiun
+U2b75ea1dba,Tegalluar Summarecon,≤ 11 bulan terakhir,3.0,id,0,Parkir & antar-jemput,negatif,lainnya,True,penjaga parkir nya rada ngegas,sikap petugas parkir kasar; batas antara petugas (bukan konektivitas) dan layanan parkir
+Ua84c10c791,Tegalluar Summarecon,≤ 11 bulan terakhir,5.0,en,0,Parkir & antar-jemput,negatif,kapasitas_kurang,False,Needs more parking spaces,lainnya: kapasitas parkir kurang
+U5bc43c0220,Kereta Cepat Whoosh Tegalluar,±setahun lalu,1.0,id,0,Parkir & antar-jemput,negatif,tarif_mahal,False,"Biaya Parkirnya mahal untuk parkir inap, tidak ada lagi Tarif maximal, sudah dihapus.",
+U5bc43c0220,Kereta Cepat Whoosh Tegalluar,±setahun lalu,1.0,id,0,Parkir & antar-jemput,negatif,lainnya,False,mana gak ada atap,parkir tidak beratap
+U02170d128f,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,3.0,id,0,Parkir & antar-jemput,negatif,titik_jemput_membingungkan;informasi_kurang,False,"Signage utk pickup tidak jelas, cuma ada drop off.",
+U02170d128f,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,3.0,id,0,Parkir & antar-jemput,negatif,titik_jemput_jauh,False,Padahal dari gate arrival ke tempat parkir (saya jadinya parkir dulu karena tdk jelas) itu cukup jauh,
+U02170d128f,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,3.0,id,0,Parkir & antar-jemput,negatif,lainnya,False,Pintu di samping gate arrival pun juga ditutup padahal sangat ideal buat area penjemputan.,lainnya: pintu dekat arrival ditutup untuk penjemputan
+Uc9bdf40787,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Parkir & antar-jemput,negatif,kapasitas_kurang,False,parkiran mobil aga sempit,parkir sempit
+U0ae1f183fe,Kereta Cepat Whoosh Tegalluar,±2 tahun lalu,4.0,id,0,Parkir & antar-jemput,negatif,kapasitas_kurang,False,tempat parkir nya kurang luas,lainnya: kapasitas parkir kurang
+U0d12f163fb,Kereta Cepat Whoosh Tegalluar,±2 tahun lalu,4.0,id,0,Parkir & antar-jemput,negatif,lainnya,False,Spesial mobil berPlat khusus  bisa parkir sembarangan,parkir tidak tertib untuk mobil plat khusus
+U7ed1b50c69,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Parkir & antar-jemput,negatif,tarif_mahal,False,biaya parkir mahalllll banget,
+U630836396c,Stasiun Kereta Cepat Tegalluar,±setahun lalu,1.0,id,0,Parkir & antar-jemput,negatif,tarif_mahal;lainnya;kapasitas_kurang,False,"Parkirnya mahal, Tidak ada atap dan kecil",parkir tidak beratap dan kecil
+U34b635f8f4,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,ja,0,Parkir & antar-jemput,negatif,lainnya,True,送りと迎えの停車位置をわけ別の場所で乗り降りできると入口が混まないとおもう,saran memisahkan titik drop-off dan jemput (antar-jemput pribadi) karena pintu masuk padat
+Uf5c0e20653,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,1.0,id,0,Parkir & antar-jemput,negatif,tarif_mahal;lainnya,False,"drop off gak ada jalur keluar/puter balik khusus, alhasil lewat parkir bayar 3rb padahal GK parkir sama sekali lewat doang",area drop-off tanpa jalur keluar khusus sehingga pengantar harus bayar parkir
+U472f565b12,Stasiun Kereta Cepat Tegalluar,±setahun lalu,5.0,id,0,Parkir & antar-jemput,negatif,lainnya,False,Area parkir mobil/motor  cukup panas krn di ruang terbuka tanpa atap,"parkir tanpa atap, panas"
+Ueff5f250ba,Parkir Timur Stasiun Kereta Cepat Tegalluar,±setahun lalu,4.0,id,0,Parkir & antar-jemput,negatif,kapasitas_kurang,False,Parkir kurang luas.,
+Ueff5f250ba,Parkir Timur Stasiun Kereta Cepat Tegalluar,±setahun lalu,4.0,id,0,Parkir & antar-jemput,negatif,penuh,False,siang hari biasanya Selalu hampir penuh,
+Uec8c59c271,Kereta Cepat Whoosh Tegalluar,±setahun lalu,2.0,su,0,Parkir & antar-jemput,negatif,tarif_mahal,False,kenapa ga ada tarif parkir inap mobil.. reuwas mayar parkir mobil 3 hari,
+U8cbcd99f47,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,4.0,id,0,Parkir & antar-jemput,negatif,tarif_mahal,False,Parkiran mahal,
+U1ea71cbb50,Tegalluar Summarecon,≤ 11 bulan terakhir,3.0,id,0,Parkir & antar-jemput,negatif,lainnya,False,jangan lupa bawa kartu tap parkir karna minim menerima uang cash,lainnya: parkir minim menerima tunai
+U2b31b62dd3,Stasiun Kereta Cepat Tegalluar,±setahun lalu,4.0,id,0,Parkir & antar-jemput,negatif,kapasitas_kurang,False,Parkiran perlu lebih banyak,kapasitas parkir kurang
+U49b54d8996,Kereta Cepat Whoosh Tegalluar,±setahun lalu,1.0,id,0,Parkir & antar-jemput,negatif,lainnya,False,"parking gate-nya sering bermasalah sejak lama, tidak kunjung diperbaiki",lainnya: gate parkir sering rusak
+Uf4baf65e00,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,0,Parkir & antar-jemput,negatif,kapasitas_kurang,False,parkiran kecil,kapasitas parkir kecil
+Ue07c45c724,Parkir Timur Stasiun Kereta Cepat Tegalluar,±setahun lalu,4.0,id,0,Parkir & antar-jemput,negatif,lainnya,True,kasihan mobilnya... tempatnya puanass,lainnya: parkir panas; tersirat parkiran mobil
+U7e509cfb20,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,en,0,Parkir & antar-jemput,negatif,lainnya,False,the car parking lot also confusing,lainnya: tata letak parkir membingungkan
+U5d18fec0ee,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,1.0,id,0,Parkir & antar-jemput,negatif,lainnya,False,yaelah bayar parkir cash only kayak jaman batu aja,pembayaran parkir hanya tunai
+U7289fff3a8,Parkir Timur Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,0,Parkir & antar-jemput,negatif,kapasitas_kurang,False,Tolong parkirannya diperluas,lainnya: kapasitas parkir kurang
+U7289fff3a8,Parkir Timur Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,0,Parkir & antar-jemput,negatif,penuh,False,"kalau ada tamu vvip pasti parkiran membludak, cari parkir 40 menit sendiri",
+Ud1464a517b,Kereta Cepat Whoosh Tegalluar,±setahun lalu,3.0,id,0,Parkir & antar-jemput,negatif,tarif_mahal,False,trnyata dihitung nya perjam alhasil 3malam - 3hari setara dgn naik woosh lagi,
+U76fd673dfc,Parkir Timur Stasiun Kereta Cepat Tegalluar,≤ 11 bulan terakhir,1.0,id,0,Parkir & antar-jemput,negatif,kapasitas_kurang,False,udah mah parkirnya sempit,parkir sempit
+U76fd673dfc,Parkir Timur Stasiun Kereta Cepat Tegalluar,≤ 11 bulan terakhir,1.0,id,0,Parkir & antar-jemput,negatif,lainnya,False,parkirnya pada ngaco2 gada yg ngatur,"parkir tidak tertib, tidak ada pengatur"
+U3e99679a83,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,0,Parkir & antar-jemput,negatif,tarif_mahal,False,"Sy parkir motor dr jam 7 pagi sampe jam 7 malem kena 39rb, pdhal di pintu masuk jelas terpampang motor 1500 per jam.",
+U3e99679a83,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,1.0,id,0,Parkir & antar-jemput,negatif,lainnya,False,pintu keluar motor gak ada,tidak ada pintu keluar parkir motor
+U2cd2d64e21,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Parkir & antar-jemput,negatif,lainnya,False,parkirannya super panassss,lainnya: parkir panas/tidak teduh
+Ud50b2c2aac,Kereta Cepat Whoosh Tegalluar,±setahun lalu,5.0,id,0,Parkir & antar-jemput,negatif,lainnya,False,parkirnya terlalu jauh,parkir jauh dari stasiun
+Ud50b2c2aac,Kereta Cepat Whoosh Tegalluar,±setahun lalu,5.0,id,0,Parkir & antar-jemput,negatif,lainnya,True,Kucibg-kucingan parkir di drop off,parkir curi-curi di drop off karena parkiran jauh; sentimen tersirat
+Ubf80c501f1,Stasiun Kereta Cepat Tegalluar,±setahun lalu,2.0,id,0,Parkir & antar-jemput,negatif,tarif_mahal,False,Parkir inap tetep dihitung perjam walaupun menginap.,
+Ubf80c501f1,Stasiun Kereta Cepat Tegalluar,±setahun lalu,2.0,id,0,Parkir & antar-jemput,negatif,informasi_kurang,False,Info di website per malam 30 rb hoaks,
+U780e91a20b,Parkir Timur Stasiun Kereta Cepat Tegalluar,≤ 11 bulan terakhir,1.0,id,0,Parkir & antar-jemput,negatif,lainnya,False,kalo bisa ganti vendor parkir nya,pelayanan pengelola parkir buruk
+U1d2377cbf6,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,2,Parkir & antar-jemput,netral,,False,"Tempat parkir, dari arah jalan masuk, ke arah kanan, nanti keliatan parkiran nya.",
+U0897253469,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Parkir & antar-jemput,netral,,False,Parkir bisa di depan pintu masuk drop off.,
+Ua1bdb9e452,Stasiun Kereta Cepat Tegalluar,±setahun lalu,4.0,id,0,Parkir & antar-jemput,netral,,False,ada tempat parkir nya yang bisa di tinggal karena mau pulang pergi?,
+U2ed1b8511a,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Parkir & antar-jemput,netral,,False,Parkiran motor dan mobil ada.,
+Ua143ba6ca3,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,4,Parkir & antar-jemput,positif,,False,parkir ok lah lumayan,
+Udaa54b2d3a,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,4,Parkir & antar-jemput,positif,luas,False,parkiran cukup yang luas,
+U020bd426f9,Stasiun KCJB Tegalluar,±2 tahun lalu,5.0,id,2,Parkir & antar-jemput,positif,luas,False,parkir kendaraan tersedia banyak dan bagus serta bersih,
+Ua08ffb1f72,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,2,Parkir & antar-jemput,positif,luas,False,Parkir luas,
+Ua4e73e64b7,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,1,Parkir & antar-jemput,positif,tarif_wajar,False,Parkiran kendaraan nya gratis.,
+U25a192f520,Kereta Cepat Whoosh Tegalluar,±2 tahun lalu,5.0,id,1,Parkir & antar-jemput,positif,luas,False,Tersedia juga area parkir yang cukup luas untuk kendaraan pribadi,
+Uaea7958472,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,1,Parkir & antar-jemput,positif,luas,False,Tempat cukup luas baik tempat parkir,
+U98f2ae17fb,Stasiun Kereta Cepat Tegalluar,±setahun lalu,5.0,id,1,Parkir & antar-jemput,positif,luas,False,parkiran luas,
+Ue177f6fb6d,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,1,Parkir & antar-jemput,positif,luas,False,Parkiran motor dan mobil cukup luas,
+Uc83568eb02,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,4.0,id,0,Parkir & antar-jemput,positif,luas,False,tempat parkir luas,
+U49cb7faafe,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,4.0,id,0,Parkir & antar-jemput,positif,luas,False,area parkir cukup luas,
+Ud9ff098fa5,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Parkir & antar-jemput,positif,luas,False,Tempat parkir lumayan lah luas,
+Ufea265544f,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Parkir & antar-jemput,positif,luas,False,parkiran mobil dan tempat menunggu mobil/kendaraan online cukup besar dan rapih,
+U270e7ffe7c,Stasiun KCJB Tegalluar,±setahun lalu,5.0,id,0,Parkir & antar-jemput,positif,,False,Safety parking,
+U0a377b5fac,Stasiun Kereta Cepat Tegalluar,±setahun lalu,5.0,id,0,Parkir & antar-jemput,positif,luas,False,Parkir luas,
+Ub5638611c0,Kereta Cepat Whoosh Tegalluar,±setahun lalu,5.0,id,0,Parkir & antar-jemput,positif,,True,"Tempat parkirnya bagus, tapi tidak terlalu ramai","'tapi tidak terlalu ramai' ambigu, dibaca sebagai tidak padat"
+U8def2aada6,Stasiun Kereta Cepat Tegalluar,±setahun lalu,5.0,id,0,Parkir & antar-jemput,positif,luas,False,Parkir luas,
+Ueff5f250ba,Parkir Timur Stasiun Kereta Cepat Tegalluar,±setahun lalu,4.0,id,0,Parkir & antar-jemput,positif,tarif_wajar,False,Harga masih masuk akal kalau kendaraan mau ditinggal agak lama,
+Ub0af6430d3,Stasiun Kereta Cepat Tegalluar,±setahun lalu,5.0,id,0,Parkir & antar-jemput,positif,,True,Proses penjemputan mudah dan cepat,penjemputan diasumsikan antar-jemput pribadi; moda tidak disebut
+U1e0eafcf79,Kereta Cepat Whoosh Tegalluar,±setahun lalu,5.0,id,0,Parkir & antar-jemput,positif,luas,False,Parkiran luas,
+U1738716181,Stasiun Kereta Cepat Tegalluar,±setahun lalu,4.0,id,0,Parkir & antar-jemput,positif,,True,"Tempatnya praktis, ada parkiran",keberadaan parkir disebut dalam konteks pujian; bisa juga neutral
+Ued3a475a6e,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Parkir & antar-jemput,positif,tarif_wajar,False,Parkir nya juga gratis,
+Uad72a48cf8,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,1,Taksi,negatif,tidak_tersedia,False,banyak taksi yang nolak,
+U2448ec76d1,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Taksi,negatif,lainnya,False,jangan mau di paksa naik blue bird dan DAMRI di puter puter,lainnya: dipaksa naik & diputar-putar
+U2d9dab0ccf,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,3,Taksi,netral,,False,Selain taksi dan taksi online,
+Ua5f26651f3,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,2,Taksi,netral,,False,Ada tersedia transport ke kota menggunakan Damri dan Blue Bird.,
+U020bd426f9,Stasiun KCJB Tegalluar,±2 tahun lalu,5.0,id,2,Taksi,netral,,False,ada beberapa moda transportasi yaitu Taxi atau Damri atau melalui shuttle KCIC yang disediakan disana,
+Uc7938671b5,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,2.0,id,1,Taksi,netral,,False,"Ada juga taxi meteran, taxi online dan ojek tradisional.",
+U75161a454b,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,en,1,Taksi,netral,,False,bluebird taxi queue,
+Uf4c032ca24,Kereta Cepat Whoosh Tegalluar,±2 tahun lalu,5.0,en,0,Taksi,netral,,False,"Outside was bluebird taxis, shuttle bus and grab cars.",
+U9477bbf9df,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,4.0,id,0,Taksi,netral,,False,naik taksi Bluebird,
+U84b18c6fa9,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Taksi,netral,,False,Hanya ada DAMRI sama taksi,
+U34bbb1c10d,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Taksi,netral,,False,Bisa juga taxi,
+Ued3a475a6e,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Taksi,netral,,False,"Tersedia bus ke Summarecon, taxi bluebird, dan juga bus damri",
+U67c568d89c,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,0,Taksi,netral,,False,transportasi lanjutan seperti bus Damri dan taksi,
+Ud8bc682c70,Stasiun Kereta Cepat Tegalluar,±2 tahun lalu,5.0,id,1,Taksi,positif,mudah_didapat,False,taksi Bluebird,
+U270e7ffe7c,Stasiun KCJB Tegalluar,±setahun lalu,5.0,id,0,Taksi,positif,,True,Taxi & Shuttle Bus,daftar di bawah 'fasilitas pendukung yang bagus'; bisa juga neutral
+Ua1f6e01946,Kereta Cepat Whoosh Tegalluar,≤ 11 bulan terakhir,5.0,id,0,Taksi,positif,mudah_didapat,False,untuk taksi dan taksi online semua provider bisa dipesan,

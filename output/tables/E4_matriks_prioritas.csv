@@ -1,0 +1,11 @@
+aspek,total,n_negatif,net,dampak_rating_keluhan,kuadran
+Taksi,16,2,6.25,,Kekuatan minor (jarang & positif)
+Feeder/bus,40,5,15.0,-0.9652694610778253,Kekuatan minor (jarang & positif)
+Padalarang (KA feeder),18,4,44.44444444444444,,Kekuatan minor (jarang & positif)
+Akses jalan & macet,61,46,-62.295081967213115,-1.0025831010808273,PRIORITAS UTAMA (sering & negatif)
+Konektivitas umum,49,38,-59.183673469387756,-0.9094488188976346,PRIORITAS UTAMA (sering & negatif)
+Ojol,44,29,-50.0,-1.5633968729920789,PRIORITAS UTAMA (sering & negatif)
+Jarak & lokasi,73,36,-21.91780821917808,-0.016949854952333143,PRIORITAS UTAMA (sering & negatif)
+Parkir & antar-jemput,65,33,-20.0,-1.160504785427608,PRIORITAS UTAMA (sering & negatif)
+Integrasi jadwal,2,2,-100.0,,Pantau (jarang & negatif)
+Angkot/opang,24,23,-95.83333333333333,-2.036387959866213,Pantau (jarang & negatif)

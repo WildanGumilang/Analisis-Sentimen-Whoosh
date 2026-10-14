@@ -1,0 +1,2 @@
+# Dipasang di virtualenv terpisah (.venv-ls) agar dependensinya tidak bentrok.
+label-studio>=1.13
